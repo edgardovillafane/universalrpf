@@ -1,0 +1,20 @@
+Icons : 
+Location in Central Paris: 		map
+Carefree Holidays in Paris		mood
+Security					    supervised_user_circle	
+Best Rates				        euro_symbol	
+Zero Commissions			    attach_money
+Special Discounts			    money	
+Extra Services				    playlist_add
+Comfort				            mood		
+Car Park				        drive_eta
+
+Apartements
+Sleep well				                hotel		
+Feel like at home			            home		
+Cook like a French chef		            restaurant		
+We've thought of everything for you 	all_inclusive		
+Stay connected				            sync
+Cool down, if you need it		        ac_unit	
+Keep your car safe			                drive_eta
+

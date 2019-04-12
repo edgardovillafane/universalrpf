@@ -1,0 +1,686 @@
+{
+  "NAVBAR": {
+    "home": "BIENVENIDO",
+    "apartments": "APARTAMENTOS",
+    "conditions": "CONDICIONES",
+    "about-you": "SOBRE NOSOTROS",
+    "faq": "FAQ",
+    "contact": "CONTACTO"
+  },
+  "HOME": {
+    "title": "Apartamentos turísticos de lujo en el centro de París",
+    "main-card": "Ubicación perfecta en el centro de París, cerca de todo.",
+    "title-ap1": "Bastille Boutique Flat",
+    "price-ap1": "910€/semana",
+    "text-ap1": " Apartamento acogedor para 1-3 personas en el centro de París, al lado de la Bastilla y el Marais.",
+    "title-ap2": "Bastille Opera Apartment",
+    "price-ap2": "1495€/semana",
+    "text-ap2": " Elegante y espacioso, con confort excepcional en el centro de París cerca del Marais y Gare de Lyon. Garaje et balcón. "
+  },
+  "APARTMENTS": {
+    "title": "Ubicación perfecta en el centro de París.",
+    "subtitle": " Cuándo Ud. elija uno de nuestros apartamentos para sus vacaciones en París, puede disfrutar de su ubicación perfecta en el centro de París. Para más detalles, tarifas y reservas en linea, así que los avisos de nuestros clientes precedentes, haga click sobre la imagen arriba del apartamento en cuestion.",
+    "features": {
+      "location": {
+        "title": "Ubicación perfecta.",
+        "text": "Están ubicados en el barrio de la Bastilla, cerca de sus sitios más importantes, como el Louvre, Notre Dame o el Marais - uno de los barrios de moda, lleno de galerías, boutiques, restaurantes y bares."
+      },
+      "carefree": {
+        "title": "Tranquilidad",
+        "text": "A pesar de estar ubicados en el corazón de París, le permiten relajarse en un ambiente tranquilo después de un día lleno de visitas o trabajo. Cuando esté de vuelta en su casa parisina, Ud. pueda relajarse en un ambiente tranquilo y cómodo, como en su casa. Estamos a su disposición para todas sus preguntas antes de sus vacaciones y cuando llegue en el apartamento, nuestro representante le entrega las llaves y explica (en francés e inglés), cómo funcionan todos los aparatos y cómo dirigirse en nuestro barrio. Igual, está a disponible por teléfono durante toda su estancia. "
+      },
+      "security": {
+        "title": "Seguridad",
+        "text": "Antes de elegir su alojamiento para sus vacaciones en París, Ud. puede disponer de toda la información necesaria para su decisión en este sitio o, en caso de que tenga preguntas, le contestamos en 24 horas. Además, Ud. puede consultar las opiniones de nuestros huéspedes en varios sitios imparciales. Para su seguridad,un contrato de alquiler se establece al momento de la reserva, con todas las condiciones transparentes. Para el pago del alquiler, Ud. puede utilizar el sistema popular de Paypal con su tarjeta de crédito o por transferencia bancaria - siempre de manera segura y cómoda."
+      },
+      "best-rates": {
+        "title": "Mejores precios",
+        "text": "Cuándo Ud. reserva su apartamento turístico en París por este sitio, le garantizamos la mejor tarifa del alquiler. Alojarse en un apartamento en París también le sale más económico, ya que no haga falta de comer en restaurantes varias veces por día. "
+      },
+      "zero-commissions": {
+        "title": "Cero comisiones",
+        "text": "Si Ud. reserva su alojamiento en París directamente con nosotros por este sitio, Ud. no tiene que pagar ninguna comisión de intermediarios. Somos los dueños de los apartamentos para alquiler en este sitio, garantizándole las tarifas más económicas para sus vacaciones en París."
+      },
+      "special-discounts": {
+        "title": "Ofertas",
+        "text": "Siempre que haya un hueco excepcional en nuestro calendario de disponibilidades, le ofrecemos ofertas especiales aún más económicas. Consulte por favor el título  Ofertas en las tarifas del alquiler de cada uno de nuestros apartamentos."
+      },
+      "extra-services": {
+        "title": "Servicios personalizados para Ud.",
+        "text": " Para dar sus vacaciones en París aún más inolvidables, podemos ofrecerle servicios personalizados, como: (haga clic)"
+      },
+      "comfort": {
+        "title": "Comodidad",
+        "text": " Para que Ud. se siente bien casa en nuestros apartamentos, les hemos equipados con toda las instalaciones modernas como: (haga clic) "
+      },
+      "carpark": {
+        "title": "Estacionamiento",
+        "text": "En nuestros edificios tenemos un garaje a su disposición para estacionar su coche. Consulte por favor las tarifas en las páginas de cada apartamento y no se olvide reservarlo en mismo tiempo que el alquiler de su apartamento en París."
+      },
+      "footer": "Respete por favor que nuestros apartamentos son non-fumadores, excepto en la terraza de nuestro Bastille Opera Apartment.\n\n. No se admiten animales domesticos.",
+      "overview": {
+        "title": "Nuestros Apartamentos en París",
+        "subtitle": "VPara elegir entre nuestros apartamentos a alquiler en París, consulte esta comparación rápida. Para más información, las tarifas, disponibilidad y reservas, refiérase por favor a la página de cada apartamento.",
+        "table": {
+          "capacity": {
+            "label": "Capacidad máxima",
+            "ap1": "3 personas",
+            "ap2": "4 personas"
+          },
+          "size": {
+            "label": "Tamaño",
+            "ap1": "56m²",
+            "ap2": "80m²"
+          },
+          "bedrooms": {
+            "label": "Dormitorios",
+            "ap1": "1",
+            "ap2": "2"
+          },
+          "beds": {
+            "label": "Camas",
+            "ap1": "Cama doble + sofá-cama",
+            "ap2": "Cama doble ergonómica + sofá-cama"
+          },
+          "price": {
+            "label": "Tarifa/semana",
+            "ap1": "€ 990",
+            "ap2": "€ 1,595"
+          },
+          "minimum": {
+            "label": "Estancia mínima",
+            "ap1": "4 noches",
+            "ap2": "6 noches"
+          },
+          "internet": {
+            "label": "Internet, TV, Teléfono",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "kitchen": {
+            "label": "Cocina equipada",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "bathroom": {
+            "label": "Cuarto de baño de lujo",
+            "ap1": "Bañera con ducha",
+            "ap2": "Ducha italiana"
+          },
+          "air-conditioning": {
+            "label": "Aire acondicionado",
+            "ap1": "Aparato móvil (suplemento: €30/semana)",
+            "ap2": "Aparato fijo en el dormitorio"
+          },
+          "garage": {
+            "label": "Garaje",
+            "ap1": "30€/semana",
+            "ap2": "30€/semana"
+          }
+        }
+      }
+    }
+  },
+  "CONDITIONS": {
+    "title": "Condiciones de alquiler de nuestros apartamentos turísticos en París.",
+    "subtitle": "Para alquiler su apartamento turístico en el centro de París Ud. tiene la opción de efectuarlo según su preferencia en una de las maneras siguientes:",
+    "hint": "(2) por uno de varios sitios especializados en alquiler de apartamentos turísticos en París:",
+    "title-list": "(1) directamente en línea por este sitio",
+    "text1": "Consulte el calendario de disponibilidad del apartamento que Ud. prefiere y haga la reserva utilizando el formulario en la página correspondiente.",
+    "text2": "Le confirmamos su reserva dentro de 24 horas, a más tardar.",
+    "text3": "Para formalizar la reserva, se necesita un depósito de dos noches.",
+    "text4": "Tras esta formalización de reserva, si Ud. lo desea, le mandamos  el contrato de alquiler.",
+    "text5": "En caso de estancias superiores de una semana, un depósito adicional del 50% del alquiler se necesita un mes antes de la llegada.",
+    "text6": "Se completará el pago del alquiler en efectivos al momento de su llegada en el apartamento. En caso de estancias más largas que una semana, también se puede pagarlo una semana antes del inicio del alquiler.",
+    "text7": "Con la entrega de las llaves a su llegada se hará un depósito de € 500 / US$ 600 en efectivo en concepto de seguro. Lo recuperará el día de su salida tras la verificación del estado del piso y sus pertenencias, conforme a su estado original en el momento de la llegada.",
+    "text8": "Los pagos de vuestro alquiler de nuestros apartamentos turísticos en París se pueden efectuar de manera segura y fácil a través de transferencia bancaria internacional o por PayPal con su tarjeta de crédito. ",
+    "text9": "En caso de cancelación, el depósito de reserva ya pagada será retenido, a menos que solo quiera cambiar las fechas de la estancia.",
+    "hint-footer": "Consulte por favor las tarifas, condiciones e instruccionesde reserva en el sitio respectivo."
+  },
+  "ABOUT-US": {
+    "title": "¿Por qué elegir uno de nuestros apartamentos turísticos en París?",
+    "subtitle": "Alojándose en uno de nuestros apartamentos turísticos en París, pasará su estancia en París en una de nuestras proprias casas en París. ",
+    "text": "Esto significa que disponen de todas las comodidades y la atención por el detalle que se espera en un hogar de una persona. Los hemos decorado satisfaciendo nuestros gustos personales: modernos, cómodos y elegantes. Gracias a nuestra larga experiencia en la industria de la hospitalidad, conocemos las necesidades de los viajeros y haremos todo lo posible para satisfacerlas. \n Contacto directo con los dueños, sin intermediarios. \n Seguridad y tranquilidad para Ud. en forma de opiniones imparciales, contrato del alquiler firmado por ambos partes y pagos seguros. ",
+    "list":{
+      "text1": "Contacto directo con los dueños, sin intermediarios ",
+      "text2": "Seguridad y tranquilidad para Ud. en forma de opiniones imparciales, contrato del alquiler firmado por ambos partes y pagos seguros.",
+      "text3": "Servicios personalizados para satisfacer a sus necesidades individuales.",
+      "text4": "Vacaciones o estancia profesional en París sin problemas."
+    }
+  },
+  "FAQ": {
+    "title": "Preguntas Frecuentes (FAQ) sobre nuestros apartamentos en París.",
+    "subtitle": "Haga clic en la categoría que le más interesa para ver las preguntas por nuestros huéspedes anteriores y nuestras repuestas.",
+    "category": {
+      "amenities": "INSTALACIONES",
+      "arrivals": "LLEGADA Y SALIDA",
+      "reservations": "RESERVAS Y CANCELACIONES",
+      "payments": "PAGOS",
+      "surroundings": "UBICACIÓN Y ACCESO"
+    },
+    "amenities": {
+      "question1": {
+        "question": "Somos jubilados y tenemos algunos problemas con las escaleras. ¿Es fácil acceder a la vivienda? ¿Hay muchas escaleras?",
+        "answer": "Cada uno de nuestros apartamentos turísticos en París se encuentra en un moderno edificio con ascensor. Desde el nivel de la calle, solo hay un par de pequeños escalones para llegar hasta el ascensor."
+      },
+      "question2": {
+        "question": "¿Disponen de un aparcamiento?",
+        "answer": "Sí, hay un aparcamiento en el edificio con un espacio asignado a nuestro apartamento (ver tarifas del apartamento)."
+      },
+      "question3": {
+        "question": "¿Hay secador?",
+        "answer": "Sí, hay un secador en nuestros departamentos para alquiler en París. También encontrará un espejo de maquillaje en el baño."
+      },
+      "question4": {
+        "question": "¿Está incluida la ropa de cama en el alquiler?",
+        "answer": "Sí, el precio del alquiler incluye las sábanas para el número de personas reservadas, así como toallas. Si necesita otras durante su estancia, por favor póngase en contacto con nosotros (suplemento)"
+      },
+      "question5": {
+        "question": "¿Está el apartamento en buena condición y perfectamente limpio?",
+        "answer": "Nos sentimos muy orgullosos de ofrecer apartamentos turísticos en París que se encuentran en un buen estado y limpios a su llegada. Sin embargo, en caso de que Ud. encontrase que nuestro personal de limpieza pueda haber omitido algo, por favor avísenos inmediatamente, para que podamos corregir la situación para Ud."
+      },
+      "question6": {
+        "question": "Tenemos dos niños de 4 y 9 años. ¿Es el apartamento apto para nosotros?",
+        "answer": "Con toda honestidad, nuestros apartamentos turísticos en París no son la opción ideal para familias con niños pequeños, debido a algunos bordes afilados y muebles de vidrio frágil. Sin embargo, si Ud. piensa que sus hijos se comportan bien y que está dispuesto a asumir la responsabilidad por daños y perjuicios eventuales, por supuesto, pueden quedarse en nuestro apartamento."
+      },
+      "question7": {
+        "question": "Vamos a viajar con nuestro bebé de 6 meses. ¿Ofrece Ud. instalaciones especiales para ella?",
+        "answer": "Desgraciadamente, no tenemos cunas u otros equipos para bebés."
+      },
+      "question8": {
+        "question": "Nos encantan las fotos y la descripción de sus pisos. ¿Podemos hacer una reserva para 4 adultos?",
+        "answer": "El Apartamento Bastille Opera es suficientemente amplio para cuatro adultos. Cuenta con dos camas dobles: uno en el dormitorio principal, y otro, que es un sofá cama convertible en el estudio que se puede separar del salón por una puerta corredera de cristal. En el Bastille Boutique Flat, el sofá cama solo mide 140 cm de anchura, lo que puede ser un poco estrecho para dos adultos. Por tanto lo recomendamos para un máximo de 3 adultos."
+      },
+      "question9": {
+        "question": "¿Hay teléfono, para llamar a casa?",
+        "answer": "Yes, Sí, se puede llamar a su casa con el teléfono en el apartamento con la frecuencia que desee, pero solo a números fijos (números móviles excluidos) en los más de 100 países autorizados, incluyendo los países de la Unión Europea, América del Norte, y la mayoría de los países suramericanos. Para obtener una lista completa de las destinaciones, por favor póngase en contacto con nosotros. can call using the phone in the phone in the apartment to fixed numbers in over 100 countries, including European Union, North America, Japan and Brazil. For a complete list of authorised destinations, please contact us."
+      },
+      "question10": {
+        "question": "¿Mi familia puede llamarme desde el extranjero al apartamento?",
+        "answer": "Sí, sin ningún problema. Hay un teléfono en nuestros apartamentos turísticos en París. Aproximadamente un mes antes de su viaje, le entregaremos su número en las instrucciones de llegada, para que Ud. pueda comunicarlo a su familia, antes de viajar a París."
+      },
+      "question11": {
+        "question": "¿Hay acceso a Internet?",
+        "answer": "Sí por supuesto, cada uno de nuestros apartamentos turísticos en París tiene una conexión inalámbrica a Internet de alta velocidad vía WiFi (WLAN), que le da acceso al e-mail e internet. En el apartamento Opera, también hay una impresora."
+      },
+      "question12": {
+        "question": "¿Hay aire acondicionado (A/C)? ",
+        "answer": "Es muy raro que haga tanto calor en París que se necesite de aire acondicionado. En nuestros apartamentos hay grandes ventanas con vistas a un jardín tranquilo, y se puede dormir tranquilo con las ventanas abiertas y disfrutar del aire fresco. En caso de que lo necesite, ponemos a su disposición las siguientes instalaciones: Bastille Boutique Flat: Aparato de aire acondicionado móvil (sobre ruedas) que se puede reservar con antelación (suplemento € 30/semana). Bastille Opera Apartment: El dormitorio principal cuenta con una unidad de aire acondicionado eficiente y silencioso. "
+      }
+    },
+    "arrivals": {
+      "question1": {
+        "question": "Nuestro vuelo aterriza en París muy temprano por la mañana. ¿A qué hora puedo disponer del apartamento?",
+        "answer": "Nuestras horas de check-in estándares en apartamentos turísticos en París son entre las 14.00 y las 20.00 horas. En función de otras reservas, por supuesto, haremos todo lo posible para acomodarle a horas tempranas, sobre todo después de un largo vuelo desde el extranjero. Como mínimo, tratamos de asegurarnos de que Ud. pueda dejar su equipaje en el apartamento por la mañana, y ir a tomar el desayuno en una cafetería cercana, mientras que la limpieza se esté terminando. Si desea garantizar el acceso a la vivienda inmediatamente después de su llegada, por favor pregunte por nuestras tarifas especiales para un check-in temprano. "
+      },
+      "question2": {
+        "question": "Nuestro tren Eurostar de Londres llega a París después de las 11 de la noche. ¿Puedo llegar al apartamento a la medianoche?",
+        "answer": "Nuestras horas de check-in estándares son entre las 14.00 y las 20.00 horas. Aunque no somos un hotel con su personal disponible las 24 horas del día, tratamos de acomodar estas horas excepcionales. Sin embargo, en este caso, le pedimos un suplemento para cubrir el trayecto en taxi a casa para la persona que le está esperando en el apartamento tan tarde. "
+      },
+      "question3": {
+        "question": "¿Pueden organizar un traslado privado del aeropuerto?",
+        "answer": "Podemos recomendar algunas agencias de transferencia fiables con la que Ud. puede reservar su coche."
+      },
+      "question4": {
+        "question": "¿Cómo recibo las llaves del apartamento?",
+        "answer": "Le encontraremos a su llegada al apartamento y le entregaremos las llaves, después de la verificación del pago de la cuota de alquiler y la firma del contrato del alquiler. Al mismo tiempo, le explicamos cómo funciona todo en el apartamento. Aproximadamente un mes antes de su llegada, le mandamos instrucciones detalladas para encontrar el apartamento.  "
+      },
+      "question5": {
+        "question": "¿Puedo invitar a mis amigos al apartamento?",
+        "answer": "El apartamento es su casa durante su estancia en París, y por supuesto, puede invitar a sus amigos durante el día. Tenga en cuenta, sin embargo, que como nos encontramos en un edificio residencial tranquilo, no se toleran ruidos después de las 22.00 de la noche, con el debido respeto a nuestros vecinos. Si usted desea tener invitados adicionales para dormir en el apartamento, por favor póngase en contacto con nosotros por adelantado, para tener la ropa de cama necesaria. En ningún caso se puede exceder la capacidad máxima del apartamento."
+      },
+      "question6": {
+        "question": "¿Tengo que limpiar el apartamento antes de desocuparlo al final de mi estancia?",
+        "answer": "Esperamos que usted deje el apartamento en un estado razonablemente limpio a su salida. Esto significa que, como mínimo, la basura ha sido retirada, los platos lavados y colocados en los armarios y que todos los muebles se quedan en buen estado en su lugar original. El pago de la limpieza final (véase más adelante) se refiere a los gastos de la lavandería y la limpieza a fondo entre los huéspedes. "
+      },
+      "question7": {
+        "question": "¿Ofrecen servicio de limpieza durante mi estancia?",
+        "answer": "Si desea un servicio de limpieza adicional o para cambiar su ropa de cama durante su estancia, póngase en contacto con nosotros (suplemento)."
+      },
+      "question8": {
+        "question": "¿Me pueden ayudar con la reserva de una excursión a los castillos del Loira, al final de mi estancia en París?",
+        "answer": "Le podemos aconsejar sobre diversas agencias de turismo, con la que Ud. puede reservar el tour que más le convenga."
+      },
+      "question9": {
+        "question": "¿Nos puede recomendar algunos buenos restaurantes cerca de sus apartamentos turísticos en París?",
+        "answer": "En el libro de la casa en su apartamento, se encuentra una lista de algunos de nuestros restaurantes favoritos en el barrio. Si desea reservar algunos restaurantes especiales antes de su llegada, le podemos ayudar con nuestras recomendaciones personales."
+      },
+      "question10": {
+        "question": "Nos encantaría ir a la Ópera durante nuestra estancia. ¿Nos puede ayudar con las reservas?",
+        "answer": "La famosa Ópera de París está ubicada a solo 10 minutos a pie desde el apartamento. Se puede reservar entradas por Internet, pero ¡dese prisa!"
+      },
+      "question11": {
+        "question": "Aunque no hablemos francés, ¿creen Uds. que podemos arreglárnoslas sin problemas en su apartamento turístico en París?",
+        "answer": "No se preocupe, ya que puede manejar toda la correspondencia de reservas en castellano, y la persona que le recibe a su llegada al apartamento habla perfectamente inglés. Además, podemos darle direcciones de transporte del aeropuerto y otros servicios turísticos, en los que no se necesite dominar el francés."
+      }
+    },
+    "reservation": {
+      "explanation": "Estas condiciones se aplican las reservas directas con nosotros</u>. En caso de que Ud. prefiera utilizar otro sitio para su reserva, consúltalo por favor para sus condiciones e instrucciones de reservas, pagos y cancelaciones.",
+      "question1": {
+        "question": "¿Podemos hablar por teléfono con respecto a algunos detalles de la vivienda?",
+        "answer": "Sí, por supuesto. Lo mejor es usar el enlace de contacto en el menú de arriba y mandarnos un mensaje con una hora sugerida (9.00-19.00 hora de París), cuándo podamos hablar."
+      },
+      "question2": {
+        "question": "¿Cómo puedo reservar el apartamento?",
+        "answer": "Solo hay que verificar en el calendario la disponibilidad del apartamento a alquiler para sus vacaciones en París, y si las fechas se muestran en verde, por favor envíenos una reserva. Una vez que hayamos confirmado la disponibilidad y el precio, se requiere un depósito de dos noches para garantizar su reserva."
+      },
+      "question3": {
+        "question": "¿Con cuánta anticipación tengo que reservar?",
+        "answer": "Se puede hacer una reserva hasta 12 meses antes de su viaje. Como se puede ver en el calendario de disponibilidad, durante las temporadas altas, muchos clientes suelen hacer su reserva hasta de 6 meses antes de su viaje. Por supuesto, siempre se puede comprobar en el calendario de disponibilidad, si el apartamento de su elección todavía queda disponible."
+      },
+      "question4": {
+        "question": "¿Cuándo se confirma la reserva?",
+        "answer": "Se confirma su reserva después de que hayamos recibido su depósito de reserva (2 noches). Tras la recepción de la misma, le mandamos su contrato de alquiler."
+      },
+      "question5": {
+        "question": "¿Puedo consultar el Contrato de Alquiler antes de hacer mi reserva?",
+        "answer": "Sí, por supuesto. Solo utilice el enlace de contacto en el menú de arriba y envíenos un mensaje solicitando un contrato de alquiler estándar (en inglés o francés)."
+      },
+      "question6": {
+        "question": "¿Qué ocurre si tengo que cancelar mi reserva?",
+        "answer": "Por favor avísanos lo más pronto posible de su cancelación de la reserva. n caso de cancelación, el depósito de reserva pagada será retenido, a menos que usted solo desee cambiar las fechas de su estancia. "
+      },
+      "question7": {
+        "question": "¿Hay un periodo de alquiler mínimo / máximo?",
+        "answer": "Bastille Boutique Flat: estancia mínima: 4 noches. astille Opera Apartment: estancia mínima: 7 noches. Para estancias más largas, por favor póngase en contacto con nosotros.  "
+      }
+    },
+    "payments": {
+      "question1": {
+        "question": "¿Cuándo tengo que pagar la cuota de alquiler?",
+        "answer": "Según nuestras condiciones generales de pago, se requiere un depósito de dos noches para asegurar una reserva, con otro 50% un mes antes y el saldo a la llegada al apartamento a más tardar. "
+      },
+      "question2": {
+        "question": "¿Cómo se paga el alquiler?",
+        "answer": "Los pagos de depósitos se pueden efectuar con seguridad y fácilmente por transferencia bancaria internacional (aceptando todos los cargos) o por PayPal utilizando su tarjeta de crédito, o en efectivos."
+      },
+      "question3": {
+        "question": "¿Puedo pagar con mi tarjeta de crédito Visa?",
+        "answer": "Desgraciadamente no disponemos de las instalaciones necesarias para aceptar tarjetas de crédito. Ud. puede, sin embargo, utilizar su tarjeta Visa o MasterCard pagando a través de PayPal en línea (véase más arriba)."
+      },
+      "question4": {
+        "question": "¿Puedo pagar con mi cheque personal?",
+        "answer": "Solo cheques franceses se pueden cobrar en Francia. Por lo tanto, no podemos aceptar pagos con un cheque extranjero."
+      },
+      "question5": {
+        "question": "¿Qué es el Depósito de Seguridad?",
+        "answer": "A su llegada necesitamos un depósito de garantía de € 500 / $ 600 en efectivo, para cubrir eventuales daños ​​al apartamento o su mobiliario durante su estancia. Este se reembolsa en su totalidad a su salida, a condición que nada falte o esté dañado y el apartamento se deje en condiciones similares a su llegada."
+      }
+    },
+    "surroundings": {
+      "question1": {
+        "question": "¿Está lejos de la Ópera?",
+        "answer": "La Ópera de París se encuentra justo en la plaza de la Bastilla, a unos 10 minutos a pie nuestros apartamentos turísticos en París. Esto sin embargo no se debe confundir con la antigua Ópera, también llamada Palacio Garnier que se utiliza para espectáculos de ballet."
+      },
+      "question2": {
+        "question": "Es la zona de la Bastilla de alrededor del apartamento en París seguro para caminar?",
+        "answer": "Sí, es una zona residencial animada, donde se puede caminar a cualquier hora sin problemas. Al mismo tiempo, le aconsejamos ejercer precaución normal ante posibles carteristas, como en cualquier gran ciudad."
+      },
+      "question3": {
+        "question": "¿Hay supermercados y tiendas de comestibles cerca de su apartamento en París?",
+        "answer": "Sí, se pueden encontrar grandes supermercados muy bien surtidos a solo un par de minutos a pie del apartamento, en que no se necesita hablar o comprender francés para conseguir hacer sus compras. Asegúrese de no perder la ocasión de visitar los famosos mercadillos callejeros parisinos con todos sus colores y sabores de productos frescos, muchos de ellos orgánicos y por supuesto, las panaderías cercanas para sus baguettes o croissants."
+      },
+      "question4": {
+        "question": "¿Cómo llegar al apartamento desde el aeropuerto?",
+        "answer": "Puede elegir una de las siguientes alternativas para llegar desde el aeropuerto hasta el apartamento para sus vacaciones en París, dependiendo de su presupuesto y del nivel de comodidad que desee: coche privado, taxi normal, servicio de transporte compartido, servicio de autobús hasta la estación Gare de Lyon, o el RER-tren hasta Gare du Nord, con transbordo al metro hacia la estación a unos minutos a pie del apartamento. Aproximadamente un mes antes de su llegada, le mandamos instrucciones detalladas con varias opciones."
+      },
+      "question5": {
+        "question": "¿A qué distancia se encuentra el acceso al transporte público?",
+        "answer": "París dispone de un sistema de transporte público excelente con varias formas de billetes y abonos. Desde el apartamento, se encuentra la parada del bus más cercana casi a la puerta del edificio, y la estación de metro más cercana a menos de 5 minutos a pie."
+      },
+      "question6": {
+        "question": "¿Cómo obtener un taxi?",
+        "answer": "En el Libro de la casa que se encuentra en nuestro apartamento turístico en París, hay instrucciones para reservar un taxi, ya sea por Internet, o por teléfono."
+      }
+    }
+  },
+  "CONTACT": {
+    "title": "Contacto",
+    "questions": "¿Preguntas?",
+    "sub-questions": "No dude en ponerse en contacto con nosotros para cualquier duda sobre su alquiler de departamento para sus vacaciones en París, utilizando el formulario abajo.",
+    "reservations": "Reservas",
+    "sub-reservations": "Para reservar uno de nuestros apartamentos turísticos en París, por favor utilice el formulario en la página correspondiente al apartamento.",
+    "sub-reservations2": "Para otras preguntas, por favor utilice el formulario abajo.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send-message": "Mandar mensaje",
+    "visit": "Visítenos en Facebook",
+    "other": "Consulte también nuestros otros apartamentos turísticos:"
+  },
+  "BOUTIQUE": {
+    "menu": {
+      "apartment": "APARTAMENTO",
+      "location": "UBICACIÓN",
+      "rates": "TARIFA",
+      "book": "RESERVAR",
+      "gallery": "GALERÍA",
+      "testimonials": "OPINIONES",
+      "video": "VIDEO"
+    },
+    "title": "Bastille Boutique Flat",
+    "main-text": {
+      "line1": "Apartamento encantador con toda la comodidad para garantizarle una estancia de maravilla en el centro de París.",
+      "line2": "Ubicado en lleno Paris, disfrute de su ubicación privilegiado en el corazón de París, al lado de la Bastilla y el Marais, con sus boutiques, galerías, cafés y restaurantes.",
+      "line3": "Perfecto para 1-3 personas, para sentirse bien en casa y relajarse después de un día lleno de actividades en París."
+    },
+    "features": {
+      "title": "Bastille Boutique Flat",
+      "subtitle": "Apartamento moderno de 56 m2 en el centro de París",
+      "down-subtitle": "En este apartamento de 56m² Ud. puede disfrutar de todas las instalaciones y el confort de la vida moderna, en un barrio con encanto en el centro de Paris, lleno de historia.",
+      "featrure1": {
+        "title": "¡Descanse!",
+        "text": "Después de un día de visitas de París relájese en el confort de su casa parisino, disfrutando de las vistas del cielo parisino y sobre su jardín tranquilo, lo que le permite dormir sin problemas con las ventanas abiertas en el sofá-cama o en el dormitorio adyacente."
+      },
+      "featrure2": {
+        "title": "¡Siéntese en casa!",
+        "text": "Cuándo esté de viaje, ¿qué mejor que relajarse y sentirse en casa después de todas las actividades visitando la ciudad? Siendo nuestra casa cuando estemos en París, lo hemos equipado y decorado con este objetivo, para su bienestar. Relájese por ejemplo en la gran bañera del cuarto de baño de lujo después de tanto caminar en las calles de París. También cuenta con dos lavabos, seca-toallas y una ducha de lluvia y otra manual. Aseo separado. Amplio vestidor para ordenar su ropa, zapatos y maletas"
+      },
+      "featrure3": {
+        "title": "¡Cocina como un chef francés!",
+        "text": "Uno de nuestros ocios favoritos es cocinar y por tanto, aquí se encuentra todo para preparar sus platos favoritos en la cocina de diseño moderno, con lavaplatos, vitrocerámica, horno, microondas, nevera y todos los utensilios de cocina y vajilla que pueda necesitar. "
+      },
+      "featrure4": {
+        "title": "¡Disfrute sus instalaciones modernas! ",
+        "text": "Edifico de lujo con portero y ascensor para subir con todas sus maletas. Calefacción central con agua caliente sin límite. Aire acondicionado disponible en caso de canícula (suplemento)."
+      },
+      "featrure5": {
+        "title": "¡Siga conectado!",
+        "text": "Aún lejos de casa, siga conectado con su familia y amigos en nuestro apartamento a alquiler en París. Gracias al internet inalámbrico de alta velocidad Ud. puede recibir y mandar sus correos electrónicos, reservar en línea su mesa en uno de los restaurante parisinos o verificar las exposiciones actuales en el Museo d'Orsay, por ejemplo. Igual, Ud. puede recibir y hacer llamadas con el teléfono gratis a todos los números fijos en más de 100 países. O si solo desea relajarse, escuche su música favorita en el radio o el Hifi, o mire la televisión o una película en el DVD. "
+      },
+      "featrure6": {
+        "title": "¡Controle la temperatura! ",
+        "text": "En París el invierno puede ser muy frio y por tanto, es importante que su apartamento tenga buena calefacción. Contrario a la mayoría de los edificios más antiguos, contamos con una calefacción central con agua caliente, sin límites. En verano, aquí se puede dormir con las ventanas abiertas, sin problemas. En un caso excepcional de canícula, tenemos un aparato de aire acondicionado móvil (suplemento € 30). "
+      },
+      "featrure7": {
+        "title": "¡Estacione su coche en seguridad!",
+        "text": "En caso de que Ud. venga a Paris con su coche, tenemos un garaje con acceso directo por ascensor (suplemento € 30)."
+      }
+    },
+    "location": {
+      "title": "Ubicación perfecta en el centro de París",
+      "main-text": {
+        "line1": "Aproveche su ubicación estupenda en un barrio con encanto en el centro de Paris, lleno de historia. En la Plaza de Bastilla que fue el escenario principal de la famosa Revolución Francesa, se encuentra la famosa Opera de París y en sus calles de alrededor, un sinfín de bares y restaurantes y todo tipo de tiendas. ",
+        "line2": "A menos de diez minutos a pie se encuentra una de las plazas más bonitas de París, la Plaza des Vosges del siglo XVI y a su lado el precioso Hôtel de Sully. Aquí empieza uno de los barrios más emblemáticos de París, el Marais, con sus boutiques de moda, galerías de arte, anticuarios y todo tipo de bares y restaurantes.",
+        "line3": "La parada del autobús está casi a sus pies cuando salga del apartamento y el bus 69 le lleva directamente a la Torre Eiffel o el Museo d'Orsay, por ejemplo. Igual, hay varios estaciones del metro muy cerca para moverse en París de manera más fácil. ",
+        "line4": "Para sus compras cotidianas, hay dos supermercados en frente del edificio y dos veces por semana, un mercado callejero muy animado con un surtido increíble de frutas y verduras, quesos, mariscos y pescados, carne, flores, etc."
+      }
+    },
+    "rates": {
+      "title": "Tarifas",
+      "subtitle": "Bastille Boutique Flat",
+      "price-table": {
+        "row1": {
+          "label": "Precio por semana",
+          "value": "€ 910"
+        },
+        "row2": {
+          "label": "Precio por noche",
+          "value": "€ 140"
+        },
+        "row3": {
+          "label": "Carga de limpieza final (obligatoria)",
+          "value": "€ 80"
+        },
+        "row4": {
+          "label": "Estancia mínima:",
+          "value": "4 noches"
+        }
+      },
+      "special-rates": {
+        "title": "Ofertas",
+        "row1": {
+          "label": "1 - 30 agosto 2019",
+          "value": "€ 810 por semana"
+        },
+        "row2": {
+          "label": "1 noviembre - 20 diciembre 2019",
+          "value": "€ 700 por semana"
+        },
+        "footer": "Para aprovechar esta oferta, menciónela en los comentarios de su reserva."
+      },
+      "price-includes": {
+        "row1": "La tarifa incluye:",
+        "row2": "Alojamiento para máximo: 4 personas ",
+        "row3": "Uso normal de las instalaciones del apartamento",
+        "row4": "Electricidad, agua caliente y calefacción central",
+        "row5": "nternet inalámbrico alta velocidad",
+        "row6": "Llamadas gratuitas a números fijos en más de 100 países (no incluye llamadas a móvil)",
+        "row7": "TV con acceso a canales de información en español",
+        "row8": "Sábanas y toallas para el número de personas reservadas",
+        "row9": "Disponibilidad del dueño/representante local a la llegada y por teléfono durante la estancia",
+        "row10": "Impuestos locales"
+
+      },
+      "suplements": {
+        "row1": "Suplementos (a reservar con antelación)",
+        "row2": "Servicio de limpieza adicional: € 50/2 horas.",
+        "row3": "Aparato de aire acondicionado móvil: € 30/semana<",
+        "row4": "Estacionamiento en el garaje: € 30/semana"
+      },
+      "rates-footer": "Haga clic aquí para nuestras condiciones de alquiler. "
+    },
+    "gallery": {
+      "title": "Galería de Fotos",
+      "subtitle": "Bastille Boutique Flat",
+      "instruction": "Haga clic para agrandar... y para volver atrás, otro clic.",
+      "legend": {
+        "pic1": "Salón acogedor con sofá-cama",
+        "pic2": "Salón",
+        "pic3": "Cama matrimonial en el dormitorio",
+        "pic4": "Cuarto de baño de lujo, con lavadora-secadora",
+        "pic5": "Bañera y ducha",
+        "pic6": "Entrada y la cocina",
+        "pic7": "Cocina totalmente equipada",
+        "pic8": "Esquina para desayunar",
+        "pic9": "Vista sobre jardin tranquilo",
+        "pic10": "Ubicación excelente a la Bastilla",
+        "pic11": "Compras al mercado callejero",
+        "pic12": "Compras al mercado callejero",
+        "pic13": "Compras al mercado callejero",
+        "pic14": "Compras al mercado callejero",
+        "pic15": "Bastille con el puerto de l'Arsenal "
+      }
+    },
+    "video": {
+      "title": "Video",
+      "subtitle": "Bastille Boutique Flat",
+      "instruction": "Haga clic abajo, para mirar un video corto sobre nuestro apartamento turístico en el centro de París: Bastille Boutique Flat"
+    },
+    "book": {
+      "title": "Reservar en línea",
+      "subtitle": "Bastille Boutique Flat",
+      "availability": "Calendario de disponibilidad",
+      "last-update": "Última actualización:",
+      "legend": "Clave:",
+      "available": "Disponible",
+      "reserved": "Ocupado",
+      "minimum": "Estancia mínima: 4 noches",
+      "form": {
+        "book-online": "Reservar en línea",
+        "name": "Nombre, Apellido",
+        "email": "E-mail",
+        "check-in": "Llegada",
+        "check-out": "Salida",
+        "adults": "Adultos: ",
+        "children": "Niños: ",
+        "comments": "Comentarios",
+        "send": "Enviar",
+        "sent-message": "Gracias por su reserva. Se la confirmamos dentro de 24 horas. "
+      },
+      "footer": "Licensia de Turismo de París N°: 7511100122122"
+    },
+    "testimonials": {
+      "title": "Opiniones",
+      "subtitle": "Bastille Boutique Flat- apartamento para alquiler en el centro de París",
+      "instruction": "¿Quién mejor para describir nuestro apartamento, que los huéspedes que ya se han alojado en él durante su estancia en París?",
+      "sub-instructions": "A continuación Ud. puede leer sus comentarios publicados en sus formas originales para su autenticidad. Si Ud. lo desea, puede fácilmente traducirlas con uno de los servicios de traducción en línea. También se pueden consultar directamente en uno de esos sitios:"
+    }
+  },
+  "OPERA": {
+      "menu": {
+        "apartment": "APARTAMENTO",
+        "location": "UBICACIÓN",
+        "rates": "TARIFA",
+        "book": "RESERVAR",
+        "gallery": "GALERÍA",
+        "testimonials": "OPINIONES",
+        "video": "VIDEO"
+      },
+      "title": "Bastille Opera Apartment",
+      "main-text": {
+        "line1": "Apartamento elegante y luminoso, ubicado en el corazón de París.",
+        "line2": "Decorado en estilo moderno con muebles y lustros de diseño y arte contemporáneo.",
+        "line3": "Aire acondicionado en el dormitorio, balcón acogedor y estacionamiento.",
+        "line4": "Perfecto para 1-4 personas, para relajarse y sentirse bien en casa después de un día lleno de actividades en París. "
+      },
+      "features": {
+        "title": "Bastille Opera Apartment",
+        "subtitle": "Apartamento de lujo de 80 m2 en el centro de París",
+        "down-subtitle": "Entre en su apartamento parisino y déjese sorprender por su luminosidad y su estilo contemporáneo, en un ambiente moderno y acogedor. Cuenta con toda la comodidad para garantizarle una estancia agradable en uno de los barrios más históricos de la ciudad, cerca de la Bastilla, el Marais y Gare de Lyon.",
+        "featrure1": {
+          "title": "¡Descanse!",
+          "text": "Después de un día de visitas de París relájese en el confort de su casa parisino, aproveche descanse en la cama matrimonial ergonómica con controles eléctricos para los respaldos y pies. El dormitorio dispone también de aire acondicionado silencioso. En el despacho, que se puede separar del salón por una puerta corredera de vidrio, se encuentra un sofá-cama doble muy cómodo."
+        },
+        "featrure2": {
+          "title": "¡Siéntese en casa!",
+          "text": "Mientras de viaje, ¿qué mejor que relajarse y sentirse en casa después de tantas actividades visitando la ciudad? Siendo nuestra casa cuando estemos en París, lo hemos equipado y decorado con este objetivo, para su bien estar. Disfrute su ambiente acogedor con su decoración y arte contemporáneo, como su balcón tranquilo. Cuarto de baño de lujo con seca-toallas y una ducha de lluvia y otra manual. Aseo separado. Amplio vestidor para ordenar su ropa, zapatos y maletas."
+        },
+        "featrure3": {
+          "title": "¡Cocina como un chef francés!",
+          "text": "Uno de nuestros ocios favoritos es cocinar y por tanto, aquí se encuentra todo para preparar sus platos favoritos en la cocina de diseño moderno, con lavaplatos, vitrocerámica, horno, microondas, nevera y todos los utensilios de cocina y vajilla que pueda necesitar."
+        },
+        "featrure4": {
+          "title": "¡Disfrute sus instalaciones modernas! ",
+          "text": "Edifico de lujo con portero y ascensor para subir con todas sus maletas. Calefacción central con agua caliente sin límite. Aire acondicionado en el dormitorio matrimonial."
+        },
+        "featrure5": {
+          "title": "¡Siga conectado!",
+          "text": "Aún lejos de casa, siga conectado con su familia y amigos en nuestro apartamento a alquiler en París. Gracias al internet inalámbrico de alta velocidad Ud. puede recibir y mandar sus correos electrónicos, reservar en línea su mesa en uno de los restaurante parisinos o verificar las exposiciones actuales en el Museo d'Orsay, por ejemplo. Igual, Ud. puede recibir y hacer llamadas con el teléfono gratis a todos los números fijos en más de 100 países. O si solo desea relajarse, escuche su música favorita en el radio o el Hifi, o mire la televisión o una película en el DVD. "
+        },
+        "featrure6": {
+          "title": "¡Controle la temperatura! ",
+          "text": "En París el invierno puede ser muy frio y por tanto, es importante que su apartamento tenga buena calefacción. Contrario a la mayoría de los edificios más antiguos, contamos con una calefacción central con agua caliente, sin límites. En verano, aquí se puede dormir con las ventanas abiertas, sin problemas. En un caso excepcional de canícula, el dormitorio cuenta con un sistema de aire acondicionado eficiente y silencioso."
+        },
+        "featrure7": {
+          "title": "¡Estacione su coche en seguridad!",
+          "text": "En caso de que Ud. venga a Paris con su coche, tenemos un garaje con acceso directo por ascensor (suplemento € 30)."
+        }
+      },
+      "location": {
+        "title": "Ubicación perfecta en el centro de París",
+        "main-text": {
+          "line1": "El Bastille Opera Apartment se encuentra en el corazón de París en uno de los barrios más buscados y agradables, cerca del Sena y el Opéra de París. ",
+          "line2": "Para sus visitas turísticas, se puede caminar en unos minutos al borde del Sena, la magnífica Catedral de Notre Dame, el barrio de moda Marais, la famosa Plaza de Bastilla y hasta la Gare de Lyon. ",
+          "line3": "Las estaciones del metro están a solo 5-10 minutos a pie (Quai de la Rapée, Bastille, Gare de Lyon). Para visitar el Louvre, la Torre Eiffel o el Museo d'Orsay le aconsejamos tomar el bus 61 o 69, con vistas estupendas de nuestra capital. ",
+          "line4": "A menos de diez minutos a pie se encuentra una de las plazas más bonitas de París, la Plaza des Vosges del siglo XVI y a su lado el precioso Hôtel de Sully. Aquí empieza uno de los barrios más emblemáticos de París, el Marais, con sus boutiques de moda, galerías de arte, anticuarios y todo tipo de bares y restaurantes.",
+          "line5": "Para sus compras cotidianas, se encuentra un gran supermercado a dos minutos a pie. Además, dos veces por semana, hay dos mercados callejeros muy animados con un surtido increíble de frutas y verduras, quesos, mariscos y pescados, carne, flores, etc."
+        }
+      },
+      "rates": {
+        "title": "Tarifas",
+        "subtitle": "Bastille Opera Apartment",
+        "price-table": {
+          "row1": {
+            "label": "Precio por semana",
+            "value": "€ 1,495"
+          },
+          "row2": {
+            "label": "Precio por noche",
+            "value": "€ 220"
+          },
+          "row3": {
+            "label": "Estancia mínima:",
+            "value": "6 noches"
+          }
+        },
+        "special-rates": {
+          "title": "Ofertas",
+          "row1": {
+            "label": "1 - 30 agosto 2019",
+            "value": "€ 1,200 por semana"
+          },
+          "row2": {
+            "label": "15 noviembre - 20 diciembre 2019",
+            "value": "€ 1,200 por semana"
+          },
+          "footer": "Para aprovechar esta oferta, menciónela en los comentarios de su reserva."
+        },
+        "price-includes": {
+          "row1": "La tarifa incluye:",
+          "row2": "Alojamiento para máximo: 4 personas ",
+          "row3": "Uso normal de las instalaciones del apartamento",
+          "row4": "Electricidad, agua caliente y calefacción central",
+          "row5": "nternet inalámbrico alta velocidad",
+          "row6": "Llamadas gratuitas a números fijos en más de 100 países (no incluye llamadas a móvil)",
+          "row7": "TV con acceso a canales de información en español",
+          "row8": "Sábanas y toallas para el número de personas reservadas",
+          "row9": "Disponibilidad del dueño/representante local a la llegada y por teléfono durante la estancia",
+          "row10": "Impuestos locales"
+  
+        },
+        "suplements": {
+          "row1": "Suplementos (a reservar con antelación)",
+          "row2": "Servicio de limpieza adicional: € 50/2 horas.",
+          "row3": "Estacionamiento en el garaje: € 30/semana"
+        },
+        "rates-footer": "Haga clic aquí para nuestras condiciones de alquiler. "
+      },
+      "gallery": {
+        "title": "Galería de Fotos",
+        "subtitle": "Bastille Opera Apartment",
+        "instruction": "Haga clic para agrandar... y para volver atrás, otro clic.",
+        "legend": {
+          "pic1": "Salón elegante",
+          "pic2": "Salón",
+          "pic3": "Salón",
+          "pic4": "Sofá cama en el despacho",
+          "pic5": "Despacho separado del salón par puerta corredera",
+          "pic6": "Entrada luminosa",
+          "pic7": "Cama matrimonial ergonomica en el dormitorio",
+          "pic8": "Cuart de baño de lujo",
+          "pic9": "Ducha",
+          "pic10": "Esquina para desayunar en la cocina totalmente equipada",
+          "pic11": "Aqui se encuentra todo para cocinar",
+          "pic12": "Relájese en el balcón",
+          "pic13": "Vista a la Bastilla desde el puerto de Arsenal justo al lado",
+          "pic14": "Vista del Sena, a solo 5 minutos a pie",
+          "pic15": "Compras al mercado callejero"
+        }
+      },
+      "video": {
+        "title": "Video",
+        "subtitle": "Bastille Opera Apartment",
+        "instruction": "Haga clic abajo, para mirar un video corto sobre nuestro apartamento turístico en el centro de París: Bastille Boutique Flat"
+      },
+      "book": {
+        "title": "Reservar en línea",
+        "subtitle": "Bastille Opera Apartment",
+        "availability": "Calendario de disponibilidad",
+        "last-update": "Última actualización:",
+        "legend": "Clave:",
+        "available": "Disponible",
+        "reserved": "Ocupado",
+        "minimum": "Estancia mínima: 6 noches",
+        "form": {
+          "book-online": "Reservar en línea",
+          "name": "Nombre, Apellido",
+          "email": "E-mail",
+          "check-in": "Llegada",
+          "check-out": "Salida",
+          "adults": "Adultos: ",
+          "children": "Niños: ",
+          "comments": "Comentarios",
+          "send": "Enviar",
+          "sent-message": "Gracias por su reserva. Se la confirmamos dentro de 24 horas. "
+        },
+        "footer": "Licensia de Turismo de París N°: 7511200122786"
+      },
+      "testimonials": {
+        "title": "Opiniones",
+        "subtitle": "Bastille Opera Apartment- apartamento para alquiler en el centro de París",
+        "instruction": "¿Quién mejor para describir nuestro apartamento, que los huéspedes que ya se han alojado en él durante su estancia en París?",
+        "sub-instructions": "A continuación Ud. puede leer sus comentarios publicados en sus formas originales para su autenticidad. Si Ud. lo desea, puede fácilmente traducirlas con uno de los servicios de traducción en línea. También se pueden consultar directamente en uno de esos sitios:"
+      }
+  }
+}

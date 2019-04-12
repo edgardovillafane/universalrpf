@@ -1,0 +1,681 @@
+{
+  "NAVBAR": {
+    "home": "BIENVENUE",
+    "apartments": "APPARTEMENTS",
+    "conditions": "CONDITIONS",
+    "about-you": "A PROPOS DE NOUS",
+    "faq": "FAQ",
+    "contact": "CONTACT"
+  },
+  "HOME": {
+    "title": "Locations meublés de luxe à Paris",
+    "main-card": "Situation idéale au Centre de Paris, à côté de la Bastille.",
+    "title-ap1": "Bastille Boutique Flat",
+    "price-ap1": "910€/semaine",
+    "text-ap1": " Appartement moderne avec garage au centre de Paris, à côté de Bastille & Marais. ",
+    "title-ap2": "Bastille Opera Apartment",
+    "price-ap2": "1495€/semaine",
+    "text-ap2": " Élégance, espace et confort au centre de Paris, à côté de Bastille, le Marais & Gare de Lyon. Garage et Balcon. "
+  },
+  "APARTMENTS": {
+    "title": "Situation parfaite au Centre de Paris.",
+    "subtitle": "En choisissant un de nos appartements pour votre séjour à Paris, vous profiterez pleinement de leur situation idéale au centre de Paris. Pour les détails, tarifs et réservations en ligne, ainsi que les appréciations de nos clients précédents, veuillez clicker sur la photo au-dessus de l'appartement en question.",
+    "features": {
+      "location": {
+        "title": "Découvrez Paris à pied, en bus ou métro!",
+        "text": "Nos appartements sont situés dans le quartier de Bastille, avec accès facile à tous les sites importants de la Capitale, comme le Louvre, Tour Eiffel, Notre Dame, ou bien le Marais - un des quartiers les plus branchés de Paris."
+      },
+      "carefree": {
+        "title": "Tranquillité",
+        "text": "Malgré la situation centrale au plein cœur de à Paris, nos appartements vous permettent de bien vous relaxer dans une ambiance calme après un jour de visites, ou du travail. "
+      },
+      "security": {
+        "title": "Sécurité",
+        "text": "Avant de vous décider sur votre location meublée à Paris vous aurez toute l'information nécessaire, y inclus les appréciations de nos clients sur des sites de confiance. Pour la sécurité de chacun, un Contrat de Location est établi au moment de la réservation et les paiements s'effectuent par chèque français, transfert bancaire ou via PayPal."
+      },
+      "best-rates": {
+        "title": "Meilleurs tarifs",
+        "text": "Nous vous garantissons le meilleur tarif lorsque vous réservez votre location meublée à Paris directement avec nous. Au lieu de manger au restaurant tous les jours pendant votre séjour à Paris, (bien que ça soit dommage de s'en priver), vous pouvez faire des économies importantes en choisissant un appartement meublé comme le nôtre pour votre séjour à Paris. "
+      },
+      "zero-commissions": {
+        "title": "Zéro commissions",
+        "text": "Lorsque vous réservez votre séjour dans un appartement meublé à Paris directement avec nous en ligne, vous ne payerez aucune commission aux intermédiaires. Nous sommes les propriétaires de nos appartements, ce qui vous garantit les meilleurs tarifs de location pour vos vacances à Paris."
+      },
+      "special-discounts": {
+        "title": "Promotions",
+        "text": "Aux moments d'un vide exceptionnel dans nos calendriers de disponibilités nous offrons des tarifs promotionnels à nos clients. Pour plus de détails, veuillez consulter la rubrique Promotions dans les Tarifs de Location de chacun de nos appartements."
+      },
+      "extra-services": {
+        "title": "Services personnalisés",
+        "text": "Si vous le désirez, nous pouvons vous fournir des services personnalisés raient vous faciliter la vie ou rendre votre séjour à Paris encore plus mémorable. Plus d'info"
+      },
+      "comfort": {
+        "title": "Confort",
+        "text": " Votre location meublée est votre chez-vous pendant votre séjour à Paris. C'est pourquoi nous avons équipé chacun de nos appartements avec tout ce dont pourriez avoir besoin, comme: . Plus d'info"
+      },
+      "carpark": {
+        "title": "Garage",
+        "text": "Dans nos appartements vous pouvez profiter d'un garage avec emplacement réservé pour notre appartement. Veuillez consulter les tarifs de chaque appartement pour les conditions et ne pas oublier de le réserver en même temps que votre location meublée à Paris."
+      },
+      "footer": "Veuillez noter que nos appartements sont non-fumeurs, sauf sur le balcon de notre Bastille Opera Apartment.\n\n. Animaux non-admis.",
+      "overview": {
+        "title": "Nos appartements meublés à Paris",
+        "subtitle": "Voici une comparaison rapide entre nos appartements. Pour plus de détails, tarifs, disponibilités et réservations en ligne, veuillez cliquer sur le nom de chaque appartement ci-dessous.",
+        "table": {
+          "capacity": {
+            "label": "Capacité maximum",
+            "ap1": "3 personnes",
+            "ap2": "4 personnes"
+          },
+          "size": {
+            "label": "Taille",
+            "ap1": "56m²",
+            "ap2": "80m²"
+          },
+          "bedrooms": {
+            "label": "Chambres",
+            "ap1": "1",
+            "ap2": "2"
+          },
+          "beds": {
+            "label": "Lits",
+            "ap1": "Lit double + canapé-lit",
+            "ap2": "Lit double ergonomique + canapé-lit"
+          },
+          "price": {
+            "label": "Tarif/semaine",
+            "ap1": "€ 990",
+            "ap2": "€ 1,595"
+          },
+          "minimum": {
+            "label": "Séjour minimum",
+            "ap1": "4 nuits",
+            "ap2": "6 nuits"
+          },
+          "internet": {
+            "label": "Internet, TV, Téléphone",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "kitchen": {
+            "label": "Cuisine équipée",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "bathroom": {
+            "label": "Salle de bains luxueuse",
+            "ap1": "Baignoire et douche",
+            "ap2": "Douche italienne"
+          },
+          "air-conditioning": {
+            "label": "Climatisation",
+            "ap1": "Appareil de climatisation sur roulettes (supplément: €30/semaine)",
+            "ap2": "Climatisation fixe silencieuse dans la chambre"
+          },
+          "garage": {
+            "label": "Garage",
+            "ap1": "30€/semaine",
+            "ap2": "30€/semaine"
+          }
+        }
+      }
+    }
+  },
+  "CONDITIONS": {
+    "title": "Conditions de location d'appartements meublés à Paris.",
+    "subtitle": "Vous pouvez réserver facilement votre appartement meublé au centre de Paris de façons suivantes, selon votre préférence :",
+    "hint": "(2) par un de sites spécialisés en location d'appartements meublés pour courts séjours à Paris:",
+    "title-list": "(1) directement avec nous",
+    "text1": "Faites votre réservation en ligne de manière facile et sécurisée en remplissant le formulaire de réservation que vous trouverez dans les pages de chacun de nos appartements.",
+    "text2": "Nous vous confirmons votre réservation par retour, dans les 24 heures, au plus tard.",
+    "text3": "Afin de garantir votre réservation de l'appartement meublé à Paris, un acompte de deux nuits est nécessaire.",
+    "text4": "Si vous le désirez, nous vous envoyons votre Contrat de Location à signer par chaque partie, dès que nous avons reçu votre acompte. ",
+    "text5": "En cas d'un séjour supérieur à une semaine, un acompte de 50% du montant de la location est dû un mois avant le début de votre location.",
+    "text6": "Le solde de votre location est dû à votre arrivéée en espèces ou par chèque français. Pour les locations plus longues qu'une semaine, vous pouvez également l'envoyer d'avance.",
+    "text7": "A votre arrivée dans l’appartement, une caution de sécurité de €500 vous est demandée par chèque français, ou en espèces. Celle-ci vous sera retournée à la fin de votre séjour, à condition que l’appartement soit laissé dans le même état qu'à votre arrivée, sans dégâts, ni pertes de contenu.",
+    "text8": "Les paiements pour votre location meublée à Paris peuvent être effectués de manière facile et sécurisée soit par chèque français, soit par virement bancaire.",
+    "text9": "En cas d’annulation éventuelle, les acomptes déjà payés restent non-remboursables.",
+    "hint-footer": "Veuillez noter que chacun de ces sites applique ses propres tarifs, commissions et frais et conditions de réservation et paiements."
+  },
+  "ABOUT-US": {
+    "title": "Pourquoi louer avec nous?",
+    "subtitle": "Quand vous louez un de nos appartements meublés au centre de Paris vous serez en contact direct avec nous:",
+    "text": "Lorsque vous choisissez un de nos appartements meublés pour votre séjour, vous ne serez pas dans un hôtel ni dans une location anonyme, mais bien chez nous, dans un appartement décoré avec soin, selon nos goûts personnels : modernes, élégants et surtout, confortables. Après plusieurs années dans le tourisme, nous connaissons bien les besoins des touristes et nous nous efforçons de les satisfaire le mieux possible.  \n Vous louez directement auprès des propriétaires, sans intermédiaires. \n  Sécurité et tranquillité grâce au Contrat de Location, paiements sécurisés et appréciations impartiales.",
+    "list":{
+      "text1": "Vous louez directement auprès des propriétaires, sans intermédiaires",
+      "text2": "Sécurité et tranquillité grâce au Contrat de Location, paiements sécurisés et appréciations impartiales",
+      "text3": "Services personnalisés pour vos besoins individuels",
+      "text4": "Vacances ou séjour professionnel sans soucis à Paris !"
+    }
+  },
+  "FAQ": {
+    "title": "Questions souvent posées (FAQ) de nos appartements meublés à Paris.",
+    "subtitle": "Cliquez sur une des catégories ci-dessous pour trouver une liste de questions posées par nos clients précédents, suivies de nos réponses. ",
+    "category": {
+      "amenities": "Confort et Équipements ",
+      "arrivals": "Arrivée & Départ",
+      "reservations": "Réservations & Annulations",
+      "payments": "Paiements",
+      "surroundings": "Quartier de Bastille autour des appartements & Accès"
+    },
+    "amenities": {
+      "question1": {
+        "question": "Nous sommes un couple de retraités et nous avons du mal à monter des escaliers. Est-ce que l’accès à l’appartement est facile ou y-a-t-il beaucoup d'escaliers?",
+        "answer": "Nos appartements meublés à Paris se trouvent dans des résidences modernes bien entretenues avec ascenseur. Du niveau de la rue, vous n’avez que quelques petits pas à monter, pour atteindre l’ascenseur. "
+      },
+      "question2": {
+        "question": "Y-a-t-il un parking dans vos locations meublées à Paris?",
+        "answer": "Oui, nos appartements de location à Paris disposent d’un emplacement de voiture réservé dans le garage. (sur réservation préalable. Supplément: voir tarif)."
+      },
+      "question3": {
+        "question": "Y-a-t-il un sèche-cheveux?",
+        "answer": "Oui, vous trouverez un sèche-cheveux dans la salle de bains, ainsi qu’un miroir de maquillage."
+      },
+      "question4": {
+        "question": "Est-ce que le linge est fourni avec la location?",
+        "answer": "Oui, votre tarif de location inclut le linge (draps et serviettes) pour le nombre de personnes réservé. Si vous désirez un changement de linge supplémentaire pendant votre séjour, veuillez nous contacter (Supplément: voir tarif)."
+      },
+      "question5": {
+        "question": "Est-ce que vos appartements à louer à Paris sont en parfait état?",
+        "answer": "Nous prenons grand soin de garder nos appartements de location à Paris dans un état impeccable. Ils viennent d’être intégralement rénovés et tout leur mobilier et équipements sont sans faute. Si jamais vous observiez à votre arrivée un problème quelconque ou que notre personnel de ménage aurait omis de nettoyer quelque chose, veuillez en informer immédiatement notre représentant qui vous a accueilli, afin de pouvoir le rectifier le plus rapidement possible."
+      },
+      "question6": {
+        "question": "Nos enfants ont 4 et 9 ans. Est-ce que l’appartement convient à notre famille ?",
+        "answer": "En toute honnêteté, nos appartements ne sont peut-être pas un choix idéal pour familles avec de très jeunes enfants, à cause de plusieurs coins aigus et surfaces fragiles de leur mobilier. Par contre, si vos enfants ont l’habitude de ce genre d’environnement et si vous assumez votre responsabilité parentale de surveillance, vous êtes bien sûr les bienvenus."
+      },
+      "question7": {
+        "question": "Nous voudrions venir dans votre appartement avec notre bébé de six mois. Avez-vous des accessoires spéciaux ?",
+        "answer": "Non, malheureusement, nous n’avons pas d’accessoires pour bébés."
+      },
+      "question8": {
+        "question": "La description et les photos de votre appartement nous plaisent et nous voudrions le louer pour 4 personnes. Est-ce possible ?",
+        "answer": "Le Bastille Opera Apartment est assez spacieux et dispose d’assez de couchages confortables pour un total de 4 personnes : un grand lit dans la chambre et un canapé-lit double dans le bureau. Par contre, dans le Bastille Boutique Flat, le canapé-lit ne mesure que 140 cm de largeur et par conséquent, nous ne le conseillons que pour un maximum de 3 personnes. "
+      },
+      "question9": {
+        "question": "Y-a-t-il un téléphone?",
+        "answer": "Oui, chacun de nos appartements a un téléphone à votre disposition. Vous pouvez appeler tous les numéros fixes en France et vers plus de 100 pays, autant que vous voulez (numéros mobiles et surchargés exclus)."
+      },
+      "question10": {
+        "question": "Est-ce que ma famille peut m'appeler dans mon appartement à Paris?",
+        "answer": "Oui, sans problèmes."
+      },
+      "question11": {
+        "question": "Y-a-t-il accès Internet?",
+        "answer": "Oui, bien sur, vous avez accès à l’internet (Wifi) dans l’appartement.  Dans le Bastille Opéra Apartment, une imprimante est également à votre disposition. "
+      },
+      "question12": {
+        "question": "Y-a-t-il un climatiseur (A/C)? ",
+        "answer": "Il est très rare que le temps à Paris soit si chaud que l’on aurait besoin de l’air conditionné. Dans nos appartements vous pouvez dormir tranquillement avec les fenêtres ouvertes sur un jardin calme. "
+      }
+    },
+    "arrivals": {
+      "question1": {
+        "question": "Notre avion va atterrir à Paris très tôt le matin. Aurons-nous accès à l’appartement tout de suite?",
+        "answer": "Nos heures d’accueil standards sont de 14h00 à 20h00. Pour faciliter votre arrivée, nous ferons naturellement de notre mieux pour vous accueillir en dehors de ces horaires, si possible. Si vous arrivez dans la matinée, et si les clients précédents ont déjà quitté l’appartement, vous pouvez au minimum déposer vos bagages dans l’appartement. Pendant que le ménage se termine, vous pouvez par exemple aller prendre un café ou petit déjeuner dans un des cafés à coté. "
+      },
+      "question2": {
+        "question": "Notre train n’arrive à Paris que vers 23h00. Est-ce que nous pouvons avoir accès à l’appartement à cette heure?",
+        "answer": "Nos heures d’accueil standards sont de 14h00 à 20h00. Même si nous ne sommes pas un hôtel avec personnel disponible 24h/24h, nous ferons de notre mieux pour vous accueillir aussi tard, si possible. Dans ce cas, nous vous demandons cependant de rémunérer la personne qui vous accueille à cette heure si tardive, et payer son trajet de retour à son domicile en taxi. "
+      },
+      "question3": {
+        "question": "Pouvez-vous nous organiser un transfert de l‘aéroport?",
+        "answer": "Nous pouvons vous conseiller des sociétés spécialisées en transferts privés."
+      },
+      "question4": {
+        "question": "Comment allons-nous obtenir les clefs de l‘appartement?",
+        "answer": "Nous vous accueillons à l’heure mutuellement convenue dans l’appartement et vous donnons les clefs, après vérification du paiement du solde de location et de la caution de sécurité. Environ un mois avant le début de votre séjour, nous vous enverrons les consignes d’arrivée, avec les informations détaillées sur la procédure d’arrivée."
+      },
+      "question5": {
+        "question": "Est-ce que nous pouvons inviter des amis dans l’appartement ?",
+        "answer": "Pendant vos vacances, vous êtes chez vous dans notre appartement et vous pouvez y inviter vos amis, tout en respectant le règlement de la copropriété et le calme de nos voisins au niveau du bruit, surtout après 22h00.  Par contre, le nombre d’occupants autorisé (y séjournant la nuit), qui est spécifié dans votre contrat de location, ne peut en aucun cas être excédé."
+      },
+      "question6": {
+        "question": "Devons-nous nettoyer l’appartement à la fin de notre séjour ?",
+        "answer": "Nous espérons que vous laissez l’appartement dans un état de propreté raisonnable à votre départ. Au minimum, cela signifie que toutes les ordures ménagères soient déposées dans le local au sous-sol de l’immeuble et toute la vaisselle lavée et déposée dans les placards à leur emplacement initial. Le supplément obligatoire de nettoyage final (voir plus loin) comprend le nettoyage entre les locataires et le lavage du linge. Dans le Bastille Boutique Flat, le supplément du nettoyage final est indiqué séparément dans le tarif de location.  Dans le Bastille Opera Apartement, il est inclus dans le tarif de location. "
+      },
+      "question7": {
+        "question": "Pouvez-vous organiser un service de ménage pendant notre séjour?",
+        "answer": "Si vous le désirez, nous pouvons vous fournir un service de ménage et changement de linge pendant votre séjour (supplément). Pour le réserver, veuillez nous contacter d’avance. "
+      },
+      "question8": {
+        "question": "Pouvez-vous nous réserver une excursion aux Châteaux de la Loire à la fin de notre séjour?",
+        "answer": "Nous pouvons vous conseiller des sociétés spécialisées en excursions touristiques, où vous pouvez choisir celle qui vous convient le mieux."
+      },
+      "question9": {
+        "question": "Pouvez-vous nous conseiller quelques restaurants à Paris?",
+        "answer": "Bien sûr. Dans le Dossier de Bienvenue que vous trouverez dans l’appartement, il y a une sélection de nos restaurants favoris dans le quartier. "
+      },
+      "question10": {
+        "question": "Nous aimerions aller à l’Opéra pendant notre séjour à Paris. Pourriez-vous nous aider avec les billets?",
+        "answer": "Le célèbre Opéra de Paris se situe à seulement 10 minutes à pied de l’appartement. Vous trouverez leurs programmes et possibilité de réservation des billets en ligne sur leur site d’internet. "
+      }
+    },
+    "reservation": {
+      "explanation": "Les conditions ci-dessous s’appliquent aux réservations faites directement avec nous. Au cas où vous utilisiez un autre site pour réserver un de nos appartements, veuillez consulter leurs conditions de réservation, paiement et annulation. ",
+      "question1": {
+        "question": "Pouvons-nous discuter certains détails de l’appartement avant de faire notre réservation?",
+        "answer": "Bien sûr. Envoyez-nous un message par le formulaire dans l’onglet Contact avec votre numéro de téléphone où nous pouvons vous atteindre. "
+      },
+      "question2": {
+        "question": "Comment réserver l’appartement?",
+        "answer": "Veuillez d’abord vérifier qu’il est encore indiqué libre dans le calendrier de disponibilités. Ensuite, envoyez-nous votre réservation avec le formulaire à coté du calendrier. Nous nous efforcerons de vous répondre sous 24 heures. Après réception de notre confirmation, veuillez nous envoyer un acompte de deux nuits, nécessaire pour garantir votre réservation. "
+      },
+      "question3": {
+        "question": "Combien de temps à l’avance dois-je faire notre réservation?",
+        "answer": "Vous pouvez effectuer votre réservation jusqu’à 12 mois avant votre séjour. Pendant les périodes d’affluence touristique à Paris, notre calendrier de réservations a tendance à se remplir plus de 6 mois d’avance. N’hésitez pourtant pas à consulter le calendrier de disponibilités en dernière minute."
+      },
+      "question4": {
+        "question": "Quand ma réservation sera-t-elle confirmée?",
+        "answer": "Votre réservation sera confirmée dès que nous avons reçu votre acompte de deux nuits. "
+      },
+      "question5": {
+        "question": "Pouvons-nous consulter le contrat de location avant d’effectuer notre réservation?",
+        "answer": "Oui, bien sûr. Veuillez nous demander un contrat modèle, en utilisant l’onglet Contact."
+      },
+      "question6": {
+        "question": "Comment procéder, si je dois annuler ma réservation?",
+        "answer": "Veuillez nous informer le plus rapidement possible d’une éventuelle annulation. Selon nos conditions de réservation, les acomptes déjà payés restent non-remboursables, sauf s’il s’agit uniquement d’un changement de dates. "
+      },
+      "question7": {
+        "question": "Y-a-t-il une période minimum / maximum de location?",
+        "answer": "Bastille Boutique Flat Séjour minimum : 4 nuits. Bastille Opera Apartment: Séjour minimum : 7 nuits"
+      }
+    },
+    "payments": {
+      "explanation": "Les conditions ci-dessous s’appliquent aux réservations faites directement avec nous. Au cas où vous utilisiez un autre site pour réserver un de nos appartements, veuillez consulter leurs conditions de réservation, paiement et annulation. ",
+      "question1": {
+        "question": "Quelles sont vos conditions de paiement?",
+        "answer": "Un acompte de deux nuits est nécessaire pour garantir votre réservation. Par la suite, 50% du montant du loyer est dû un mois avant votre séjour pour des séjours plus longues qu'une semaine. Le solde est dû une semaine avant votre arrivée. "
+      },
+      "question2": {
+        "question": "Comment effectuer les paiements de ma location?",
+        "answer": "Nous acceptons les paiements par chèque français, transfert bancaire, ou via PayPal avec votre carte de crédit. Le solde est dû en espèces."
+      },
+      "question3": {
+        "question": "Pouvons-nous payer avec notre carte de crédit?",
+        "answer": "Nous ne disposons pas de facilités de cartes de crédit. Par contre, vous pouvez utiliser PayPal avec votre carte de crédit (supplément de 6%)."
+      },
+      "question4": {
+        "question": "Peux-je payer par chèque?",
+        "answer": "Vous pouvez bien sûr régler votre location avec un chèque. Notez, pourtant que seulement les chèques français sont acceptés."
+      },
+      "question5": {
+        "question": "Que signifie la caution de sécurité?",
+        "answer": "A votre arrivée, nous vous demandons une caution de sécurité de € 500 que vous pouvez payer soit par chèque français, ou en espèces. Celle-ci vous sera restituée à la fin de votre séjour, à condition que l’appartement soit laissé dans le même état qu'à votre arrivée, sans dégâts, ni pertes de contenu de l’appartement."
+      }
+    },
+    "surroundings": {
+      "question1": {
+        "question": "A quelle distance se trouve la Place de la Bastille et l’Opéra de Paris?",
+        "answer": "La Place de la Bastille, où se trouve l’Opéra de Paris est à seulement 10 minutes à pied de l’appartement.  Veuillez noter cependant que l’ancien Opéra appelé Palais Garnier est utilisé principalement pour spectacles de ballets. Il est situé à 20 minutes en métro."
+      },
+      "question2": {
+        "question": "Y-a-t-il des supermarchés à proximité?",
+        "answer": "Oui, vous trouverez des supermarchés et boulangeries presque tout de suite en sortant de l’immeuble. De plus, ne manquez pas le marché Richard Lenoir tous les jeudis et dimanches matin. Vous y trouverez tous les produits d’alimentation les plus frais possibles dans une ambiance très parisienne et colorée."
+      },
+      "question3": {
+        "question": "Comment arriver de l’aéroport à l’appartement?",
+        "answer": "Un mois avant votre arrivée nous vous enverrons des instructions détaillées pour trouver la direction à l’appartement. Vous pouvez choisir le moyen de transport qui vous convient le mieux pour ce trajet de 45-90 minutes: soit directement en taxi ou voiture-navette, soit en bus à la Gare de Lyon, ou par train RER jusqu’à la Gare du Nord avec correspondance en métro jusqu’à la station à seulement 2-5 minutes à pied de l’appartement. (voir réponse suivante)"
+      },
+      "question4": {
+        "question": "A quelle distance se trouve la station de métro la plus proche ?",
+        "answer": "Pour le Bastille Boutique Flat, les stations les plus proches sont seulement à 2-3 minutes à pied de l’appartement : Bréquet-Sabin (ligne 5) ou Chemin Vert (ligne 8). Pour Bastille Opera Apartment, les stations les plus proches sont seulement à 5 minutes à pied de l’appartement : Bastille (lignes : 1, 5, 8) ou Gare de Lyon (lignes : 1, 14, RER). "
+      },
+      "question5": {
+        "question": "Comment réserver un taxi?",
+        "answer": "Dans le Dossier de Bienvenue dans l’appartement vous trouverez le numéro de téléphone pour appeler un taxi."
+      },
+      "question6": {
+        "question": "Comment est le quartier de Bastille, du point de vue de la sécurité ?",
+        "answer": "Nous sommes dans un quartier résidentiel bien animé, où vous pouvez marcher sans problèmes à n’importe quelle heure. Comme dans toutes les grandes villes, prenez pourtant vos précautions avec votre portefeuille et sac à main, en cas de pickpockets qui circulent dans le métro, ou partout où il y a beaucoup de monde. "
+      }
+    }
+  },
+  "CONTACT": {
+    "title": "Contactez-nous !",
+    "questions": "Questions?",
+    "sub-questions": "N'hésitez pas de nous consulter pour toute question que vous auriez sur nos appartements, en utilisant le formulaire ci-dessous.",
+    "reservations": "Réservations",
+    "sub-reservations": "Si vous désirez faire une réservation, veuillez vérifier la disponibilité de chacun de nos apparttements.  Ensuite, utilisez le formulaire de réservation sur la page de l'appartement en question.",
+    "sub-reservations2": "Pour d'autres questions, veuillez utiliser le formulaire ci-dessous.",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "send-message": "Envoyer message",
+    "visit": "Visitez-nous sur Facebook",
+    "other": "Nos autres locations meublées:"
+  },
+  "BOUTIQUE": {
+    "menu": {
+      "apartment": "APPARTEMENT",
+      "location": "SITUATION",
+      "rates": "TARIFS",
+      "book": "RESERVATION",
+      "gallery": "PHOTOS",
+      "testimonials": "APPRECIATIONS",
+      "video": "VIDEO"
+    },
+    "title": "Bastille Boutique Flat",
+    "main-text": {
+      "line1": "Appartement moderne offrant tout le confort pour votre séjour, situé au centre de Paris dans un quartier central chargé de culture et d’histoire.",
+      "line2": "En plein cœur de Paris, profitez de sa situation privilégiée à côté de la Bastille et son Opéra et Le Marais, avec tous ses cafés, restaurants, galléries et boutiques.",
+      "line3": "Idéal pour 1-3 personnes, pour bien se reposer au calme dans son grand lit confortable ou dans le canapé-lit du salon."
+    },
+    "features": {
+      "title": "Bastille Boutique Flat",
+      "subtitle": "Appartement élégant de 56 m2 au centre de Paris",
+      "down-subtitle": "Laissez-vous charmer par son calme, décoration contemporaine, niveau d'équipements et confort, et bien sûr, de sa situation centrale.",
+      "featrure1": {
+        "title": "Dormez bien",
+        "text": "Après une longue journée de visites ou du travail, bénéficiez d’un repos bien mérité dans votre appartement parisien. Grâce à ses vues dégagées donnant sur un jardin calme, loin des bruits de la rue, vous pouvez même y dormir avec les fenêtres ouvertes dans son grand lit confortable de la chambre ou dans le canapé-lit du salon. "
+      },
+      "featrure2": {
+        "title": "Sentez-vous comme à la maison",
+        "text": "Pendant un séjour de plusieurs jours à Paris, il est important de se sentir chez soi, même dans une location meublée. Relaxez-vous donc dans sa salle de bains luxueuse et sa grande baignoire avec douche pluie et douche manuelle. Toilette séparée. Dressing spacieux pour ranger vos vêtements et valises."
+      },
+      "featrure3": {
+        "title": "Cuisine équipée",
+        "text": "Comme nous adorons cuisiner, vous trouverez tout dont vous pourriez avoir besoin dans notre cuisine totalement équipée: plaque vitrocéramique, four, micro-ondes, réfrigérateur/congélateur, lave-vaisselle et tous les ustensiles de cuisine et du service. "
+      },
+      "featrure4": {
+        "title": "Votre bien-être est important",
+        "text": "Immeuble de standing avec tout le confort moderne, tel que l’ascenseur accessible avec tous vos bagages et gardien sur place. Chauffage central avec eau chaude. Climatiseur mobile disponible en cas de canicule (supplément). Communications faciles grâce à l’internet wifi haut débit, télévision (FreePlayer), radio, ainsi que lecteur DVD. Sols en parquet."
+      },
+      "featrure5": {
+        "title": "Restez connecté",
+        "text": "Vérifiez vos messages et surfez l'internet grâce à notre wifi performant qui vous permet de vérifier les heures d'ouverture au Musée d'Orsay par exemple, ou bien réserver en ligne votre table dans un des nombreux restaurants à Paris à découvrir. Téléphone pour appeler tous les numéros fixes en France et dans plus de 100 pays à l’étranger. Écoutez votre musique favorite sur le Hi-fi, ou regarder la télé ou un film sur le DVD. "
+      },
+      "featrure6": {
+        "title": "Climatisation",
+        "text": "Même si vous pouvez dormir avec les fenêtres ouvertes sur le jardin calme sans aucun problème, nous avons pensé à l’éventualité d'une canicule ce qui n'arrive que très rarement à Paris en juillet / août. Dans ce cas nous pouvons vous fournir un appareil de climatisation sur roulettes (supplément € 30). "
+      },
+      "featrure7": {
+        "title": "Parking",
+        "text": "Vous pouvez garer votre voiture au garage de notre immeuble, avec accès direct par ascenseur (supplément: € 30/semaine)."
+      }
+    },
+    "location": {
+      "title": "Situation idéale au Centre de Paris ",
+      "main-text": {
+        "line1": "Profitez de sa situation idéale au cœur de Paris, dans un de ses quartiers le plus agréables. Malgré sa situation centrale en pleine centre-ville, il est très calme et silencieux. De plus, vous pouvez facilement accéder à un grand nombre des sites touristiques de Paris par transport public ou même à pied, comme les quais de la Seine, Notre Dame, le Marais, la Bastille et la République. En prenant le bus 69 devant notre appartement, vous atteignez les sites comme le Louvre, la Tour Eiffel ou Musée d'Orsay facilement en 10-30 minutes. ",
+        "line2": "Les stations du métro les plus proches ne sont qu'à deux minutes de l'appartement et un peu plus loin, vous avez la Place de Bastille où se trouve également le fameux Opéra de Paris.",
+        "line3": "Aussi proche, vous avez une des places les plus romantiques de Paris : la Place des Vosges, à côté du célèbre Hôtel de Sully. Ici commence le quartier emblématique du Marais, connu pour ses boutiques de mode, galeries d’art, restaurants et bars.",
+        "line4": " Pour votre shopping quotidien, vous avez deux supermarchés en face de l'appartement et deux fois par semaine, un des marchés les plus animés de Paris."
+      }
+    },
+    "rates": {
+      "title": "Tarif de location ",
+      "subtitle": "Bastille Boutique Flat",
+      "price-table": {
+        "row1": {
+          "label": "Prix par semaine",
+          "value": "€ 910"
+        },
+        "row2": {
+          "label": "Prix par nuit",
+          "value": "€ 140"
+        },
+        "row3": {
+          "label": "Supplément obligatoire de nettoyage final",
+          "value": "€ 80"
+        },
+        "row4": {
+          "label": "Séjour minimum:",
+          "value": "4 nuits"
+        }
+      },
+      "special-rates": {
+        "title": "Promotion",
+        "row1": {
+          "label": "1 - 30 août 2019",
+          "value": "€ 810 par semaine"
+        },
+        "row2": {
+          "label": "15 novembre - 20 décembre 2019",
+          "value": "€ 700 par semaine"
+        },
+        "footer": "Pour profiter de ces tarifs spéciaux, veuillez l'indiquer dans les commentaires de votre réservation."
+      },
+      "price-includes": {
+        "row1": "Le tarif comprend:",
+        "row2": "Logement pour un maximum de 4 personnes",
+        "row3": "Usage normal de l’appartement et de son équipement",
+        "row4": "Électricité, eau et chauffage",
+        "row5": "Accès internet (Wifi)",
+        "row6": "Appels gratuits aux numéros fixes en France et plus de 100 pays (hors numéros portables)",
+        "row7": "TV avec chaînes standards disponibles sur FreePlayer",
+        "row8": "Linge (draps et serviettes pour le nombre de personnes réservé)",
+        "row9": "Taxe de séjour"
+      },
+      "suplements": {
+        "row1": "Suppléments (à réserver d’avance)",
+        "row2": "Nettoyage supplémentaire: € 50/2 heures",
+        "row3": "Climatiseur mobile: € 30/semaine",
+        "row4": "Parking au garage: € 30/ semaine"
+
+      },
+      "rates-footer": "Cliquez ici pour nos conditions de location."
+    },
+    "gallery": {
+      "title": "Galerie de Photos",
+      "subtitle": "Bastille Boutique Flat",
+      "instruction": "Cliquez pour agrandir les photos... cliquez de nouveau pour revenir en arrière.",
+      "legend": {
+        "pic1": "Salon élégant avec canapé-lit",
+        "pic2": "Salon",
+        "pic3": "Lit double confortable dans la chambre",
+        "pic4": "Salle de bains luxueuse avec lave/sèche-linge ",
+        "pic5": "Baignoire et douche main et italienne",
+        "pic6": "Entrée & cuisine",
+        "pic7": "Cuisine totalement équipée",
+        "pic8": "Coin petit déjeuner dans la cuisine",
+        "pic9": "Vue sur jardin tranquil",
+        "pic10": "Situation excellente à côté de la Bastille",
+        "pic11": "Courses sur le marché à côté",
+        "pic12": "Courses sur le marché à côté",
+        "pic13": "Courses sur le marché à côtéxxx",
+        "pic14": "Courses sur le marché à côté",
+        "pic15": "Bastille et le port del'Arsenal"
+      }
+    },
+    "video": {
+      "title": "Vidéo",
+      "subtitle": "Bastille Boutique Flat",
+      "instruction": "Cliquez ci-dessous, pour regarder une courte vidéo sur notre location meublée eu centre de Paris: Bastille Boutique Flat"
+    },
+    "book": {
+      "title": "Réserver en ligne",
+      "subtitle": "Bastille Boutique Flat",
+      "availability": "Calendrier de disponibilités",
+      "last-update": "Dernière mise-à-jour:",
+      "legend": "Légende:",
+      "available": "Disponible",
+      "reserved": "Occupé",
+      "minimum": "Séjour minimum: 4 nuits",
+      "form": {
+        "book-online": "Réservez en ligne",
+        "name": "Nom, Prénom",
+        "email": "E-mail",
+        "check-in": "Arrivée",
+        "check-out": "Départ",
+        "adults": "Adultes:",
+        "children": "Enfants:",
+        "comments": "Commentaires",
+        "send": "Envoyez",
+        "sent-message": "Votre message a été envoyé. Merci. Nous vous confirmons votre réservation sous 24 heures."
+      },
+      "footer": "License de Tourisme de Paris N°: 7511100122122"
+    },
+    "testimonials": {
+      "title": "Appréciations",
+      "subtitle": "Bastille Boutique Flat-location meublée au centre de Paris",
+      "instruction": "Qui mieux pour décrire notre appartement que ceux, qui y ont déjà séjourné ?",
+      "sub-instructions": "Voici les appréciations écrites de nos anciens clients, publiées en leur langue originale pour l’authenticité. Vous pouvez évidemment les traduire en utilisant un de services de traduction en ligne. Vous pouvez aussi les consulter directement sur les sites suivants : "
+    }
+  },
+  "OPERA": {
+    "menu": {
+      "apartment": "APPARTEMENT",
+      "location": "SITUATION",
+      "rates": "TARIFS",
+      "book": "RESERVATION",
+      "gallery": "PHOTOS",
+      "testimonials": "APPRECIATIONS",
+      "video": "VIDEO"
+    },
+    "title": "Bastille Opera Apartment",
+    "main-text": {
+      "line1": "Appartement élégant et spacieux en style contemporain, situé au plein cœur de Paris. ",
+      "line2": "Appréciez sa tranquilitié, luminosité et ses vues de son balcon sur le Port d'Arsenal de Paris. ",
+      "line3": "Idéal pour 1-4 personnes, offrant tous les conforts, tels que lit ergonomique, climatisation, ascenseur et garage."
+    },
+    "features": {
+      "title": "Bastille Opera Apartment",
+      "subtitle": "Appartement élégant de 80 m2 au centre de Paris.",
+      "down-subtitle": "Laissez-vous enchanter par son calme, décoration contemporaine, niveau d'équipements et confort, et bien sûr, de sa situation centrale à côté de la Bastille, Le Marais et Gare de Lyon.",
+      "featrure1": {
+        "title": "Dormez bien",
+        "text": "Pour un bon sommeil bien mérité après une journée chargée de visites ou de travail, vous apprécierez le confort de son grand lit ergonomique. Ses contrôles électriques vous permettent d’ajuster les dossiers et les repose-pieds individuellement. Dans le bureau, qui peut être séparé du living par une porte coulissante en verre opaque, vous trouverez un canapé-lit facilement convertible en deuxième grand lit douillet. "
+      },
+      "featrure2": {
+        "title": "Sentez-vous comme à la maison",
+        "text": "Pendant un séjour de plusieurs jours à Paris, il est important de se sentir chez soi, même dans une location meublée. Comme cet appartement est notre chez-nous que nous louons lors de nos absences de Paris, nous l'avons décoré et équipé dans cet esprit. Profitez donc de son salon magnifique et son design contemporain et balcon verdoyant. Salle de bains luxueuse avec douche italienne, chauffe-serviettes et WC. Deuxième toilette séparée. Dressing spacieux pour vos vêtements, chaussures et valises."
+      },
+      "featrure3": {
+        "title": "Cuisine équipée",
+        "text": "Comme nous adorons cuisiner, vous trouverez tout dont vous pourriez avoir besoin dans notre cuisine totalement équipée: plaque vitrocéramique, four, micro-ondes, réfrigérateur/congélateur, lave-vaisselle ainsi que tous les ustensiles de cuisine et du service. De plus, vous trouverez une machine à laver/sechoir moderne dans le WC."
+      },
+      "featrure4": {
+        "title": "Votre bien-être est important",
+        "text": "Immeuble de standing avec tout le confort moderne, tel que l’ascenseur accessible avec tous vos bagages. Gardien sur place. Chauffage central avec eau chaude. Climatiseur dans la chambre à coucher. Communications faciles pendant votre séjour grâce à l’internet wifi haut débit, télévision (FreePlayer), radio, ainsi que lecteur DVD. Sols en parquet."
+      },
+      "featrure5": {
+        "title": "Restez connecté",
+        "text": "Vérifiez vos messages et surfez l'internet grâce à notre wifi performant. Ainsi vous pouvez vérifier les heures d'ouverture ou la liste des expositions actuelles au Musée d'Orsay par exemple, ou bien réserver en ligne votre table dans un des nombreux restaurants à Paris à découvrir. Téléphone avec possibilité d'appeler tous les numéros fixes et mobiles en France et dans plus de 100 pays à l’étranger. Écoutez votre musique favorite sur le Hi-fi, ou regarder la télé ou un film sur le DVD. "
+      },
+      "featrure6": {
+        "title": "Climatisation",
+        "text": "Grâce à la situation tranquille de notre appartement, vous pouvez y dormir avec les fenêtres ouvertes, sans aucun problème. De plus, dans l’éventualité d'une canicule ce qui n'arrive que très rarement à Paris en juillet / août, notre chambre à coucher est équipée d'un climatiseur efficace et silencieux "
+      },
+      "featrure7": {
+        "title": "Parking",
+        "text": "Vous pouvez garer votre voiture au garage de notre immeuble, avec accès direct par ascenseur (supplément: € 30/semaine)."
+      }
+    },
+    "location": {
+      "title": "Situation idéale au Centre de Paris",
+      "main-text": {
+        "line1": "Notre Bastille Opera Apartment se trouve au cœur de Paris dans un de ses quartiers le plus agréables et recherchés, à côte de l'Opéra de Paris.",
+        "line2": "Pour vos visites touristiques, les quais de la Seine, Notre Dame, le Marais, la Bastille et la Gare de Lyon sont tous facilement accessibles à pied. x",
+        "line3": "Les stations du métro les plus proches ne sont qu'à 5-10 minutes à pied (Quai de la Rapée, Bastille, Gare de Lyon). Pour vous rendre au Louvre, Tour Eiffel ou Musée d'Orsay les bus 61 ou 69 vous permettent d'admirer déjà tous les batiments et avénues sur le chemin.",
+        "line4": "A seulement quelques minutes à pied, vous vous trouvez à une des places les plus romantiques de Paris : la Place des Vosges, à côté du célèbre Hôtel de Sully. Ici commence le quartier emblématique du Marais, connu pour ses boutiques de mode, galeries d’art, restaurants et bars.",
+        "line5": "Pour vos courses, un grand supermarché se trouve à 2 minutes de l'appartement et deux fois par semaine, un des marchés les plus animés de Paris à la Bastille."
+
+      }
+    },
+    "rates": {
+      "title": "Tarif de location",
+      "subtitle": "Bastille Opera Apartmentx",
+      "price-table": {
+        "row1": {
+          "label": "Prix par semaine",
+          "value": "€ 1,495"
+        },
+        "row2": {
+          "label": "Prix par nuit",
+          "value": "€ 220"
+        },
+        "row3": {
+          "label": "Séjour minimum:",
+          "value": "6 nuits"
+        }
+      },
+      "special-rates": {
+        "title": "Promotion",
+        "row1": {
+          "label": "1 - 30 août 2019",
+          "value": "€ 1,200 par semaine"
+        },
+        "row2": {
+          "label": "15 novembre - 20 décembre 2019<",
+          "value": "€ 1,200 par semaine"
+        },
+        "footer": "Pour profiter de ces tarifs spéciaux, veuillez l'indiquer dans les commentaires de votre réservation."
+      },
+      "price-includes": {
+        "row1": "Le tarif comprend:",
+        "row2": "Logement pour un maximum de 4 personnes",
+        "row3": "Usage normal de l’appartement et de son équipement",
+        "row4": "Électricité, eau et chauffage",
+        "row5": "Accès internet (Wifi)",
+        "row6": "Appels gratuits aux numéros fixes en France et plus de 100 pays (hors numéros portables)",
+        "row7": "TV avec chaînes standards disponibles sur FreePlayer",
+        "row8": "Linge (draps et serviettes pour le nombre de personnes réservé)",
+        "row9": "Taxe de séjour"
+      },
+      "suplements": {
+        "row1": "Suppléments (à réserver d’avance)",
+        "row2": "Nettoyage supplémentaire: € 50/2 heures",
+        "row3": "Parking au garage: € 30/ semaine"
+
+      },
+      "rates-footer": "Cliquez ici pour nos conditions de location."
+    },
+    "gallery": {
+      "title": "Galerie de Photos",
+      "subtitle": "Bastille Boutique Flat",
+      "instruction": "Cliquez pour agrandir les photos... cliquez de nouveau pour revenir en arrière.",
+      "legend": {
+        "pic1": "Salon élégant",
+        "pic2": "Salon élégant",
+        "pic3": "Salon élégant",
+        "pic4": "Canapé-lit au bureau à côté du salon",
+        "pic5": "Bureau séparé du salon par porte en verre opaque",
+        "pic6": "Entrée lumineuse",
+        "pic7": "Lit ergonomique dans la chambre à coucher climatisée<",
+        "pic8": "Salle de bain luxueuse",
+        "pic9": "Douche italienne dans la salle de bain",
+        "pic10": "Coin petit déjeuner dans la cuisine équipée",
+        "pic11": "Vous trouverez tout nécéssaire pour cuisiner",
+        "pic12": "Relaxez-vous sur le balcon",
+        "pic13": "Vue sur Bastille depuis le port d'Arsenal à côté",
+        "pic14": "Vue sur la Seine, juste à 5 minutes à pied",
+        "pic15": "Courses au marchè à côté"
+      }
+    },
+    "video": {
+      "title": "Vidéo",
+      "subtitle": "Bastille Opera Apartment",
+      "instruction": "Cliquez ci-dessous, pour regarder une courte vidéo sur notre location meublée eu centre de Paris: Bastille Opera Apartment"
+    },
+    "book": {
+      "title": "Réserver en ligne",
+      "subtitle": "Bastille Opera Apartment",
+      "availability": "Calendrier de disponibilités",
+      "last-update": "Dernière mise-à-jour:",
+      "legend": "Légende:",
+      "available": "Disponible",
+      "reserved": "Occupé",
+      "minimum": "Séjour minimum: 6 nuits",
+      "form": {
+        "book-online": "Réservez en ligne",
+        "name": "Nom, Prénom",
+        "email": "E-mail",
+        "check-in": "Arrivée",
+        "check-out": "Départ",
+        "adults": "Adultes:",
+        "children": "Enfants:",
+        "comments": "Commentaires",
+        "send": "Envoyez",
+        "sent-message": "Votre message a été envoyé. Merci. Nous vous confirmons votre réservation sous 24 heures."
+      },
+      "footer": "License de Tourisme de Paris N°: 7511200122786"
+    },
+    "testimonials": {
+      "title": "Appréciations",
+      "subtitle": "Bastille Opera Apartment-location meublée au centre de Paris",
+      "instruction": "Qui mieux pour décrire notre appartement que ceux, qui y ont déjà séjourné ?",
+      "sub-instructions": "Voici les appréciations écrites de nos anciens clients, publiées en leur langue originale pour l’authenticité. Vous pouvez évidemment les traduire en utilisant un de services de traduction en ligne. Vous pouvez aussi les consulter directement sur les sites suivants : "
+    }
+  }
+}

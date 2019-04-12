@@ -1,0 +1,680 @@
+{
+  "NAVBAR": {
+    "home": "TERVETULOA",
+    "apartments": "LOMA-ASUNNOT",
+    "conditions": "EHDOT",
+    "about-you": "TIETOA MEISTÄ",
+    "faq": "FAQ",
+    "contact": "YHTEYS"
+  },
+  "HOME": {
+    "title": "Upeat loma-asunnot Pariisin keskustassa",
+    "main-card": "Loistava, rauhallinen sijainti aivan Pariisin keskustassa.\n Oiva vaihtoehto Pariisin lomallesi helpon kävelymatkan päässä moniin nähtavyyksiin, shoppailuun ja nauttimaan Pariisin romantiikasta. \n Tyyylikkâästi sisustetut vuokra-asunnot, joista löydät kaiken, mitä voit tarvita Pariisin oleskelusi aikana.",
+    "title-ap1": "Bastille Boutique Flat",
+    "price-ap1": "910€/viikko",
+    "text-ap1": " Viihtyisä loma-asunto Pariisin keskustassa, lähellä Bastillen aukiota ja Marais-kaupunginosaa.",
+    "title-ap2": "Bastille Opera Apartment",
+    "price-ap2": "1,495€/viikko",
+    "text-ap2": "  Valoa, tilaa ja tyyliä aivan Pariisin keskustassa. Vieressä: Bastille, Marais ja Gare de Lyon. Parveke. "
+  },
+  "APARTMENTS": {
+    "title": "Upea Pariisin loma-asuntosi.",
+    "subtitle": "Jos etsit tyylikästä asuntoa Pariisin oleskeluasi varten aivan Pariisin keskustasta, olet osunut oikeaan osoitteeseen. \n Tarkat asuntokuvaukset, hinnat ja varaukset sekä asiakkaidemme arvionnit niistä löydät klikkaamalla ylläolevaa kunkin asunnon kuvaa. ",
+    "features": {
+      "location": {
+        "title": "Paras sijainti Pariisin keskustassa",
+        "text": "Nauti Pariisin loma-asuntojemme parhaasta mahdollisesta sijainnista. Ne ovat aivan Pariisin keskustassa, mutta kuitenkin rauhallisella ja turvallisella kadulla. Siitä huolimatta ne ovat rauhallisia, niin että voit levätä kaikessa rauhassa. Kaikki Pariisin tärkeimmät nähtävyydet, kuten Louvre, Eiffel-torni, Notre Dame ja Le Marais'n kaupunginosa ovat joko kävelyetäisyydellä tai pääset niihin kätevästi bussilla tai metrolla."
+      },
+      "carefree": {
+        "title": "Huoleton Pariisin lomasi",
+        "text": "Haluamme, että Pariisin lomasi sujuu turvallisesti ja  huolettomasti. Pidämme huolen siitä, että viihdyt ja että voit nauttia kaikista huoneistoidemme mukavuuksista. \n Ennen matkaasi saat kaikki tarvtisemasi ohjeet löytääksesi perille ja saapuessasi selitämme joko itse (tai englantia puhuva edustajamme), kuinka pääset liikkumaan helposti kaupungilla. Samalla vastaamme tietenkiin kaikkiin mahdollisiin kysymyksiisi."
+      },
+      "security": {
+        "title": "Turvallisuus",
+        "text": "Suurkaupunkiin matkustettaessa sinun on hyvä tietää, että asuntomme sijaitsevat rauhallisiissa asuintaloissa. Voit luonnollisesti tehdä kaikki mahdolliset kysymyksesi meille jo etukäteen huolesi hälvyttämiseksi ja näiltä sivuilta löydät myös aiempien asukkaidemme puolueettomat arvostelut asunnoistamme. Turvallisuutesi tähden saat meiltä virallisen vuokrasopimuksen ja voit maksaa vuokrasi suomalaiselle pankkitilillemme tai PayPal-tilillemme."
+      },
+      "best-rates": {
+        "title": "Parhaat hinnat",
+        "text": "Vuokratessasi Pariisin loma-asuntosi suoraan meiltä, voit olla varma siitä, että saat sen aina edullisimpaan hintaan. Asuessasi vuokra-asunnossa hotellin sijaan säästät myös merkittäviä summia, koska sinun ei tarvitse mennä ulos ravintolaan syömään jokaisella ateriallasi. "
+      },
+      "zero-commissions": {
+        "title": "Ei provisioita",
+        "text": "Aina kun varaat Pariisin asuinpaikkasi suoraan näiltä sivuistoilta, vältyt myös kaikilta provisioilta, jotka voivat nousta peräti 15-20 prosenttiin, välittäjäsivustosta riippuen. Omistamme nämä asunnot itse, eikä sinun tarvitse käyttää mitään välikäsiä varatessasi Pariisin lomasi suoraan meiltä."
+      },
+      "special-discounts": {
+        "title": "Erikoistarjouksia",
+        "text": "Silloin kun varauskalenteriimme jää joitain aukkoja tai jos meillä on matalasesonki, teemme erikoistarjouksia. Löydät ne kunkin asunnon hinnastosivuilta. Käyttääksesi hyväksi näitä edullisia hintoja Pariisin matkallasi mainitse kyseinen erikoishinta varausta tehdessäsi."
+      },
+      "extra-services": {
+        "title": "Erikoispalveluita",
+        "text": "Tehdäksesi Pariisin matkastasi vielä muistorikkaamman tai mukavamman, pyydä meiltä tarjous erikoispalveluista, oista alla muutama esimerkki. Lue lisää"
+      },
+      "comfort": {
+        "title": "Mukavuudet",
+        "text": "Pariisin vuokra-asuntomme ovat kotisi matkasi aikana. Niinpä olemmekin varustaneet ne kaikkine mahdollisine tarvikeineen viihtyäksesi meillä, kuten kotonasi. Lue lisää"
+      },
+      "carpark": {
+        "title": "Pysäköinti",
+        "text": "Asuntorakennuksissamme on autotalli, josta voit varata parkkipaikan asuntosi yhteydessä. Tarkemmat tiedot löytyvät kunkin asunnon sivustolta."
+      },
+      "footer": "Tupakointi ei ole sallittua Pariisin loma-asunnoissamme, paitsi Bastille Opera Apartmentin parvekkeella.\n\nKotieläimet ei tervetulleita.",
+      "overview": {
+        "title": "Valitse mieleisesi Pariisin loma-asunto!",
+        "subtitle": "Allaolevasta nët nopean vertailun asuntojemme välillä. Tarkemmat tiedot, varauskalenteri ja niiden varaamista varten klikkaa kunkin asunnon nimeä ja pääset niiden sivuille.",
+        "table": {
+          "capacity": {
+            "label": "Henkilökapasitetti",
+            "ap1": "3 henkeä",
+            "ap2": "4 henkeä"
+          },
+          "size": {
+            "label": "Pinta-ala",
+            "ap1": "56m²",
+            "ap2": "80m²"
+          },
+          "bedrooms": {
+            "label": "Makuuhuoneita",
+            "ap1": "1",
+            "ap2": "2"
+          },
+          "beds": {
+            "label": "Makuuhuoneita",
+            "ap1": "Kaksoissänky + sohvasänky",
+            "ap2": "Ergonominen kaksoissänky + kaksoissohvasänky"
+          },
+          "price": {
+            "label": "Hinta/viikko",
+            "ap1": "€ 990",
+            "ap2": "€ 1,595"
+          },
+          "minimum": {
+            "label": "Minimum stay",
+            "ap1": "4 yötä",
+            "ap2": "6 yötä"
+          },
+          "internet": {
+            "label": "Internet, TV, Puhelin",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "kitchen": {
+            "label": "Täysinvarustettu keittiö",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "bathroom": {
+            "label": "Upea kylpyhuone",
+            "ap1": "Kylpyamme ja suihku",
+            "ap2": "Suihku"
+          },
+          "air-conditioning": {
+            "label": "Ilmastointi",
+            "ap1": "Erillinen ilmastointilaite (€30/viikko)",
+            "ap2": "Kiinteä, hiljainen ilmastointi päämakuuhuoneessa"
+          },
+          "garage": {
+            "label": "Autotalli",
+            "ap1": "30€/viikko",
+            "ap2": "30€/viikko"
+          }
+        }
+      }
+    }
+  },
+  "CONDITIONS": {
+    "title": "Vuokraehdot",
+    "subtitle": "Tästä löydät kätevät ja ennen kaikkea molemmille osapuolille turvalliset vuokraehdot loma-asuntoosi Pariisista. Voit varata sen meiltä turvallisesti ja helposti jollain seuraavista tavoista:",
+    "hint": "(2) Jonkun seuraavista Pariisin loma-asuntoja välittävän firman kautta:",
+    "title-list": "(1) Suoraan meiltä:",
+    "text1": "Varaa Pariisin vuokra-asuntosi kätevimmin täyttämällä kyseisen asunnon varauslomakkeen.",
+    "text2": "Vahvistamme varauksesi mahdollisimman pian, viimeistään vuorokauden sisällä.",
+    "text3": "Varauksen vahvistamiseksi tarvitsemme kahden yön ennakkomaksun, jota varten saat suomalaisen pankkitilimme numeron. Siihen asti, kunnes sitä ei ole maksettu, varausta ei ole vahvistettu, ja asunto voidaan vuokrata muille.",
+    "text4": "Jos haluat, saat meiltä vahvistuksena vuokrasopimuksen allekirjoitustasi varten. ",
+    "text5": "Yli viikon mittaisista varauksista pyydämme toisen vuokraennakon, 50% vuokrasummasta, 1 kk. ennen vuokran alkua. ",
+    "text6": " Your Rental Fee Balance is due in cash on arrival. For lonVuokran loppusumma maksetaan käteisellä asuntoon saavuttaessa, tai yli viikon vuokrauksissa se on myös mahdollista viikkoa ennen vuokran alkua pankkisiirtona.ger stays of more than a week, it can also be sent in advance.",
+    "text7": "500 euron vakuusmaksu maksetaan käteispanttina saapuessasi loma-asuntoosi Pariisiin tai etukäteispankkisiirtona. Se palautetaan lähdettyäsi asunnosta ja tarkastettuamme yhdessä, että mitään ei puutu eikä ole vahingoitettu oleskelusi aikana.",
+    "text8": "Vuokramaksut voi maksaa kätevästi ja luotettavasti suomalaiselle pankkitilillemme.",
+    "text9": "Peruutuskuluina perimme jo maksetut vuokraennakot.",
+    "hint-footer": "Huomaa, että kukin näistä välittäjistä soveltaa omia hintojaan ja ehtojaan, joihin sinun on suostuttava käyttäessäsi heidän palvelujaan"
+  },
+  "ABOUT-US": {
+    "title": "Miksi vuokrata Pariisin majoitus meiltä?",
+    "subtitle": "Kun valitset asuinvaihtoehdoksesi Pariisin loma-asuntomme, asut itse asiassa niiden suomalaisen omistajan kodissa.",
+    "text": "Asuntomme ovat siis täysin varustettuja ja sisustettu oman makumme mukaisesti: nykyaikaisia, tyylikkäitä ja ennen kaikkea mukavia.\n Loma-asunto antaa sinulle mahdollisuuden tuntea itsesi ei vain turistiksi, vaan lähes pariisilaiseksi käydessäsi ostoksilla lähikaupoissa tai torilla. Kotona voit sitten nauttia, mitä itse haluat aamupalaksesi, tai vaikka ottaa pienen välipalan.Asuntomme ovat siis täysin varustettuja ja sisustettu oman makumme mukaisesti: nykyaikaisia, tyylikkäitä ja ennen kaikkea mukavia. \nLoma-asunto antaa sinulle mahdollisuuden tuntea itsesi ei vain turistiksi, vaan lähes pariisilaiseksi käydessäsi ostoksilla lähikaupoissa tai torilla. Kotona voit sitten nauttia, mitä itse haluat aamupalaksesi, tai vaikka ottaa pienen välipalan.\nOman turvallisuutesi ja mukavuutesi takia voit tutustua varausehtoihin kaikessa rauhassa näillä sivustoilla ja maksaa vuokrasi suomalaiselle pankkitilillemme. \nLuonnollisesti voit tehdä kaikki asuntoihimme liittyvät kysymykset ja varauksesi suomeksi. \nJos emme itse ole paikalla ottamassa sinua vastaan saapuessasi, sinusta pitää huolen englantia puhuva henkilö. \n Oman turvallisuutesi ja mukavuutesi takia voit tutustua varausehtoihin kaikessa rauhassa näillä sivustoilla ja maksaa vuokrasi suomalaiselle pankkitilillemme. \n Luonnollisesti voit tehdä kaikki asuntoihimme liittyvät kysymykset ja varauksesi suomeksi. \nJos emme itse ole paikalla ottamassa sinua vastaan saapuessasi, sinusta pitää huolen englantia puhuva henkilö.",
+    "list":{
+      "text1": "Varaukset suoraan omistajalta, ilman turhia välikäsiä.",
+      "text2": "Turvallinen ja luotettava suomalainen omistaja. ",
+      "text3": "Yksilöllisiä palveluja ikimuistoisen Pariisin loman takaamiseksi.",
+      "text4": "Luotettavat edellisten asukkaiden arvionnit 5 tähden asunnoistamme"
+    } 
+  },
+  "FAQ": {
+    "title": "Usein kysyttyä (FAQ) Pariisin keskustan loma-asunnoistamme.",
+    "subtitle": "Tältä sivulta löydät vastauksia asiakkaidemme kaikkein useimmin tekemiin Pariisin asuntoihimme ja varauksiin liittyviin kysymyksiin. Ne on lajiteltu aihepiireittäin. Klikkaamalla niiden otsikoita kysymykset ja vastauksemme tulevat esille.",
+    "category":{
+      "amenities":"MUKAVUUDET JA VARUSTELU",
+      "arrivals": "SAAPUMINEN JA LÄHTÖ",
+      "reservations": "VARAUKSET JA PERUUTUKSET",
+      "payments":"MAKSUT",
+      "surroundings":"YMPÄRISTÖ JA SAAPUMINEN"
+    },
+    "amenities": {
+      "question1": {
+        "question": "Meidän on hieman vaikea liikkua ja nousta portaita. Kuinka vaikeaa meidän on päästä perille asuntoon",
+        "answer": "ariisin vuokra-asuntomme sijaitsevat moderneissa kerrostaloissa, jossa on hissi. Katutasolta on vain muutama matala porras, jonka vieressä on ramppi liikuntaesteisille."
+      },
+      "question2": {
+        "question": "Onko Pariisin asunnoissanne autotallia?",
+        "answer": "Kyllä, kaikkiin Pariisin keskustassa sijaitsiviin vuokra-asuntoihimme kuuluu parkkitila autotallissa, johon pääsee suoraan hissillä. (ennakkovarauksella, lisämaksusta)."
+      },
+      "question3": {
+        "question": "Onko Pariisin asunnoissanne hiustenkuivaajaa?",
+        "answer": "Kylpyhuoneesta löytyy paitsi hiustenkuivaaja, myös meikkauspeili."
+      },
+      "question4": {
+        "question": "Sisältyvätkö vuodevaatteet Pariisin loma-asuntojenne vuokrahintaan?",
+        "answer": "Kyllä, lakanat ja pyyhkeet varatulle henkilömäärälle kuuluvat Pariisin loma-asunnon vuokrahintaan. Jos tarvitsette ylimääräisiä, ottakaa meihin yhteyttä (lisämaksusta)."
+      },
+      "question5": {
+        "question": "Onko loma-asuntonne Pariisissa siisti ja hyvässä kunnossa?",
+        "answer": "Olemme hyvin ylpeitä Pariisin vuokra-asuntojemme korkeatasoisuudesta ja hyvästä kunnosta. Jos kuitenkin saapuessassi huomaat, että siivoushenkilökunnaltamme on jäänyt jotain puhdistamatta, ilmoita asiasta meille välittömästi. "
+      },
+      "question6": {
+        "question": "Meillä on kaksi lasta: 4- ja 9-vuotias, jotka haluamme ottaa mukaan Pariisin matkalle. Sopiiko asuntonne lapsiperheille?",
+        "answer": "Pariisin vuokra-asuntomme ovat tuskin paras vaihtoehto lapsiperheille sillä niissä on paljon teräviä kulmia sekä herkkiä pintoja. Jos lapsenne ovat kuitenkin hyvätapaisia ja tottuneita pitämään varansa, olette tietenkin tervetulleita."
+      },
+      "question7": {
+        "question": "Ajattelimme matkustaa puolivuotiaan vauvamme kanssa Pariisiin. Onko asunnoissa vauvansänkyä ja syöttötuolia?",
+        "answer": "Valitettavasti meillä ei ole vauvan varusteita."
+      },
+      "question8": {
+        "question": "Pariisin loma-asuntojenne kuvaukset miellyttävät meitä kovasti. Voimmeko tehdä varauksen neljälle aikuiselle?",
+        "answer": " Bastille Ooppera-asuntomme on tarpeeksi tilava neljälle hengelle ja siinä on kaksi parisänkyä: toinen makuuhuoneessa ja toinen olohuoneesta erotettavassa kirjastossa. Bastille Boutique-asuntomme vuodesohva on vain 140 cm leveä, joka saattaa olla liian kapea kahdelle aikuiselle. Siksi suosittelemme sitä asuntoa vain kolmelle aikuiselle. "
+      },
+      "question9": {
+        "question": "Onko asunossa puhelin, jolla voin soittaa kotiin Pariisin lomaltani?",
+        "answer": "Kyllä. Pariisin vuokra-asunnoissamme olevalla puhelimella voi soittaa rajattomasti suomalaisiin, ranskalaisiin ja yli 100 muissa maissa oleviin lankapuhelimiin (ei kännykkänumeroihin eikä maksullisiin palvelunumeroihin!). "
+      },
+      "question10": {
+        "question": "Voiko perheeni soittaa minulle Pariisiin asunnossa olevaan puhelimeen?",
+        "answer": "Kyllä, ilman muuta. Saapumisohjeissa, jonka lähetämme kuukautta ennen Pariisin matkaasi, löydät asunnon puhelinnumeron, jonka voit jättää kotiin ennen lähtöäsi. "
+      },
+      "question11": {
+        "question": "Onko teidän Pariisin vuokra-asunnoissa internet-yhteys?",
+        "answer": "Tottakai. Nopean laajakaista WLAN yhteyden ansiosta voit käyttää internettiä ja sähköpostia rajattomasti Pariisin oleskelusi ajan. Opera-asunnossa käytössäsi on myös tulostin."
+      },
+      "question12": {
+        "question": "Onko Pariisin loma-asunnoissanne ilmastointia? ",
+        "answer": "Pariisin ilma ei juuri koskaan ole niin hikinen, että tarvitsisi ilmastointia, varsinkin kun meillä voi nukkua ikkunat auki. Jos haluat, käytössäsi on kuitenkin seuraavat mahdollisuudet ilman viilentämiseksi: Bastille Boutique Flat:Liikkuva ilmastointilaite (lisämaksu € 30/viikko). Bastille Opera Apartment: Makuuhuoneessa on hiljainen ilmastointilaite. "
+      }
+    },
+    "arrivals": {
+      "question1": {
+        "question": "Saavumme ensimmäisellä aamulennolla Pariisiin. Pääsemmekö suoraan sisään asuntoon?",
+        "answer": "Tavallisesti päästämme uudet vieraat sisään klo 14.00 - 20.00. Aiemmista varauksista riippuen saattaa olla, että voimme päästää sinut sisään jo aiemmin. Joka tapauksessa pyrimme siihen, että ainakin voit jättää matkatavarasi asuntoon jo saapuessasi ja luovutamme asunnon sinulle siivottuna iltapäivällä.  Jos haluat taata varhaisemman sisääntuloajan voimme järjestää sen lisämaksusta. "
+      },
+      "question2": {
+        "question": "Tulemme Lontoosta Pariisiin Eurostar-junalla, joka saapuu klo 23.17. Pääsemmekö silloin vielä sisään asuntoon?",
+        "answer": "Tavallisesti päästämme uudet vieraat sisään klo 14.00 - 20.00. Vaikkemme olekaan hotelli ympärivuorokautisella henkilökunnalla, pyrimme joustamaan aikatauluissamme. Näin myöhäisen saapumisajan takia pyydämme sinua maksamaan vastaanottavan henkilön taksimatkan kotiin. "
+      },
+      "question3": {
+        "question": "Voitteko auttaa yksityiskuljetuksella lentokentältä?",
+        "answer": "Voimme suositella luotettavia lentokenttäkuljetusyhtiöitä, joiden palveluksia voit tilata suoraan netistä ja joka voi jättää sinut suoraan Pariisin keskustassa olevan loma-asuntosi eteen."
+      },
+      "question4": {
+        "question": "Kuinka saan asunnon avaimet?",
+        "answer": "Otamme sinut vastaan Pariisin loma-asunnossa aiemmin sovittuna ajankohtana, jolloin luovutamme avaimet tarkistettuamme vuokranmaksun ja takuupantin suoritukset sekä vuokrasopimuksen allekirjoituksen. Samalla selitämme (saattaa olla englanniksi), kuinka tärkeimmät laitteet asunnossa toimivat.  Noin kuukautta ennen oleskelusi alkua lähetämme sinulle yksityiskohtaiset Saapumisohjeet asuntoon löytääksesi perille ilman huolia."
+      },
+      "question5": {
+        "question": "Voinko kutsua vieraita asuntoon?",
+        "answer": "Asunto on kotisi Pariisin matkasi aikana, ja voit tietenkin kutsua sinne vieraita. Ota kuitenkin huomioon, että se sijaitsee rauhallisessa asuinrakennuksessa, jossa ei siedetä melua klo 22.00 jälkeen. Mahdollisten yövieraiden tapauksessa ota meihin yhteyttä liinavaatteiden ja pyyhkeiden varalta.  Asuntojen ilmoitettua maksimikapasiteettia ei saa kuitenkaan ylittää missään tapauksessa."
+      },
+      "question6": {
+        "question": "Onko minun siivottava Pariisin vuokra-asunto ennen lähtöäni?",
+        "answer": "Pyyydämme sinua jättämään asunnon lähtiessäsi suurinpiirtein samanlaiseen kuntoon kuin saapuessasi. Toisin sanoen, että vähintään roskat on korjattu kellarin roskapönttöön, astiat pesty ja laitettu kaappeihin ja huonekalut ovat alkuperäisillä paikoillaan. Loppusiivous Bastille Boutique Flatissa on ilmoitettu hinnastossa erikseen ja se korvaa vieraiden välisen perussiivouksen ja pesulakustannukset. Opera Apartmentissa loppusiivous sisältyy vuokrahintaan. "
+      },
+      "question7": {
+        "question": "Voinko tilata ylimääräistä siivouspalvelua oleskeluni aikana?",
+        "answer": "Kyllä, se on mahdollista (lisämaksusta)."
+      },
+      "question8": {
+        "question": "Voitteko auttaa minua opastettujen retkien varaamisessa Pariisin matkallani esim. Loiren laaksoon?",
+        "answer": "Voimme antaa erilaisten matkatoimistojen yhteystiedot, joista voi varata haluamanne retket."
+      },
+      "question9": {
+        "question": "Voitteko auttaa meitä sopivien ravintoloiden varauksissa?",
+        "answer": "Asunnosta löytyvään opaskansioon olemme keränneet valikoiman korttelimme suosikkiravintoloita. "
+      },
+      "question10": {
+        "question": "Haluaisimme mennä oopperaan Pariisin matkamme aikana. Voitteko auttaa lippujen hankinnassa?",
+        "answer": "Pariisin maailmankuulu Ooppera sijaitsee vain 10 kävelyminuutin päässä asunnostamme. Voit hankkia liput sinne suoraan netistä englanniksi, mutta pidä kiirettä!"
+      },
+      "question11": {
+        "question": "Pärjäämmekö loma-asunnossanne Pariisissa, vaikkemme osaakaan yhtään ranskaa?",
+        "answer": "Tottakai pärjäätte, jos teillä on vähänkin matkustuskokemusta. Voit hoitaa kaiken asunnonvuokraan liittyvän suomeksi kanssamme, ja lähetämme sinulle hyvissä ajoin ennen matkaasi yksityiskohtaiset saapumisohjeet. Saavuttuasi perille asuntoon, ellemme itse ole paikalla, edustajamme päästää sinut sisään ja neuvoo tärkeimmät asuntoon ja sen ympäristöön liittyvät yksityiskohdat englanniksi. Kätevästä opaskansiostamme löydät myös tärkeimpien kodinkoneiden käyttöohjeet englanniksi sekä runsaasti muita vinkkejä viihtyäksesi Pariisin kodissasi lomasi aikana. "
+      }
+    },
+    "reservation": {
+      "explanation": "Allaolevat tiedot koskevat ainoastaan suoria varauksia kanssamme. Jos olet varannut asunnon jokun välittäjän kautta, he soveltavat omia ehtojaan.",
+      "question1": {
+        "question": "Voimmeko jutella puhelimitse eräistä yksityiskohdista?",
+        "answer": "Se on tietenkin mahdollista. Lähetä meille viesti ylläolevan Yhteys-lomakkeen avulla ja ehdota sopiva keskusteluajankohta. (9.00-19.00 Ranskan aikaa) "
+      },
+      "question2": {
+        "question": "Mitä teen Pariisin loma- asunnon varaamiseksi?",
+        "answer": "Katso ensin varauskalenterista, onko haluamasi vuokra-asunto Pariisissa vapaa sinulle sopivana ajankohtana. Jos ne päivät on merkitty vihreänä, lähetä varauspyyntö siinä olevalla lomakkeella.  Vahvistettuamme asunnon vapaanaolemisen sinun on maksettava kahden yön vuokraennakko antamallemme suomalaiselle pankkitilille. Tämän jälkeen saat meiltä vuokrasopimuksen, ja varauksesi on lopullisesti vahvistettu."
+      },
+      "question3": {
+        "question": "Kuinka paljon etukäteen on syytä varata loma-asuntoni Pariisin keskustassa?",
+        "answer": "Monet kauempaa tulevat asiakkaamme varaavat asunnon jo melkein vuoden etukäteen, mutta tietenkin sen voi varata, milloin sopii. Katso vain varauskalenterista, milloin meillä on tilaa ja tee varauksesi sen mukaan."
+      },
+      "question4": {
+        "question": "Milloin varaukseni on sitova?",
+        "answer": "Maksettuasi kahden yön vuokraennakon varauksesi on vahvistettu, ja saat meiltä vuokrasopimuksen. "
+      },
+      "question5": {
+        "question": "Saisinko nähdä vuokrasopimuksen etukäteen?",
+        "answer": "Jos haluat nähdä vuokrasopimuksen etukäteen, voimme lähettää sinulle sopimusmallin pyydettäessä."
+      },
+      "question6": {
+        "question": "Mitä teen, jos joudun peruuttamaan Pariisin matkani?",
+        "answer": "Kehoitamme sinua ottamaan matkavakuutuksen korvaamaan mahdolliset matkasi peruutuskulut. Jos joudut peruuttamaan matkasi, ilmoita siitä meille mahdollisimman nopeasti. Valitettavasti emme voi palauttaa jo maksettuja vuokraennakoita, paitsi jos vain siirrät matkapäiviäsi toiseen ajankohtaan. "
+      },
+      "question7": {
+        "question": "Onko teillä jonkinlainen minimi-tai maksimivuokra-aika?",
+        "answer": "Bastille Boutique Flat: minimioleskelu: 4 yötä. Bastille Opera Apartment: minimioleskelu: 6 yötä. Pidempien vuokra-aikojen suhteen ole hyvä ja ota meihin yhteyttä.  "
+      }
+    },
+    "payments": {
+      "question1": {
+        "question": "Milloin Pariisin loma-asuntoni vuokra maksetaan?",
+        "answer": "Varauksen yhteydessä on maksettava kahden yön ennakkomaksu sen vahvistamiseksi. 50% vuokrasummasta maksetaan kuukausi ennen vuokra-ajan alkua. Vuokran loppusumma maksetaan joko viikkoa ennen vuokra-ajan alkua pankkisiirtona tai käteisellä asuntoon saavuttaessa.  "
+      },
+      "question2": {
+        "question": "Kuinka maksan Pariisin vuokrani?",
+        "answer": "Kätevin vuokranmaksutapa on pankkisiirto suomalaiselle tilillemme, jonka numeron saat vuokranvahvistuksen yhteydessä. Loppuvuokra maksetaan käteisellä asuntoon saavuttaessa, tai yli viikon vuokrista, pankkisiirtona etukäteen."
+      },
+      "question3": {
+        "question": "Voinko maksaa Visa-kortilla?",
+        "answer": "Valitettavasti meillä ei ole luottokorttivalmiutta ottaa vastaan maksuja. Jos haluat kuitenkin käyttää luottokorttia, se on mahdollista PayPalin kautta, mutta siitä tulee ylimääräinen 6% toimitusmaksu. "
+      },
+      "question4": {
+        "question": "Mikä on Vakuusmaksu?",
+        "answer": "Saapuessasi Pariisin loma-asuntoon tarvitsemme 500 euron vakuusmaksun käteispanttina tai etukäteispankkisiirtona. Se palautetaan tarkastettuamme yhdessä, että asunto on kunnossa."
+      }
+    },
+    "surroundings": {
+      "question1": {
+        "question": "Kuinka pitkä matka on Oopperaan?",
+        "answer": "Pariisin maailmankuulu Ooppera sijaitsee vain viiden minuutin kävelymatkan päässä asunnosta. Sitä ei kuitenkaan pidä sekoittaa Pariisin vanhaan oopperaan, joka tunnetaan myös Garnierin palatsin nimellä, joka on erikoistunut baletteihin. "
+      },
+      "question2": {
+        "question": "Kuinka turvallinen Bastillen alue on?",
+        "answer": "Bastillen kortteli on varsin vilkas Pariisin keskustan kortteli, jossa voi kulkea kaikessa rauhassa mihin vuorokauden aikaan tahansa. Samalla on kuitenkin syytä muistaa, että olemme suurkaupungissa, jossa voi tietenkin käydä huono tuuri, jos osut taskuvarkaan uhriksi. Sen takia on paras pitää aina varansa liikkuessasi Pariisissa pitämällä käsilaukku turvallisesti käsivarren alla eikä vapaasti heiluen, ja lompakko pois takataskusta etutaskuun.  Älä kuitenkaan pelästy, jos kuulet yhtäkkiä paljon poliisiautojen sireeneitä, sillä kaiken todennäköisyyden mukaan on kyseessä taas jostain mielenosoituksesta, joilla on tapana päättyä vallankumouksen historian mukaisesti Bastillen aukiolle. Väkijoukoista huolimatta kaikki sujuu yleensä rauhallisesti, mutta on ehkä hyvä pysyä vähän loitompana ja vaikka vain ottaa valokuvia tästä Pariisille tyypillisestä ilmiöstä. "
+      },
+      "question3": {
+        "question": "Kuinka kaukana on lähin kauppa?",
+        "answer": "Lähin valintamyymälä sijaitsee melkein asuntoasi vastapäätä tai lähimmän kulman takana, josta voit löytää kaiken tarvitsemasi puhumatta sanaakaan ranskaa, ja voit maksaa siellä suomalaiseslla luottokortilla. Sen lisäksi löydät lähistöltä apteekin, seteliautomaatin, lihakaupan ja tietenkin leipurin, josta saa päivittäin tuoretta leipää, patonkeja ja croissanteja. Älä missään tapauksessa unohda mennä kaksi kertaa viikossa olevalle korttelitorillemme, josta löydät tuoreimmat elintarvikkeet ja kaikenlaisia herkkuja värikkäässä ja vilkkaassa pariisilaisessa ilmapiirissä. "
+      },
+      "question4": {
+        "question": "Miten löydän Pariisin lentokentältä vuokra-asuntooni?",
+        "answer": "Lentokentältä pääset asuntoosi erilaisin kulkuneuvoin, riippuen budjetistasi ja mukavuudenhalustasi: yksityisautolla, taksilla, kimppataksilla, lentokenttäbussilla Gare de Lyonin asemalle, tai RER-junalla Gare du Nordiin, jossa voi vaihtaa metroon lähimmälle asemallemme 2-3 minuutin päähän asunnostamme. Noin kuukautta ennen saapumistasi lähetämme sinulle yksityiskohtaiset saapumisohjeet."
+      },
+      "question5": {
+        "question": "Ovatko julkiset kulkuneuvot kaukana?",
+        "answer": "Pariisissa on tiheä ja hyvintoimiva julkinen kulkuneuvoverkosto erilaisine lippuvaihtoehtoineen. Lähin metroasema on vain muutaman minuutin kävelymatkan päässä, kuten myös lähimmät bussipysäkit."
+      },
+      "question6": {
+        "question": "Kuinka voin tilata taksin Pariisin loma-asunnolle?",
+        "answer": "Asunnossa olevasta opaskansiosta löydät sekä puhelinnumeron että internet-linkin taksin tilaamista varten englanniksi."
+      }
+    }
+  },
+  "CONTACT": {
+    "title": "Yhteys",
+    "questions": "Kysymyksiä?",
+    "sub-questions": "Lähetä meille kysymyksesi allaolevan lomakkeen avulla.",
+    "reservations": "Varaus.",
+    "sub-reservations": "Jos haluat tehdä varauksen, tarkista ensin kyseisen asunnon saatavuus sen varauskalenterista ja lähetä sen jälkeen varauslomake meille varataksesi Pariisin loma-asuntosi.",
+    "sub-reservations2": "Mikäli sinulla on muuta kysyttävää, käytä allaolevaa lomaketta.",
+    "name": "Nimi",
+    "email": "Sähköposti",
+    "message": "Viesti",
+    "send-message": "Lähetä viesti",
+    "visit": "Käy Facebook-sivuillamme",
+    "other": "Muut loma-asuntomme:"
+  },
+  "BOUTIQUE":{
+    "menu":{
+      "apartment":"TERVETULOA",
+      "location":"SIJAINTI",
+      "rates":"HINNASTO",
+      "book":"VARAA TÄSTÄ",
+      "gallery": "GALLERIA",
+      "testimonials": "KOMMENTIT",
+      "video":"VIDEO"
+    },
+    "title":"Bastille Boutique Flat",
+    "main-text":{
+      "line1":"Upea loma-asunto Pariisin keskustassa!",
+      "line2":"Paras mahdollinen sijainti keskellä Pariisia vain muutaman korttelin päässä kuuluisalta Bastillen aukiolta ja sen Ooperalta, trendikkäästä Marais'ta ja sen kaikista gallerioista, muotiliikeistä ja kahviloista.",
+      "line3":"Ihanteellinen kaksio 1-3 hengelle kaikkine mukavuuksineen."
+    },
+    "features":{
+      "title":"Bastille Boutique Flat<",
+      "subtitle":"Tyylikäs loma-asunto Pariisin keskustassa.",
+      "down-subtitle":"Pariisin keskustassa sijaitsevassa 56 neliömetrin upeassa loma-asunnossamme voit nauttia kaikista nykyaikaisista mukavuuksista, vaikka asutkin historiallisesti merkittävän Bastillen kaupunginosan keskellä.",
+      "featrure1":{
+        "title":"Nuku hyvin!",
+        "text":"Mikä onkaan ihanampaa, kuin rentoutua ja nostaa jalat ylös asuntosi mukavalla sohvalla käveltyäsi koko päivän pitkin Pariisin katuja tai Louvren käytäviä? Vaikka asutkin aivan kaupungin keskustassa, voit nukkua vaikka ikkunat auki, sillä ne avautuvat rauhalliseen puutarhaan. Makuuhuoneessa on mukava parisänky ja olohuoneen sohvan voi kätevästi avata toiseksi parisängyksi (140 cm leveä). "
+      },
+      "featrure2":{
+        "title":"Ole kuin kotonasi!",
+        "text":"Vaikka oletkin matkoilla, meillä voit olla kuin kotonasi, omassa Pariisin loma-asunnossasi. Nauti sen valoisuudesta ja tyylikkäistä sisustusratkaisuista sekä luksus-kylpyhuuoneessa, jossa on suihkun lisäksi täysimittainen kylpyamme. Kaikki on suunniteltu viihtyvyyttäsi ja mukavuuttasi silmällä pitäen."
+      },
+      "featrure3":{
+        "title":"Valmista ruokaa, kuin kunnon ranskalainen kokki!",
+        "text":"Täysinvarustetussa keittiössämme voit tehdä joko kunnon ranskalaisen aterian tai jotain nopeasti lämmitettävää, sekä tietysti aamukahvin ja välipaloja. Siellä on mikroaaltouuni, uuni, keraaminen keittotaso, astianpesukone sekä kaikki muut tarvittavat keitto- ja tarjoiluvälineet."
+      },
+      "featrure4":{
+        "title":"Nauti oleskelustasi!",
+        "text":"Asunnossamme on kaikki nykyaikaiset mukavuudet kuten keskuslämmitys ja lämmin vesi (ei itsestäänselvyyksiä Ranskassa). Meillä on tietysti myös langaton internet-yhteys, televisio, DVD sekä radio. Tilavassa vaatehuoneessa on paljon säilytystilaa vaatteita ja matkalaukkuja varten. "
+      },
+      "featrure5":{
+        "title":"Pysy ajan tasalla!",
+        "text":"Tarkista vaikka Louvren museon aukioloajat tai Orsayn museon vaihtuvat näyttelyt tietokoneellasi, tabletillasi tai älypuhelimellasi nopean ja luotettavan internet-WLANin avulla. Soita kotiin ja anna viimeisimmät Pariisin kuulumisesi, sillä puhelut lankapuhelimiin Suomeen ovat meiltä ilmaisia (ei kännykkänumeroihin!). "
+      },
+      "featrure6":{
+        "title":"Pidä pää kylmänä! ",
+        "text":"Rauhallisessa asunnossamme voit hyvin nukkkua vaikka ikkunat auki. Jos tulet Pariisiin heinä-elokuussa, jolloin saattaa iskeä helleaalto, voit vuokrata ilmastointilaitteen, jonka avulla saat laskettua asunnon lämpötilan miellyttäväksi. "
+      },
+      "featrure7":{
+        "title":"Pysäköi autosi turvaan!",
+        "text":"Taloamme autotallista voit vuokrata parkkipaikan ja pitää autosi turvassa Pariisin oleskelusi aikana (lisämaksu:€ 30/viikko)."
+      }
+    },
+    "location":{
+      "title":"Ihanteellinen sijainti Pariisin keskustassa",
+      "main-text":{
+        "line1":"Bastille Boutique Flat-loma-asuntomme sijaitsee ihanteellisella paikalla Pariisin keskustassa. Meiltä pääset helposti jalkaisin lukuisiin nähtävyyksin kuten Notre Damen katedraaliin, Louvre-museoon sekä Marais-kortteliin ja sen Picasso-museoon.",
+        "line2":"Pariisin metro vie sinut nopeasti ympäri kaupunkia kauempanakin oleviin nähtävyyksiin, joihin pääsee myös kätevästi edestämme kulkevalla 69-bussilla, josta avautuu upeat näköalat pitkin Pariisin katuja. Lähimmät metroasemat ovat vain parin minuutin kävelymatkan päässä.",
+        "line3":"Bastillen aukiolla, joka aikoinaan oli Ranskan vallankumouksen päänäyttämöitä, on nykyään maailmankuulu Pariisin Ooppera. Lähikaduilta löydät lukemattomia kauppoja, baareja ja ravintoloita. ",
+        "line4":"Vain 5-10 kävelyminuutin päässä on myös kuuluisa Place des Vosges-aukio 1600-luvun alkupuoliskolta ja aivan sen kupeessa, viehättävä Hôtel de Sully. Tästä alkaa eräs Pariisin valloittavimmista kaupunginosista, le Marais, joka on tulvillaan jännittäviä kauppoja, gallerioita ja tietenkin kahviloita terasseineen, ravintoloita ja baareja. ",
+        "line5":"Kaikki ruokatarvikkeet löydät kätevästi melkein taloamme vastapäätä olevasta valintamyymälästä, jossa ei edes tarvitse osata ranskaa, ja ostoksetkin voi maksaa suomalaisella luottokortilla. Älä unohda kahdesti viikossa pidettävää värikästä katutoriamme. Se on hurmaava paikka tuoreimpien herkkujen ja hedelmien ostoksille!"
+
+      }
+    },
+    "rates":{
+      "title":"Vuokrahinnasto",
+      "subtitle":"Bastille Boutique Flat",
+      "price-table":{
+        "row1":{
+          "label":"Viikko",
+          "value":"€ 910"
+        },
+        "row2":{
+          "label":"Yö",
+          "value":"€ 140"
+        },
+        "row3":{
+          "label":"Pakollinen loppusiivous ja -pesulamaksu:",
+          "value":"€ 80"
+        },
+        "row4":{
+          "label":"Minimioleskelu",
+          "value":"4 yötä"
+        }
+      },
+      "special-rates":{
+        "title":"Erikoistarjous",
+        "row1":{
+          "label":"1. - 30. elokuuta 2019<",
+          "value":"€ 810 viikko"
+        },
+        "row2":{
+          "label":"15. marraskuuta - 20. joulukuuta 2019",
+          "value":"€ 700/ viikko"
+        },
+        "footer":"Halutessasi käyttää erikoistarjoustamme mainitse se varauksesi kommenteissa."
+      },
+      "price-includes":{
+        "row1":"Hintoihin sisältyy:",
+        "row2":"Asunnon ja sen varusteiden normaali käyttö korkeintaan 4 hengelle ",
+        "row3":"Sähkö, keskuslämmitys ja lämmin vesi",
+        "row4":"Langaton internet-laajakaistayhteys<",
+        "row5":"Ilmaiset puhelut lankapuhelimiin Ranskaan ja Suomeen ja yli 100 muuhun maahan. (ei kännykkänumeroihin eikä maksullisiin palvelunumeroihin)",
+        "row6":"Taulutelevisio, jossa mm. englanninkielisiä uutiskanavia",
+        "row7":"Vuodevaatteet ja pyyhkeet",
+        "row8":"Omistajan tai hänen englanninkielisen edustajan puhelinpäivystys hätätapauksissa",
+        "row9":"Paikalliset verot" 
+      },
+      "suplements":{
+        "row1":"Lisämaksusta: (varattava etukäteen)",
+        "row2":"Ilmastointilaite: € 30/viikko" ,
+        "row3":"Autopaikka autotallissa: € 30/viikko" 
+      },
+      "rates-footer":"Klikkaa tästä tutustuaksesi vuokraehtoihimme."
+    },
+    "gallery":{
+      "title":"Kuvagalleria",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Klikkaa kuvaa suurentaaksesi sen... ja klikkaa uudellen palataksesi takaisin.",
+      "legend":{
+        "pic1":"Viehättävä olohuone, jossa vuodesohva",
+        "pic2":"Olohuone",
+        "pic3":"Makuuhuone, jossa mukava tuplasänky",
+        "pic4":"Ylellinen kylpyhuone, jossa pesu-ja kuivauskone",
+        "pic5":"Tilava kylpyamme ja kattosuihku",
+        "pic6":"Eteinen ja keittiö",
+        "pic7":"Täysin varustettu keittiö",
+        "pic8":"Keittiön aamiaisnurkka",
+        "pic9":"Näkymä rauhalliseen puutarhaan",
+        "pic10":"Loistava sijainti Bastillen vieressä",
+        "pic11":"Mahtava ruokatori aivan vieressämme",
+        "pic12":"Maistuisiko juusto tai viini toriltamme?",
+        "pic13":"Mahtava ruokatori aivan vieressämme ",
+        "pic14":"Mahtava ruokatori aivan vieressämme ",
+        "pic15":"Bastille ja Arsenal-vierassatama"
+      }
+    },
+    "video":{
+      "title":"Video",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Klikkaa tästä nähdäksesi lyhyen amatöörivideon Bastille Boutique Flatista, Pariisin loma-asunnostamme. "
+    },
+    "book":{
+      "title":"Varaus",
+      "subtitle":"Bastille Boutique Flat",
+      "availability":"Varauskalenteri",
+      "last-update":"Viimeinen päivitys:",
+      "legend":"Merkkienselitys: ",
+      "available":"Vapaa",
+      "reserved":"Varattu",
+      "minimum":"Minimioleskelu: 4 yötä",
+      "form":{
+        "book-online":"Varaa tästä",
+        "name":"Nimi",
+        "email":"E-mail",
+        "check-in":"Saapuminen",
+        "check-out":"Lähtö",
+        "adults":"Aikuisia:",
+        "children":"Lapsia:",
+        "comments":"Lisätietoja",
+        "send":"Lähetä",
+        "sent-message":"Kiitos varauksestasi. Vahvistamme sen vuorokauden sisällä."
+      },
+      "footer":"Pariisin Turistilisenssi N°: 7511100122122"
+    },
+    "testimonials":{
+      "title":"Kommentit",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Kuka voisikaan kuvata paremmin asuntoamme, kuin siellä asuneet vieraamme?",
+      "sub-instructions":"Tässä muutamia heidän kokemuksiaan alkukielisinä, jotka voit myös lukea joiltain näistä varaussivustoilta: "
+    }
+
+  },
+  "OPERA":{
+    "menu":{
+      "apartment":"TERVETULOA",
+      "location":"SIJAINTI",
+      "rates":"HINNASTO",
+      "book":"VARAA TÄSTÄ",
+      "gallery": "GALLERIA",
+      "testimonials": "KOMMENTIT",
+      "video":"VIDEO"
+    },
+    "title":"Bastille Opera Apartment",
+    "main-text":{
+      "line1":"Tyylikäs, rauhallinen ja tilava asunto hyvinhoidetussa modernissa kerrostalossa keskellä Pariisia.",
+      "line2":"Runsaasti valoa ja upeat näkymät Pariisin kattojen ylle koko asunnosta tai sen parvekkeelta.",
+      "line3":"Nauti sen eLeganteista sisustusratkaisuista ja kaikista mukavuuksista, kuten ilmastoidun makuuhuoneen moottorisänkystä."
+    },
+    "features":{
+      "title":"Bastille Opera Apartment",
+      "subtitle":"Loma-asunto vaativimmillekin Pariisin keskustassa",
+      "down-subtitle":"Tässä 80m² luksusasunnossa voit nauttia kaikista nykyaikaisista mukavuuksista, vaikka asutkin aivan historiallisesti merkittävän Bastillen kaupunginosan keskellä, lähellä Seineä ja Gare de Lyonin asemaa.",
+      "featrure1":{
+        "title":"Nuku hyvin!",
+        "text":"Rauhallinen makuuhuoneemme takaa makoisat unet ergonomisen moottorisänkynsä ansiosta. Siellä on myös koneellinen ilmastointi. Olohuoneesta lasiovella eristettävissä olevan huoneen sohvan voi kätevästi avata toiseksi parisängyksi (160 cm leveä). Asuntomme sijaitsee rauhallisella sivukadulla, joten voitte nukkua ikkunat auki, vaikka olemmekin aivan Pariisin keskustassa."
+      },
+      "featrure2":{
+        "title":"Oiihdy lomakodissasi!",
+        "text":"Vaikka oletkin matkoilla, on tärkeää, että viihdyt omassa Pariisin loma-asunnossasi, kuin kotonasi. Nauti sen valoisuudesta, moderneista sisustusratkaisuista, parkettilattioista ja mukavasta parvekkesta, josta avautuu näköala Arsenalin vierassatamaan.  Kaikki on suunniteltu viihtyvyyttäsi ja mukavuuttasi silmällä pitäen."
+      },
+      "featrure3":{
+        "title":"Valmista ruokaa, kuin kunnon ranskalainen kokki!",
+        "text":"Rakastamme ruoanlaittoa ja niinpä keittiöstämme löydät kaiken mitä voit tarvita: mikroaaltouuni, uuni, keraaminen keittotaso, astianpesukone sekä kaikki muut tarvittavat keitto- ja tarjoiluvälineet. Pariisin loma-asunnossamme voit luoda mielesi mukaan joko kokonaisen ranskalaisen aterian tai vain jotain nopeasti lämmitettävää. "
+      },
+      "featrure4":{
+        "title":"Nauti oleskelustasi!",
+        "text":"Asunnossamme on kaikki nykyaikaiset mukavuudet kuten keskuslämmitys ja lämmin vesi ja kaksi WC:tä (ei itsestäänselvyyksiä Ranskassa). Meillä on tietysti myös langaton internet-yhteys, televisio, DVD sekä radio. Tilavassa vaatehuoneessa on paljon säilytystilaa vaatteita ja matkalaukkuja varten. "
+      },
+      "featrure5":{
+        "title":"Pysy ajan tasalla!",
+        "text":"Luotettavan ja nopean internet-WLANin avulla voit tarkistaa vaikka Louvren museon aukioloajat tai Orsayn museon vaihtuvat näyttelyt tietokoneellasi, tabletillasi tai älypuhelimellasi . Soita kotiin ja kerro viimeisimmät Pariisin kuulumisesi, sillä puhelut lankapuhelimiin Suomeen ovat meiltä ilmaisia (ei kännykkänumeroihin!). "
+      },
+      "featrure6":{
+        "title":"Pidä pää kylmänä! ",
+        "text":"Rauhallisessa asunnossamme voit hyvin nukkkua vaikka ikkunat auki ja saada hyvän läpivedon sen halki. Makuuhuoneessa on lisäksi tehokas ja hiljainen ilmastointilaite helleaallon yllättäessä."
+      },
+      "featrure7":{
+        "title":"Pysäköi autosi turvaan!",
+        "text":"Taloamme autotallista voit vuokrata parkkipaikan ja pitää autosi turvassa Pariisin oleskelusi aikana (lisämaksu:€ 30/viikko)."
+      }
+    },
+    "location":{
+      "title":"Pars mahdollinen sijainti Pariisin keskustassa",
+      "main-text":{
+        "line1":"Bastille Opera Apartment-loma-asuntomme sijaitsee ihanteellisella paikalla Pariisin keskustassa. Meiltä pääset helposti jalkaisin lukuisiin nähtävyyksin kuten Notre Damen katedraaliin, Louvre-museoon sekä Marais-kortteliin ja sen Picasso-museoon.",
+        "line2":"Pariisin metro vie sinut nopeasti ympäri kaupunkia kauempanakin oleviin nähtävyyksiin, joihin pääsee myös kätevästi edestämme kulkevalla 69-bussilla, josta avautuu upeat näköalat pitkin Pariisin katuja. Lähimmät metroasemat ovat vain parin minuutin kävelymatkan päässä.",
+        "line3":"Bastillen aukiolla, joka aikoinaan oli Ranskan vallankumouksen päänäyttämöitä, on nykyään maailmankuulu Pariisin Ooppera. Lähikaduilta löydät lukemattomia kauppoja, baareja ja ravintoloita. ",
+        "line4":"Vain 5-10 kävelyminuutin päässä on myös kuuluisa Place des Vosges-aukio 1600-luvun alkupuoliskolta ja aivan sen kupeessa, viehättävä Hôtel de Sully. Tästä alkaa eräs Pariisin valloittavimmista kaupunginosista, le Marais, joka on tulvillaan jännittäviä kauppoja, gallerioita ja tietenkin kahviloita terasseineen, ravintoloita ja baareja. ",
+        "line5":"Kaikki ruokatarvikkeet löydät kätevästi melkein taloamme vastapäätä olevasta valintamyymälästä, jossa ei edes tarvitse osata ranskaa, ja ostoksetkin voi maksaa suomalaisella luottokortilla. Älä unohda kahdesti viikossa pidettävää värikästä katutoriamme. Se on hurmaava paikka tuoreimpien herkkujen ja hedelmien ostoksille!"
+
+      }
+    },
+    "rates":{
+      "title":"Vuokrahinnasto",
+      "subtitle":"Bastille Opera Apartment",
+      "price-table":{
+        "row1":{
+          "label":"Viikko",
+          "value":"€ 1,495"
+        },
+        "row2":{
+          "label":"Yö",
+          "value":"€ 220"
+        },
+        "row3":{
+          "label":"Minimioleskelu",
+          "value":"6 yötä"
+        }
+      },
+      "special-rates":{
+        "title":"Erikoistarjous",
+        "row1":{
+          "label":"1. - 30. elokuuta 2019<",
+          "value":"€ 1,200 viikko"
+        },
+        "row2":{
+          "label":"15. marraskuuta - 20. joulukuuta 2019",
+          "value":"€ 1,200/ viikko"
+        },
+        "footer":"Halutessasi käyttää erikoistarjoustamme mainitse se varauksesi kommenteissa."
+      },
+      "price-includes":{
+        "row1":"Hintoihin sisältyy:",
+        "row2":"Asunnon ja sen varusteiden normaali käyttö korkeintaan 4 hengelle ",
+        "row3":"Sähkö, keskuslämmitys ja lämmin vesi",
+        "row4":"Langaton internet-laajakaistayhteys<",
+        "row5":"Ilmaiset puhelut lankapuhelimiin Ranskaan ja Suomeen ja yli 100 muuhun maahan. (ei kännykkänumeroihin eikä maksullisiin palvelunumeroihin)",
+        "row6":"Taulutelevisio, jossa mm. englanninkielisiä uutiskanavia",
+        "row7":"Vuodevaatteet ja pyyhkeet",
+        "row8":"Omistajan tai hänen englanninkielisen edustajan puhelinpäivystys hätätapauksissa",
+        "row9":"Paikalliset verot" 
+      },
+      "suplements":{
+        "row1":"Lisämaksusta: (varattava etukäteen)",
+        "row2":"Autopaikka autotallissa: € 30/viikko" 
+      },
+      "rates-footer":"Klikkaa tästä tutustuaksesi vuokraehtoihimme."
+    },
+    "gallery":{
+      "title":"Kuvagalleria",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Klikkaa kuvaa suurentaaksesi sen... ja klikkaa uudellen palataksesi takaisin.",
+      "legend":{
+        "pic1":"Elegantti olohuone",
+        "pic2":"Olohuone",
+        "pic3":"Olohuone",
+        "pic4":"Vuodesohva toisessa makuuhuonessa",
+        "pic5":"Vuodesohva liukuoven takana olohuoneesta",
+        "pic6":"Valoisa eteisaula",
+        "pic7":"Ergonominen sänky ilmastoidussa makuuhuoneessa",
+        "pic8":"Ihana kylpyhuone",
+        "pic9":"Kylpyhuonen suihkukaappi",
+        "pic10":"Täysinvarustetun keittiön aamiaisnurkka",
+        "pic11":"Kokkaa kuin ranskalainen kokki!",
+        "pic12":"Rentoudu parvekkeellamme",
+        "pic13":"Näköala Bastillelle viereisestä vierassatamasta",
+        "pic14":"Seinen rantabulevardi vain 5 kävelyminuutin päässä ",
+        "pic15":"Ostoksille viereiselle torillemme "
+      }
+    },
+    "video":{
+      "title":"Video",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Klikkaa tästä nähdäksesi lyhyen amatöörivideon Bastille Boutique Flatista, Pariisin loma-asunnostamme. "
+    },
+    "book":{
+      "title":"Varaus",
+      "subtitle":"Bastille Opera Apartment",
+      "availability":"Varauskalenteri",
+      "last-update":"Viimeinen päivitys:",
+      "legend":"Merkkienselitys: ",
+      "available":"Vapaa",
+      "reserved":"Varattu",
+      "minimum":"Minimioleskelu: 6 yötä",
+      "form":{
+        "book-online":"Varaa tästä",
+        "name":"Nimi",
+        "email":"E-mail",
+        "check-in":"Saapuminen",
+        "check-out":"Lähtö",
+        "adults":"Aikuisia:",
+        "children":"Lapsia:",
+        "comments":"Lisätietoja",
+        "send":"Lähetä",
+        "sent-message":"Kiitos varauksestasi. Vahvistamme sen vuorokauden sisällä."
+      },
+      "footer":"Pariisin Turistilisenssi N°: 7511200122786"
+    },
+    "testimonials":{
+      "title":"Kommentit",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Kuka voisikaan kuvata paremmin asuntoamme, kuin siellä asuneet vieraamme?",
+      "sub-instructions":"Tässä muutamia heidän kokemuksiaan alkukielisinä, jotka voit myös lukea joiltain näistä varaussivustoilta: "
+ }
+
+  }
+}

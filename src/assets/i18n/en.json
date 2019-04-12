@@ -1,0 +1,691 @@
+{
+  "NAVBAR": {
+    "home": "HOME",
+    "apartments": "APARTMENTS",
+    "conditions": "CONDITIONS",
+    "about-you": "ABOUT US",
+    "faq": "FAQ",
+    "contact": "CONTACT"
+  },
+  "HOME": {
+    "title": "Luxury Holiday Apartment in Central Paris.",
+    "main-card": "Best location in a safe residential area in the Centre of Paris.\n Perfect for sightseeing, shopping, restaurants & cafés and enjoying the romantic atmosphere of Paris.\n\nElegant Paris vacation rental apartments, where you'll feel at home, enjoying all modern comforts and our personal attention.",
+    "title-ap1": "Bastille Boutique Flat",
+    "price-ap1": "910€/week",
+    "text-ap1": " Exclusive short-term rental flat in the heart of Paris, next to Bastille & Marais. ",
+    "title-ap2": "Bastille Opera Apartment",
+    "price-ap2": "1495€/week",
+    "text-ap2": " Elegant vacation apartment in Central Paris next to Bastille, Marais & Gare de Lyon. Balcony. "
+  },
+  "APARTMENTS": {
+    "title": "Your short-term Holiday Apartment Rental in Paris.",
+    "subtitle": "Enjoy the conforts and luxury of our centrally located apartments in Paris. \nFor detailed descriptions, testimonials with five star ratings and on-line reservations, please click on the banners with their pictures above or through the Apartments overview .",
+    "features": {
+      "location": {
+        "title": "Location in Central Paris",
+        "text": "Enjoy the central location of our holiday apartments in Paris. Our flats are situated in a very central, safe and quiet residential area, with the calm you need after a day's sightseeing. All major sights of Paris, such as the Louvre, Eiffel Tower, Notre Dame and Le Marais are easily accessible by public transport, or even by foot."
+      },
+      "carefree": {
+        "title": "Carefree Holidays in Paris",
+        "text": "We want to make sure that you'll have a safe and carefree holiday at our vacation apartments, where you'll be assured of our personal attention and all the comfort you'd expect in a private home. \nOn your arrival at the apartment, you'll be greeted in English by our House Manager, who will provide you with all the information you may require for a perfect stay with us."
+      },
+      "security": {
+        "title": "Security",
+        "text": "Before choosing your vacation home in Paris, you'll have all the necessary information, including unbiased reviews by our previous guests on reliable booking engines. For your safety, both parties will sign a Rental Agreement at the time of reservation and all payments are made securely via PayPal, or via other trustworthy sites. All our apartments are located in secure residential buildings."
+      },
+      "best-rates": {
+        "title": "Best Rates",
+        "text": "You can be assured of the Best Rates by booking your short-term rental accommodation in Paris directly with us. Staying in our Paris holiday apartments is not only more convenient but also more economical than in a hotel room. Furthermore, you are free to enjoy your meals at your home, rather than eating out several times a day."
+      },
+      "zero-commissions": {
+        "title": "Zero Commissions",
+        "text": "By booking your Paris holiday rental apartment directly with us on-line, you'll pay no commissions to any agencies. We're the owners of our apartments and since you'll be dealing directly with us, there are no intermediaries involved. That means even more savings for you."
+      },
+      "special-discounts": {
+        "title": "Special Discounts",
+        "text": "Whenever we have a last-minute gap in our booking calendar we offer Special Discounted rates. Please check the Rental Tariffs section of our apartment pages for such Special deals."
+      },
+      "extra-services": {
+        "title": "Extra Services",
+        "text": "If you wish, we can help you with extra services that can make the difference for your very special holidays in Paris: Read more"
+      },
+      "comfort": {
+        "title": "Comfort",
+        "text": "Our short-term rental apartment is your home during your stay in Paris. That is why all our apartments are fully equipped with everything you'd wish at a home, such as: Read more"
+      },
+      "carpark": {
+        "title": "Car Park",
+        "text": "All our apartments have a garage in the same building that can be booked through advance notice. For conditions, please consult the rates section of each apartment."
+      },
+      "footer": "Smoking is not allowed in our apartments, except outside on the balcony of the Bastille Opera Apartment.\n\nNo pets, please.",
+      "overview": {
+        "title": "Apartments overview",
+        "subtitle": "Here you'll find a brief comparison between our two apartments. For further details, availability calendars and on-line reservations, please click on the name of each apartment:",
+        "table": {
+          "capacity": {
+            "label": "Maximum capacity",
+            "ap1": "3 persons",
+            "ap2": "4 persons"
+          },
+          "size": {
+            "label": "Size",
+            "ap1": "56m² / 603ft²",
+            "ap2": "80m² / 861ft²"
+          },
+          "bedrooms": {
+            "label": "Bedrooms",
+            "ap1": "1",
+            "ap2": "2"
+          },
+          "beds": {
+            "label": "Beds",
+            "ap1": "Double bed + sofa-bed",
+            "ap2": "Ergonomic double bed + double sofa-bed"
+          },
+          "price": {
+            "label": "Price/week",
+            "ap1": "€ 990",
+            "ap2": "€ 1,595"
+          },
+          "minimum": {
+            "label": "Minimum stay",
+            "ap1": "4 nights",
+            "ap2": "6 nights"
+          },
+          "internet": {
+            "label": "Internet, TV, Phone",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "kitchen": {
+            "label": "Fully equipped kitchen",
+            "ap1": "*",
+            "ap2": "*"
+          },
+          "bathroom": {
+            "label": "Luxurious bathroom",
+            "ap1": "Bathtub with shower",
+            "ap2": "Walk-in shower"
+          },
+          "air-conditioning": {
+            "label": "Air-conditioning",
+            "ap1": "Mobile A/C unit on wheels (€30/week)",
+            "ap2": "Fixed quiet A/C in master bedroom"
+          },
+          "garage": {
+            "label": "Garage",
+            "ap1": "30€ week",
+            "ap2": "30€ week"
+          }
+        }
+      }
+    }
+  },
+  "CONDITIONS": {
+    "title": "Short-term Rental Conditions",
+    "subtitle": "You can book your Paris Holiday Apartment safely and easily in one of these ways:",
+    "hint": "(2) Through one of the leading Paris Holiday Apartment Rental sites:",
+    "title-list": "(1) Direct with us:",
+    "text1": "Make your reservation easily and safely on-line by filling out the Booking Form of the apartment you're interested in.",
+    "text2": "We shall confirm it back to you immediately, latest within 24 hours. ",
+    "text3": " To secure your Paris holiday apartment reservation, a two nights’ deposit is required. ",
+    "text4": " Should you want to, we'll send you your Rental Agreement on receipt of your deposit, to be signed by both parties.",
+    "text5": " In case of stays that are longer than one week, a further deposit of 50% is due one month prior to your arrival.",
+    "text6": " Your Rental Fee Balance is due in cash on arrival. For longer stays of more than a week, it can also be sent in advance.",
+    "text7": " A cash security deposit of €500/$600 is required on your arrival at your Paris Holiday Rental Apartment, when we'll greet you and explain how everything works. This will be refunded in full at your departure, provided nothing is missing or damaged and the apartment is left in a condition similar to that on your arrival.",
+    "text8": " All payments for your Paris Vacation Rental can be made safely and easily via PayPal using your credit card, or international bank transfer.",
+    "text9": " In case of cancellations, payments already made remain non-reimbursable",
+
+    "hint-footer": "Please note that each of these sites apply their own tariffs, payment policies and booking procedures."
+  },
+  "ABOUT-US": {
+    "title": "Why choose us?",
+    "subtitle": "When you choose one of our Paris Holiday Apartments, you'll be renting Direct from the Owners.",
+    "text": "During your vacation in Paris, you'll be staying at one of our own homes, with all the amenities and attention to detail you'd expect at someone's home. We have decorated our apartments to suit our personal tastes: modern, comfortable and stylish. Thanks to our long experience in the hospitality business, we know the needs of travellers and will do our utmost to meet them. By renting direct from the Owners, our vacation rental apartments represent exceptionally good value. For your complete peace of mind, all our Booking Conditions are clearly specified in the Vacation Rental Agreement, and all payments can be made safely and securely via PayPal or international bank transfer.",
+    "list":{
+      "text1": "You'll be renting Direct from Owners, without agencies",
+      "text2": "Safety and peace of mind, through trustworthy reviews and payment sites",
+      "text3": "Special services to meet your individual needs",
+      "text4": "Enjoyable, carefree holidays in Paris for You!"
+    }
+  },
+  "FAQ": {
+    "title": "FAQ for our Paris Vacation Rentals",
+    "subtitle": "Click on one of the categories below for a list of questions made by our previous guests, followed by our answers.",
+    "category":{
+      "amenities":"AMENITIES",
+      "arrivals": "ARRIVAL & DEPARTURE",
+      "reservations": "RESERVATION & CANCELLATION",
+      "payments":"PAYMENTS",
+      "surroundings":"SURROUNDINGS & ARRIVAL"
+    },
+    "amenities": {
+      "question1": {
+        "question": "We’re a retired couple visiting Paris and have some trouble using steps. How easy is it to access the apartment?",
+        "answer": "Each of our short-term holiday rental apartments in Paris is located in a modern building with a lift / elevator. From the street level, you’ll have a couple of small steps until you reach the lift."
+      },
+      "question2": {
+        "question": "Is there a car park?",
+        "answer": "Yes, there is a car park in the building of our vacation rental apartments with a dedicated parking space for our flat (available by prior arrangement, against a supplement)"
+      },
+      "question3": {
+        "question": "Does your holiday apartment have a hair-dryer?",
+        "answer": "Yes. You'll also find a vanity mirror in the bathroom."
+      },
+      "question4": {
+        "question": "Is linen included in my Paris holiday rental?",
+        "answer": "Yes, your holiday rental fee includes bed linen for the number of guests reserved, as well as towels. Should you need extra ones during your stay, you can order them in advance or during your stay (supplement may apply)"
+      },
+      "question5": {
+        "question": "Are your holiday apartments in Paris in good condition and perfectly clean?",
+        "answer": "We take great pride in providing vacation rental apartments in Paris that are in good condition and clean. However, should you notice on your arrival that our cleaning staff may have omitted something, please advise your House Manager immediately, so that we can correct the situation for you."
+      },
+      "question6": {
+        "question": "We would like to visit Paris with our two children (4 and 9 years). Is your holiday apartment suitable for us?",
+        "answer": "To be honest, our Paris vacation rental flats may not be the ideal choice for families with young children, due to some sharp edges and fragile glass furniture. If you think that your children are well behaved and that you're prepared to assume full responsibility for eventual damages, you’re of course welcome to stay with us."
+      },
+      "question7": {
+        "question": "We’ll be travelling to Paris with our 6 months old baby. Do you provide any amenities for her?",
+        "answer": "Unfortunately, our holiday apartments in Paris don’t have any baby cots or other equipment for babies."
+      },
+      "question8": {
+        "question": "We love the pictures and description of your Paris rental flats. Can we make a booking for 4 adults?",
+        "answer": "The Bastille Opera Apartment is large enough for four adults. It has two double beds: one in the master bedroom, and another, convertible sofa-bed in the study that can be separated from the living room with a sliding glass door. \nAt the Bastille Boutique Flat, the sofa-bed is only 140 cm wide, which may be a bit narrow for two adults. This is why we recommend it for a maximum of 3 persons."
+      },
+      "question9": {
+        "question": "Is there a telephone in your holiday apartment, to call back home?",
+        "answer": "Yes, you can call using the phone in the phone in the apartment to fixed numbers in over 100 countries, including European Union, North America, Japan and Brazil. For a complete list of authorised destinations, please contact us."
+      },
+      "question10": {
+        "question": "Can my family call me from abroad to my Paris holiday apartment?",
+        "answer": "Yes, without any problems. There is a phone in the apartment, and we’ll give you its number with the Arrival Instructions, so that you can communicate it to your family, before leaving for Paris."
+      },
+      "question11": {
+        "question": "Is there Internet access in your Paris vacation flat?",
+        "answer": "Yes, each of our apartments has a high-speed Internet connection via wifi (WLAN), giving you e-mail and Internet access. In the Bastille Opera Apartment, there is also a printer."
+      },
+      "question12": {
+        "question": "Is there a safe in your Paris short-term rental apartment?",
+        "answer": "Unfortunately, we don't have a safe in our holiday apartments in Paris. At the same time, we would like to reassure you that our buildings are very secure and we haven't had any incidents. \nHowever, we advise all our guests to take a proper travel insurance, when travelling. Furthermore, please be careful when walking about carelessly at crowded metro or train stations or in the vicinity of some of the major tourist attractions, where pickpockets have been targeting innocent tourists these days."
+      }
+    },
+    "arrivals": {
+      "question1": {
+        "question": "My flight lands in Paris CDG Airport early in the morning. At what time can I check in?",
+        "answer": "Our standard check-in times of our Paris vacation rentals are between 14.00 and 20.00 hours. Depending on other reservations, we do of course our best to accommodate earlier hours, especially after a very long flight from overseas. As a minimum, we try to make sure that you can leave your luggage in the apartment in the morning, and you can go and have breakfast in a nearby café, while the cleaning is being finished. \nShould you wish to guarantee access to the rental flat in Paris on your arrival, please enquire about our special rates for early check-in."
+      },
+      "question2": {
+        "question": "Our Eurostar train from London arrives in Paris Gare du Nord after 11 pm. Can I still check-in at that time?",
+        "answer": "Our standard check-in times of our Paris vacation rentals are between 14.00 and 20.00 hours. Although we’re not a hotel with staff on hand 24 hours a day, we do of course our best to accommodate you this late. However, in this case, we ask you for a supplement to cover the taxi fare home for the person letting you in to the apartment."
+      },
+      "question3": {
+        "question": "Can you arrange for me to be picked up from the Paris Charles de Gaulle airport?",
+        "answer": "We can recommend you reliable English-speaking transfer companies, with whom you can book your pick-up and they can drop you off right in front of your sort-term rental apartment in Paris."
+      },
+      "question4": {
+        "question": "How will I get the keys to my Paris holiday rental apartment?",
+        "answer": "We will meet you on your arrival at your Paris vacation apartment and hand you the keys, after verification of the rental fee payment, as well as the security deposit. At the same time, we’ll explain you how everything works in your Paris vacation rental apartment. \nApproximately one month prior to your arrival, we shall inform you of the check-in procedures, and how to find the apartment."
+      },
+      "question5": {
+        "question": "Can I invite friends to my Paris vacation apartment during my stay?",
+        "answer": "Your vacation rental apartment is your home in Paris, and you are of course welcome to entertain your friends there. Note, however that since we are in a quiet residential building, no loud noise is tolerated after 22.00 at night, with due respect to our neighbours. If you wish to have additional guests sleeping over in the apartment, please contact us in advance, for necessary bedding and linen arrangements. \nIn no case can the maximum apartment occupancy be exceeded."
+      },
+      "question6": {
+        "question": "Do I have to clean the Paris holiday rental apartment prior to vacating it at the end of my vacation?",
+        "answer": "Do I have to clean the Paris holiday rental apartment prior to vacating it at the end of my vacation?"
+      },
+      "question7": {
+        "question": "Do you provide cleaning service of the Paris Holiday Apartment during my stay?",
+        "answer": "If you want additional cleaning service or to change your linen during your stay, we are pleased to offer you this (supplement)."
+      },
+      "question8": {
+        "question": "Can you help me with booking a sightseeing guide in Paris or a tour to the Chateaux de la Loire at the end of my stay in Paris?",
+        "answer": "We can advise you on various tour companies and private guides, with whom you can book the tour that best suits you."
+      },
+      "question9": {
+        "question": "Can you recommend us some good restaurants nearby in Paris?Does your holiday apartment have a hair-dryer?",
+        "answer": "In the House Book in your Paris Holiday Rental Apartment, you will find a listing of some of our favourite restaurants in the neighbourhood. \nShould you wish to book some special restaurants before your arrival, we’ll gladly help you with our recommendations."
+      },
+      "question10": {
+        "question": "We’d love to go to the Paris Opera during our stay. Can you help us with reservations?",
+        "answer": "The famous Paris Opera is located at just 10 minutes’ walk from our Paris vacation rental apartment. You can easily book tickets in English on-line, but be early!"
+      },
+      "question11": {
+        "question": "Even if we don’t speak French, do you think we can manage at your holiday apartment in Paris?",
+        "answer": "Don’t worry, as you can handle all the reservation correspondence in English, and the person greeting you on arrival at your Paris holiday apartment speaks perfect English. Furthermore, we can give you addresses of airport transfer and tour services, where you need not master any French."
+      }
+    },
+    "reservation": {
+      "explanation": "The conditions described here apply to reservations made directly with us. In case you are using one of the on-line booking and payment facilities of specialised Paris Holiday Apartment Rental companies such as tripadvisor, Homelidays, HolidayLettings, airbnb etc, please refer to the conditions and procedures described on their sites.",
+      "question1": {
+        "question": "Can we speak over the phone regarding some details of the sort-term rental apartment in Paris?",
+        "answer": "Yes, of course. We can naturally call you, as well. The best is to use the Contact link in the menu and send us message with a suggested time (9.00- 19.00 Paris time), when we should talk."
+      },
+      "question2": {
+        "question": "How shall I reserve my Paris vacation rental flat?",
+        "answer": "Simply check the Availability Calendar for one of the Central Paris Holiday Apartments on this site, and if the dates of your stay are shown in green, please send us a message. Once we’ve confirmed the availability and price, a two night’s deposit is required to secure your reservation."
+      },
+      "question3": {
+        "question": "How much ahead of time should I reserve my Paris holiday in your apartment?",
+        "answer": "You can make a reservation up to 12 months ahead of your stay. As you can see in the Availability Calendar, during peak travel seasons in Paris, most guests tend to book up to 6-9 months prior to their travel, but you can always check in the Availability Calendar and see, if the apartment of your choice is still available."
+      },
+      "question4": {
+        "question": "When is my reservation confirmed?",
+        "answer": "Your Paris Holiday Apartment reservation is confirmed after we have received your reservation deposit (2 nights)."
+      },
+      "question5": {
+        "question": "Can I see your Paris vacation Rental Agreement before making my reservation?",
+        "answer": "Yes, of course. Just to use the Contact link in the menu above and send us a message requesting a sample RentParisFlat Rental Agreement."
+      },
+      "question6": {
+        "question": "What happens, if I need to cancel my reservation for my vacation in Paris?",
+        "answer": "Please advise us soonest possible and send us a message cancelling your reservation. In case of a cancellation, the Reservation Deposit paid will be withheld, unless you just change the dates of your stay."
+      },
+      "question7": {
+        "question": "Do you have a minimum/maximum holiday apartment rental period in Paris?",
+        "answer": "Bastille Boutique Flat Minimum rental period: 4 nights. Bastille Opera Apartment: Minimum rental period: 7 nights \nFor longer stays, please consult us."
+      }
+    },
+    "payments": {
+      "question1": {
+        "question": "When do I have to pay the rental fee for my Paris Holiday apartment?",
+        "answer": "According to our standard terms of payment, a two nights’ deposit is required to secure a reservation, with a further 50% due one month prior to, and the balance latest on arrival."
+      },
+      "question2": {
+        "question": "How should I pay you for my Paris holiday rental flat?",
+        "answer": "The deposit payments can be made safely and easily either through international bank transfer (accepting all wire charges), or via PayPal using your credit card."
+      },
+      "question3": {
+        "question": "Can I pay my holiday apartment rental with my Visa Credit Card?",
+        "answer": "Unfortunately, we don’t have the facilities to accept Credit Cards. You can, however, use your Visa or MasterCard when paying via PayPal on-line (see above)."
+      },
+      "question4": {
+        "question": "Can I pay you for my Paris vacation accommodation with a US check?",
+        "answer": "Unfortunately, only French checks can be cashed in France, and therefore, we cannot accept payments with a foreign check."
+      },
+      "question5": {
+        "question": "What is the Security Deposit required for your Paris holiday apartment rentals?",
+        "answer": "On arrival, a cash security deposit of € 500 / $ 600 is required, to cover eventual damage made to the apartment or its furnishings during your stay. This will be refunded to you in full at departure, provided nothing is missing or damaged, and the apartment is left at similar condition as on arrival.\n"
+      }
+    },
+    "surroundings": {
+      "question1": {
+        "question": "Is the Bastille area in the centre of Paris around the Holiday Rental Apartment safe for walking around?",
+        "answer": "Yes, our short-term vacation rental apartments are located in a lively residential area of Central Paris, where you can walk around at any time without problems. At the same time, you should exert normal caution against eventual pickpockets, just like in any big city. \nDon’t be surprised, however, if at some point you see huge crowds and sounds of police cars. Most likely this means that there is some sort of a demonstration. This is a rather everyday affair at Bastille, due to its historical symbolism as the home of the French revolution over 200 years ago. It is advisable to stay a bit outside of the main crowds in case of a major agitation, although usually, everything goes very smoothly, despite the noise."
+      },
+      "question2": {
+        "question": "Are there supermarkets and grocery stores nearby your vacation rental flats in Paris?",
+        "answer": "Yes, you can find large very well stocked supermarkets at just a couple of minutes’ walk from our Paris Rental Apartments, and you need not master French, to get your shopping done. Although we are located right in the centre of Paris, be sure not to miss the famous street markets for a colourful display of freshest produce, many of them organic, and of course the nearby bakeries for their baguettes."
+      },
+      "question3": {
+        "question": "How do I get to your Paris Vacation Rental flat from Paris CDG airport?",
+        "answer": "You can choose one of the following alternatives for getting from Charles de Gaulle or Orly airport to your Paris Holiday Apartment apartment, depending on your budget and the level of comfort you wish: private chaffeur-driven car, normal taxi, shared shuttle service, coach service to Gare de Lyon, or the RER-train to Gare du Nord, with an onward metro connection to the station nearest to the apartment. Approximately one month prior to your arrival, you’ll receive detailed Arrival Instructions with more details on each alternative."
+      },
+      "question4": {
+        "question": "How far is it to public transportation; metro or bus from your Paris rental flat?",
+        "answer": "Central Paris has an excellent public transportation system with various forms of tickets and passes. From the apartment, you’ll find the nearest bus stop almost at your doorstep, and the nearest metro station at just 3-5 minutes walk."
+      },
+      "question5": {
+        "question": "How do I get a taxi, if I need one?",
+        "answer": "In the House Book that you’ll find in your Paris Vacation Rental Flat, you’ll find instructions for booking a taxi either via internet, or using the phone in the apartment that will put you through to an English-speaking taxi centre. You can also use some of the most popular smartphone applications to book your taxi, such as Uber."
+      },
+      "question6": {
+        "question": "How far is it to the Paris Opera from your Paris holiday apartment?",
+        "answer": "The Paris Opera is right at the Bastille square; at about 10 minutes walk from our apartments. This is however not to be confused the old Opera, also called Palais Garnier that is used for ballet performances."
+      }
+    }
+  },
+  "CONTACT": {
+    "title": "Contact us",
+    "questions": "Questions?",
+    "sub-questions": "Please do not hesitate to contact us for any questions you may have.",
+    "reservations": "Reservations.",
+    "sub-reservations1": "If you want to make a reservation, please check the availability of the apartment you're interested in and use the Book-on-Line Form of that apartment to reserve your Paris Holiday Apartment.",
+    "sub-reservations2": "For any other questions you may have, please use the form below.",
+    "name": "name",
+    "email": "email",
+    "message": "message",
+    "send-message": "send message",
+    "visit": "Visit us on Facebook",
+    "other": "Our other Vacation Rentals:"
+  },
+  "BOUTIQUE":{
+    "menu":{
+      "apartment":"APARTMENT",
+      "location":"LOCATION",
+      "rates":"RATES",
+      "book":"BOOK ON LINE",
+      "gallery": "GALLERY",
+      "testimonials": "TESTIMONIALS",
+      "video":"VIDEO"
+    },
+    "title":"Bastille Boutique Flat",
+    "main-text":{
+      "line1":"Enjoy all the comforts of contemporary urban living in our elegant flat, located in a charming and historical central Parisian neighbourhood.",
+      "line2":"Located in Central Paris, just a couple of blocks from the historic Bastille Square and its Opera, and Le Marais, with an endless choice of cafés, bars, and restaurants.",
+      "line3":"Perfect for 1-3 persons, with a comfortable double bed in the bedroom plus a sofa in the living room that can be quickly converted to another bed."
+    },
+    "features":{
+      "title":"Bastille Boutique Flat",
+      "subtitle":"Your best Holiday Rental in central Paris",
+      "down-subtitle":"In this luxurious 56m² / 603ft² flat, you can enjoy all the comforts of contemporary urban living in a charming and historical neighbourhood in the Centre of Paris.",
+      "featrure1":{
+        "title":"Sleep well",
+        "text":"Enjoy a good night's sleep in the Master Bedroom with a comfortable double (queen-size) bed, or in the sofa-bed for 1-2 persons in the living room. Being a very quiet apartment with large bay windows overlooking a calm garden, you can easily sleep with your windows open. "
+      },
+      "featrure2":{
+        "title":"Feel like at home",
+        "text":"Indulge yourself in the luxury of a spacious designer bathroom with two washbasins, heated towel rack and a large bathtub with a rain- and hand-held shower. Separate toilet. There is a spacious walk-in closet for storing suitcases, shoes, and for hanging all your clothes."
+      },
+      "featrure3":{
+        "title":"Cook like a French chef",
+        "text":"You can cook all your meals in the fully equipped kitchen with a vitroceramic cook-top (hob), oven, microwave, refrigerator and everything you need for preparing, cooking, and serving-up your meals."
+      },
+      "featrure4":{
+        "title":"We've thought of everything for you",
+        "text":"Your holiday apartment in Paris is your home, while here. That is why we have equipped it with your comfort and well-being in mind. Do enjoy the convenience of all modern amenities such as a washer/dryer, dishwasher and a hair-dryer, internet connection, telephone, etc. Unlike many older houses in Paris, here you need not worry about sufficient hot water or lacking shower pressure. In winter months, we naturally have central heating. "
+      },
+      "featrure5":{
+        "title":"Stay connected",
+        "text":"Check your e-mails or the opening hours of the Louvre or the Musée d'Orsay on your tablet or smart phone thanks to our high speed wifi internet connection (WLAN). Book your restaurant in Paris or call your family at home thanks to FREE phone calls available to landline numbers in over 100 countries. Listen to your favourite music on the radio / Hifi or watch TV with English-language news programmes or a film on the DVD. "
+      },
+      "featrure6":{
+        "title":"Cool down, if you need it",
+        "text":"Although you can easily sleep with your windows open, as our large bay windows open to a calm garden, we can provide you with a mobile air-conditioning unit on wheels in the unlikely case of a heatwave in Paris. "
+      },
+      "featrure7":{
+        "title":"Keep your car safe",
+        "text":"By prior arrangement, you can park your car safely and conveniently in the garage of our building, with direct lift access. (supplement:€ 30/week)."
+      }
+    },
+    "location":{
+      "title":"Best location in Central Paris",
+      "main-text":{
+        "line1":"The central location of our Bastille Boutique Flat makes it perfect to explore Paris. You can easily access many of the sights in Paris such as Notre Dame, Louvre or Le Marais by foot, or by public transport. ",
+        "line2":"The nearest métro stations are at just a couple of minutes and you'll find a bigger hub a bit further at Bastille, once the stage of the French revolution. Today, it houses the Paris Opéra and in the surrounding streets you'll find an endless choice of cafés, bars and restaurants.",
+        "line3":"Equally close, enjoy the romantic atmosphere of the most beautiful square in Paris, Place des Vosges and next to it, the charming Hôtel de Sully. This is where Le Marais starts, one of the trendiest districts in Paris, full of original fashion boutiques, art galleries, and of course, restaurants and bars.",
+        "line4":"Just at your doorsteps you'll find a couple of supermarkets and you should definitely not miss the true Parisian market on Thursdays and Sundays, with the freshest produce around: vegetables, fruit, seafood, poultry and meat, and of course, French baguettes!"
+
+      }
+    },
+    "rates":{
+      "title":"Short-term Rental Tariff",
+      "subtitle":"Bastille Boutique Flat",
+      "price-table":{
+        "row1":{
+          "label":"Price per week",
+          "value":"€ 910"
+        },
+        "row2":{
+          "label":"Price per night",
+          "value":"€ 140"
+        },
+        "row3":{
+          "label":"End-of-stay cleaning charge (compulsory)",
+          "value":"€ 80"
+        },
+        "row4":{
+          "label":"Minimum stay:",
+          "value":"4 nights"
+        }
+      },
+      "special-rates":{
+        "title":"Special Rates",
+        "row1":{
+          "label":"1 - 30 August 2019",
+          "value":"€ 810 per week"
+        },
+        "row2":{
+          "label":"15 November- 20 December 2019",
+          "value":"€ 700 per week"
+        },
+        "footer":"To make use of these special rates, please add a comment to your reservation."
+      },
+      "price-includes":{
+        "row1":"Prices include:",
+        "row2":"Accommodation for up to 4 persons ",
+        "row3":"Normal usage of all amenities and equipment of the apartment",
+        "row4":"Electricity, water and central heating",
+        "row5":"Wifi high-speed internet access",
+        "row6":"Free phone calls to land-lines in over 100 countries (not to mobiles or numbers with surcharges)",
+        "row7":"Cable TV covering local channels and selected News programs in English",
+        "row8":"Bed linen and towels for the number of guests booked",
+        "row9":"Local representative available by phone, should there be a problem" ,
+        "row10":"Local taxes"
+
+      },
+      "suplements":{
+        "row1":"Supplements (by prior arrangement)",
+        "row2":"Cleaning service: € 50/2 hrs.",
+        "row3":"Mobile air conditioning unit: € 30/week" ,
+        "row4":"Garage Parking: € 30/week"
+      },
+      "rates-footer":"Please click here for our Rental Conditions"
+    },
+    "gallery":{
+      "title":"Picture Gallery",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Click on any image thumbnail to enlarge... then click again to hide it.",
+      "legend":{
+        "pic1":"Living Room",
+        "pic2":"Living Room with convertible sofa-bed",
+        "pic3":"Comfortable double bed in bedroom",
+        "pic4":"Luxurious Bathroom with washer/dryer, hairdryer",
+        "pic5":"Full size bath and shower in Bathroom<",
+        "pic6":"Entry hall & kitchen",
+        "pic7":"Fully equipped kitchen",
+        "pic8":"Breakfast corner in the kitchen",
+        "pic9":"View overlooking quiet garden",
+        "pic10":"Convenient location at Bastille",
+        "pic11":"Shopping at nearby street market",
+        "pic12":"How about some cheese and wine from the market?",
+        "pic13":"Shopping at nearby street market ",
+        "pic14":"Shopping at nearby street market ",
+        "pic15":"Bastille and its Arsenal harbour leading to the Seine"
+      }
+    },
+    "video":{
+      "title":"Video",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Click below, to see video of Bastille Boutique Flat, one of our short-term rental vacation apartments in Paris"
+    },
+    "book":{
+      "title":"Book On Line ",
+      "subtitle":"Bastille Boutique Flat",
+      "availability":"Availability Calendar",
+      "last-update":"Latest update:",
+      "legend":"Legend:",
+      "available":"Available",
+      "reserved":"Reserved",
+      "minimum":"Minimum stay: 4 nights",
+      "form":{
+        "book-online":"Book Online",
+        "name":"Name",
+        "email":"E-mail",
+        "check-in":"Check-in",
+        "check-out":"Check-out",
+        "adults":"Adults",
+        "children":"Children",
+        "comments":"Comments",
+        "send":"Send",
+        "sent-message":"Thank you for your reservation. We shall confirm it back to you within 24 hours."
+      },
+      "footer":"Paris Tourist License N°: 7511100122122"
+    },
+    "testimonials":{
+      "title":"Testimonials",
+      "subtitle":"Bastille Boutique Flat",
+      "instruction":"Who better to describe our apartment, than guests who’ve already stayed with us?",
+      "sub-instructions":"Below, you can read their comments. You can also consult them directly at:"
+    }
+
+  },
+  "OPERA":{
+    "menu":{
+      "apartment":"APARTMENT",
+      "location":"LOCATION",
+      "rates":"RATES",
+      "book":"BOOK ON LINE",
+      "gallery": "GALLERY",
+      "testimonials": "TESTIMONIALS",
+      "video":"VIDEO"
+    },
+    "title":"Bastille Opera Apartment",
+    "main-text":{
+      "line1":"Elegant and spacious newly renovated designer's apartment for your holiday rental in the Centre of Paris. ",
+      "line2":"Full of light, strikingly contemporary style and artworks, stylish parquet floor, design furniture and all modern comforts, including air-conditioning in master bedroom.",
+      "line3":"Peaceful apartment for up to two couples who appreciate contemporary living in central Paris. Well maintained and quiet residential building."
+    },
+    "features":{
+      "title":"Bastille Opera Apartment",
+      "subtitle":"Your best Holiday Rental in central Paris",
+      "down-subtitle":"In this luxurious 80m² / 861ft² apartment, you can enjoy all the comforts of contemporary urban living in a charming and historical central Parisian neighbourhood, next to Bastille, Le Marais and Gare de Lyon.",
+      "featrure1":{
+        "title":"Sleep well",
+        "text":"Enjoy a good night's sleep in the air-conditioned Master Bedroom. It has a luxurious double (queen-size) bed with electronic controls for the headrest and leg panel, enabling maximum comfort and relaxation. In the study, which can be separated from the living room by a sliding door at night, there is a sofa that can be quickly converted into another comfortable full-size bed for two persons. "
+      },
+      "featrure2":{
+        "title":"Feel like at home",
+        "text":"Enjoy the space and the brightness of our apartment that has stylish parquet floors in all the living areas. The designer bathroom invites you to indulge in luxury with a walk-in shower, heated towel rack and a toilet. There is also a separate guest WC, where the washing/drying machine is located. A big walk-in closet has plenty of space for storing your suitcases, shoes, etc., and for hanging all your clothes."
+      },
+      "featrure3":{
+        "title":"Cook like a French chef",
+        "text":"During your stay you can of course cook and entertain your friends like a Parisian master chef in the fully equipped kitchen complete with everything you need for preparing, cooking and serving food, including fridge/freezer, oven, ceramic cook-top (hob), microwave and dishwasher."
+      },
+      "featrure4":{
+        "title":"We've thought of everything for you",
+        "text":"Your holiday apartment in Paris is your home, while here. That is why we have equipped it with your comfort and well-being in mind. Do enjoy the convenience of all modern amenities such as a washer/dryer, dishwasher and a hair-dryer, internet connection, telephone, etc. Unlike many older houses in Paris, here you need not worry about sufficient hot water or lacking shower pressure. In winter months, we naturally have central heating. "
+      },
+      "featrure5":{
+        "title":"Stay connected",
+        "text":"Check your e-mails or the opening hours of the Louvre or the Musée d'Orsay on your tablet or smart phone thanks to our high speed wifi internet connection (WLAN). Book your restaurant in Paris or call your family at home thanks to FREE phone calls available to landline numbers in over 100 countries. Listen to your favourite music on the radio / Hifi or watch TV with English-language news programmes or a film on the DVD. "
+      },
+      "featrure6":{
+        "title":"Cool down, if you need it ",
+        "text":"Being on a very quiet one-way street and a quiet garden on the bedroom side, you can easily keep your windows open all night. The master bedroom is also equipped with an efficient, silent air-conditioning unit. "
+      },
+      "featrure7":{
+        "title":"Keep your car safe",
+        "text":"By prior arrangement, you can park your car safely and conveniently in the garage of our building, with direct lift access. (supplement: € 30/week)."
+      }
+    },
+    "location":{
+      "title":"Best location in Central Paris ",
+      "main-text":{
+        "line1":"The central location of our Bastille Opera Apartment makes it an ideal place to explore Paris. You can easily access many of the sights in Paris such as Notre Dame, Louvre or Le Marais by foot, or by public transport. ",
+        "line2":"The nearest métro station is at just a couple of minutes and you'll find bigger hubs a couple of blocks further either at Gare de Lyon or at Bastille, once the stage of the French revolution. Today, it houses the Paris Opéra and in the surrounding streets you'll find an endless choice of cafés, bars and restaurants.",
+        "line3":"Equally close, do enjoy the special atmosphere of the most beautiful square in Paris, la Place des Vosges and next to it, the charming Hôtel de Sully. This is where Le Marais starts, one of the trendiest districts in Paris, full of original fashion boutiques, art galleries, and of course, restaurants and bars.",
+        "line4":"Within a few minutes’ walk you will find a selection of supermarkets, but you should definitely not miss a true colourful Parisian market, such as the one on rue Ledru-Rollin or at Bastille. You should also visit the nearby Place d’Aligre with its fabulous food hall and colourful outdoor market."
+
+      }
+    },
+    "rates":{
+      "title":"Short-term Rental Tariff",
+      "subtitle":"Bastille Opera Apartment",
+      "price-table":{
+        "row1":{
+          "label":"Price per week",
+          "value":"€ 1,495"
+        },
+        "row2":{
+          "label":"Price per night",
+          "value":"€ 220"
+        },
+        "row3":{
+          "label":"Minimum stay:",
+          "value":"6 nights"
+        }
+      },
+      "special-rates":{
+        "title":"Special Rates",
+        "row1":{
+          "label":"1 - 30 August 2019",
+          "value":"€1,200 per week"
+        },
+        "row2":{
+          "label":"15 November- 20 December 2019",
+          "value":"1,200 per week"
+        },
+        "footer":"To make use of these special rates, please add a comment to your reservation."
+      },
+      "price-includes":{
+        "row1":"Prices include:",
+        "row2":"Accommodation for up to 4 persons ",
+        "row3":"Normal usage of all amenities and equipment of the apartment",
+        "row4":"Electricity, water and central heating",
+        "row5":"Wifi high-speed internet access",
+        "row6":"Free phone calls to land-lines in over 100 countries (not to mobiles or numbers with surcharges)",
+        "row7":"Cable TV covering local channels and selected News programs in English",
+        "row8":"Bed linen and towels for the number of guests booked",
+        "row9":"Local representative available by phone, should there be a problem" ,
+        "row10":"Local taxes"
+
+      },
+      "suplements":{
+        "row1":"Supplements (by prior arrangement)",
+        "row2":"Cleaning service: € 50/2 hrs.",
+        "row3":"Garage Parking: € 30/week"
+      },
+      "rates-footer":"Please click here for our Rental Conditions"
+    },
+    "gallery":{
+      "title":"Picture Gallery",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Click on any image thumbnail to enlarge... then click again to hide it.",
+      "legend":{
+        "pic1":"Elegant Living Room",
+        "pic2":"Elegant Living Room",
+        "pic3":"Elegant Living Room",
+        "pic4":"Convertible sofa in the Study next to living room",
+        "pic5":"Study separated from Living Room by sliding door",
+        "pic6":"Bright entry hall",
+        "pic7":"Master Bedroom with ergonomic bed",
+        "pic8":"Luxurious Bathroom",
+        "pic9":"Walk-in shower in Bathroom",
+        "pic10":"Breakfast corner in the fully equipped kitchen",
+        "pic11":"Cook like a French chef in this lovely kitchen",
+        "pic12":"Relax on our charming Balcony",
+        "pic13":"View to Bastille from nearby visitors' harbour",
+        "pic14":"View on the Seine, at just 5 minutes walk",
+        "pic15":"Shopping at nearby street market "
+      }
+    },
+    "video":{
+      "title":"Video",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Click below, to see video of Bastille Opera Apartment, one of our short-term rental vacation apartments in Paris."
+    },
+    "book":{
+      "title":"Book On Line ",
+      "subtitle":"Bastille Opera Apartment",
+      "availability":"Availability Calendar",
+      "last-update":"Latest update:",
+      "legend":"Legend:",
+      "available":"Available",
+      "reserved":"Reserved",
+      "minimum":"Minimum stay: 6 nights",
+      "form":{
+        "book-online":"Book Online",
+        "name":"Name",
+        "email":"E-mail",
+        "check-in":"Check-in",
+        "check-out":"Check-out",
+        "adults":"Adults",
+        "children":"Children",
+        "comments":"Comments",
+        "send":"Send",
+        "sent-message":"Thank you for your reservation. We shall confirm it back to you within 24 hours."
+      },
+      "footer":"Paris Tourist License N°: 7511200122786"
+    },
+    "testimonials":{
+      "title":"Testimonials",
+      "subtitle":"Bastille Opera Apartment",
+      "instruction":"Who better to describe our apartment, than guests who’ve already stayed with us?",
+      "sub-instructions":"Below, you can read their comments. You can also consult them directly at:"
+    }
+
+  }
+
+
+}

@@ -1,26 +1,20 @@
-import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
+import {NgModule} from '@angular/core';
+import {RouterModule, Routes} from '@angular/router';
+import {OperaComponent} from "./components/opera/opera.component";
+import {BoutiqueComponent} from "./components/boutique/boutique.component";
+import {MainComponent} from "./components/main/main.component";
 
-import { AppComponent } from './app.component';
-import { NotFoundComponent } from './not-found.component';
 
 const routes: Routes = [
-  { path: '', loadChildren: './welcome/welcome.module#WelcomeModule' },
-  { path: '**', component: NotFoundComponent }
+  {path: '', redirectTo: '/main', pathMatch: 'full'},
+  {path: 'main', component: MainComponent},
+  {path: 'opera', component: OperaComponent},
+  {path: 'boutique', component: BoutiqueComponent}
 ];
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    NotFoundComponent,
-  ],
-  imports: [
-    RouterModule.forRoot(routes, {
-      initialNavigation: true,
-    }),
-  ],
-  exports: [
-    RouterModule,
-  ]
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {
+}
