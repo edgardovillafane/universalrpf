@@ -1,22 +1,31 @@
 .fondo {
-  background-image: url('../../../assets/home/foto4.jpg');
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  padding-top: 0px;
+  background-color: #713f009e;
+  background-blend-mode: soft-light;
+  transition: all 1200ms ease-in-out;
+
+}
+.fondo2 {
   width: 100%;
   min-height: 100vh;
   background-size: cover;
   padding-top: 20px;
   background-color: #713f009e;
   background-blend-mode: soft-light;
+  transition: all 1200ms ease-in-out;
 
 }
-
 mat-card.item {
-  background-color: rgba(255, 255, 255, 0.65);
+  background:linear-gradient(135deg, rgba(232, 210, 210, 0.81) 0%, rgba(245, 205, 144, 0.92) 100%);
   margin: 0 10px 10px 10px;
 }
 
 .main {
   background-color: rgba(255, 255, 255, 0);
-  margin: 0 10px 10px 10px;
+  margin: 0 20px 10px 10px;
   font-family: Roboto, sans-serif;
 }
 
@@ -32,11 +41,12 @@ mat-card.item {
 .main h1 {
   color: white;
   text-shadow: 0.03em 0.03em 0.04em black;
-  font-size: 34px;
+  font-size: 3em;
 }
 
 mat-card h2 {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 mat-card img {
@@ -44,7 +54,9 @@ mat-card img {
   margin: 0;
   box-shadow: 0 0 6px #00000061;
 }
-
+mat-card-content{
+  margin-bottom: 0;
+}
 mat-card-footer {
   padding: 15px;
   border-top: 1px solid #0000001a;
@@ -59,7 +71,7 @@ mat-card-footer {
   padding-left: 15px;
 }
 
-span mat-icon {
+.stars mat-icon {
   color: gold;
   text-shadow: 0.03em 0.03em 0.04em black;
 }
@@ -67,12 +79,16 @@ span mat-icon {
 div.beds mat-icon {
   color: #ca2a2a;
   text-shadow: 0.03em 0.03em 0.04em black;
+  margin-left: 0.1em;
 
 }
 
 .mat-card-footer button {
   float: right;
   font-size: 16px;
+  background-color: #ca2a2a;
+  color: white;
+  text-shadow: 0.03em 0.03em 0.04em white;
 }
 
 .content {
@@ -80,4 +96,25 @@ div.beds mat-icon {
   width: 90%;
   margin: 60px auto 30px auto;
   padding-bottom: 30px;
+
+}
+.title{
+  letter-spacing: 0em;
+  font-size: 1.2em;
+  margin-top: 10px;
+  color: #420f0fd9;
+}
+.colder{
+  float:right;
+}
+.colder h3{
+  font-size: 1.6em;
+  font-weight: bolder;
+  color: #420f0fd9;
+}
+.colizq{
+  float:left;
+}
+.clear{
+  clear: both;
 }

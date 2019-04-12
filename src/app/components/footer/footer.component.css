@@ -1,0 +1,21 @@
+:host{
+  background-color: black;
+  display: flex;
+  padding: 0 10%;
+
+}
+div{
+  font-family: Roboto, sans-serif;
+  color: #fff;
+}
+ul{
+  list-style: none;
+}
+li a{
+  color: #d04141;
+  text-decoration: none;
+}
+p{
+  text-align: center;
+  font-size: 0.7em;
+}

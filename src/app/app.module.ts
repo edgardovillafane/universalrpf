@@ -30,6 +30,7 @@ import {FlexLayoutModule} from "@angular/flex-layout";
 import {NgxPageScrollModule} from "ngx-page-scroll";
 import {TranslateHttpLoader} from "@ngx-translate/http-loader";
 import {TranslateLoader, TranslateModule} from "@ngx-translate/core";
+import { FooterComponent } from './components/footer/footer.component';
 
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
@@ -73,7 +74,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     ContactComponent,
     OperaComponent,
     BoutiqueComponent,
-    MainComponent
+    MainComponent,
+    FooterComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
