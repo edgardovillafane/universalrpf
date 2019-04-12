@@ -1,0 +1,103 @@
+<div>
+  <mat-toolbar>
+    <mat-toolbar-row>
+      <button mat-icon-button
+              fxShow="true"
+              fxHide.gt-sm
+              (click)="expand = !expand">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span>Rent Paris Flat</span>
+      <span class="example-spacer"></span>
+      <div fxShow="true"
+           fxHide.lt-md="true">
+        <!-- The following menu items will be hidden on both SM and XS screen sizes -->
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.apartment' | translate }}
+        </a>
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.location' | translate }}
+        </a>
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.rates' | translate }}
+        </a>
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.book' | translate }}
+        </a>
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.gallery' | translate }}
+        </a>
+        <a href="#" mat-button>
+        {{ 'BOUTIQUE.menu.testimonials' | translate }}
+      </a>
+        <a href="#" mat-button>
+          {{ 'BOUTIQUE.menu.video' | translate }}
+        </a>
+        <button mat-button [matMenuTriggerFor]="menu">LANGUAGE</button>
+        <mat-menu #menu="matMenu">
+          <button mat-menu-item>Inglés</button>
+          <button mat-menu-item>Francés</button>
+          <button mat-menu-item>Español</button>
+          <button mat-menu-item>Finés</button>
+        </mat-menu>
+      </div>
+    </mat-toolbar-row>
+  </mat-toolbar>
+
+  <mat-nav-list fxHide [fxShow]="expand">
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.apartment' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.location' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.rates' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.book' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.gallery' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.testimonials' | translate }}
+    </a>
+    <a href="#"
+       mat-list-item
+       (click)="expand = !expand">
+      {{ 'BOUTIQUE.menu.video' | translate }}
+    </a>
+    <button mat-button [matMenuTriggerFor]="menu">LANGUAGE</button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item (click)="setLanguage('en')">English</button>
+      <button mat-menu-item (click)="setLanguage('fr')">Frances</button>
+      <button mat-menu-item (click)="setLanguage('es')">Español</button>
+      <button mat-menu-item (click)="setLanguage('fi')">Suomi</button>
+    </mat-menu>
+    <a (click)="expand = !expand" mat-list-item>
+      <mat-icon>close</mat-icon>
+      Close
+    </a>
+  </mat-nav-list>
+<section class="main">
+  <h1>{{ 'BOUTIQUE.title' | translate }}</h1>
+  <p>{{ 'BOUTIQUE.main-text.line1' | translate }}</p>
+  <p>{{ 'BOUTIQUE.main-text.line2' | translate }}</p>
+  <p>{{ 'BOUTIQUE.main-text.line3' | translate }}</p>
+</section>
+
+
+</div>

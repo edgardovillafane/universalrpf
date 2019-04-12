@@ -1,0 +1,42 @@
+<div>
+  <header class="filtro">
+    <div class="head-title">
+      <h1>{{ 'CONTACT.title' | translate }}</h1>
+      <h3 [innerHTML]="'CONTACT.sub-questions' | translate"></h3>
+    </div>
+  </header>
+  <div class="content">
+
+    <p>
+      {{ 'CONTACT.sub-reservations1' | translate }}
+    </p>
+    <div class="form-container">
+      <mat-form-field>
+        <input
+          matInput
+          placeholder="{{'CONTACT.name'|translate}}">
+      </mat-form-field>
+      <mat-form-field>
+        <input
+          matInput
+          placeholder="{{'CONTACT.email'|translate}}">
+      </mat-form-field>
+
+      <mat-form-field>
+        <textarea
+          matInput
+          placeholder="{{'CONTACT.message'|translate}}">
+        </textarea>
+      </mat-form-field>
+
+      <button
+        mat-raised-button
+        color="primary">
+        {{'CONTACT.send-message'|translate}}
+      </button>
+
+    </div>
+    <br> <br>
+  </div>
+</div>
+

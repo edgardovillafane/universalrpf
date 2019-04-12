@@ -1,0 +1,100 @@
+.fondo {
+  background-image: url('../../../assets/home/foto2.jpg');
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding-top: 20px;
+  background-color: #ac6b11b0;
+  background-blend-mode: soft-light;
+  position: absolute;
+  z-index: 1;
+  box-sizing: border-box;
+
+}
+
+.filtro {
+  width: 100%;
+  background: linear-gradient(135deg, #ea24b1 0%, #ac6b11 100%);
+  z-index: 2;
+  opacity: 0.8;
+  box-sizing: border-box;
+
+
+}
+
+.head-title {
+  position: relative;
+  z-index: 3;
+  font-family: Roboto, sans-serif;
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+  color: white;
+  text-shadow: 0.06em 0.06em 0.06em #000000;
+  padding: 10px 0;
+}
+
+.head-title h3 {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.content {
+  position: relative;
+  z-index: 3;
+  color: black;
+  text-shadow: 0.03em 0.03em 0.03em #ffffff78;
+  padding: 50px 0;
+}
+
+::ng-deep mat-expansion-panel-header.main-faq {
+
+  padding: 15px 25px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #d91576d9;
+  text-shadow: 0.03em 0.03em 0.03em rgba(0, 0, 0, 0.3);
+
+
+}
+
+mat-expansion-panel-header b {
+  width: 100%;
+  height: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+mat-expansion-panel-header.mat-expanded {
+  height: auto !important;
+}
+
+mat-expansion-panel-header.mat-expanded b {
+  width: fit-content;
+  white-space: normal;
+  overflow: auto;
+  text-overflow: initial;
+}
+
+.mat-expansion-panel-body {
+  padding: 0 5px 52px 16px  !important;
+}
+
+mat-expansion-panel {
+  min-height: 48px !important;
+}
+
+::ng-deep .mat-expanded mat-expansion-panel-header mat-icon {
+  top: 0!important;
+  color: #cc4174;
+}
+
+::ng-deep .mat-expansion-panel-body mat-icon {
+  color: #bd3333;
+  margin-right: 5px;
+  position: relative;
+  top: 9px;
+
+}

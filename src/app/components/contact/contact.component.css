@@ -1,0 +1,84 @@
+.fondo {
+  background-image: url('../../../assets/home/foto2.jpg');
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding-top: 20px;
+  background-color: #ac6b11b0;
+  background-blend-mode: soft-light;
+  position: absolute;
+  z-index: 1;
+  box-sizing: border-box;
+
+}
+
+.filtro {
+  width: 100%;
+  background: linear-gradient(135deg, #ea24b1 0%, #ac6b11 100%);
+  z-index: 2;
+  opacity: 0.8;
+  box-sizing: border-box;
+
+
+}
+
+.head-title {
+  position: relative;
+  z-index: 3;
+  font-family: Roboto, sans-serif;
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+  color: white;
+  text-shadow: 0.06em 0.06em 0.06em #000000;
+  padding: 10px 0;
+}
+
+.head-title h3 {
+  font-size: 18px;
+  font-weight: normal;
+}
+.yellow{
+  color: #ac6b11!important;
+}
+.content {
+  font-family: Roboto, sans-serif;
+  padding-top: 20px;
+  width: 80%;
+  margin: 30px auto;
+  position: relative;
+  z-index: 3;
+  color: black;
+  text-shadow: 0.03em 0.03em 0.03em #ffffff78;
+}
+
+h2, p {
+  font-family: Roboto, sans-serif;
+  line-height: 1.75;
+
+}
+mat-icon {
+  top: 5px;
+  position: relative;
+  margin-right: 7px;
+  color: #e61574;
+  font-size: 18px;
+}
+ul li {
+  text-align: left;
+  margin-bottom: 10px;
+  list-style: none;
+
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container > * {
+  width: 100%;
+}
+::ng-deep .mat-form-field-label{
+   font-size: 20px!important;
+ }

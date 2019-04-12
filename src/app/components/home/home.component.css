@@ -1,0 +1,83 @@
+.fondo {
+  background-image: url('../../../assets/home/foto4.jpg');
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  padding-top: 20px;
+  background-color: #713f009e;
+  background-blend-mode: soft-light;
+
+}
+
+mat-card.item {
+  background-color: rgba(255, 255, 255, 0.65);
+  margin: 0 10px 10px 10px;
+}
+
+.main {
+  background-color: rgba(255, 255, 255, 0);
+  margin: 0 10px 10px 10px;
+  font-family: Roboto, sans-serif;
+}
+
+.main p {
+  color: white;
+  text-shadow: 0.03em 0.03em 0.04em black;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 44px;
+  letter-spacing: 0.02em;
+}
+
+.main h1 {
+  color: white;
+  text-shadow: 0.03em 0.03em 0.04em black;
+  font-size: 34px;
+}
+
+mat-card h2 {
+  margin-top: 0;
+}
+
+mat-card img {
+  width: 100%;
+  margin: 0;
+  box-shadow: 0 0 6px #00000061;
+}
+
+mat-card-footer {
+  padding: 15px;
+  border-top: 1px solid #0000001a;
+}
+
+.text-footer {
+  padding-right: 15px;
+  font-size: 14px;
+}
+
+.r-text {
+  padding-left: 15px;
+}
+
+span mat-icon {
+  color: gold;
+  text-shadow: 0.03em 0.03em 0.04em black;
+}
+
+div.beds mat-icon {
+  color: #ca2a2a;
+  text-shadow: 0.03em 0.03em 0.04em black;
+
+}
+
+.mat-card-footer button {
+  float: right;
+  font-size: 16px;
+}
+
+.content {
+  font-family: Roboto, sans-serif;
+  width: 90%;
+  margin: 60px auto 30px auto;
+  padding-bottom: 30px;
+}

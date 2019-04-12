@@ -1,0 +1,14 @@
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+mat-toolbar{
+  background-color: #000000c7;
+  color: white;
+  position: fixed;
+  z-index: 5;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
